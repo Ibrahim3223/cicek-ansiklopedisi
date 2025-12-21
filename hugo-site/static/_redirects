@@ -1,7 +1,8 @@
 # Backlink Redirects - Old URLs to New URLs
-# Note: /detay.asp redirects are handled by Cloudflare Function (functions/detay.asp.js)
+# Note: /detay.asp redirects are handled by client-side JavaScript (detay.html)
 # because they require query string matching
 
+/detay.asp  /detay.html  302
 /cicek/1348-Firca-calisi-cicegi.html  /bitki/firca-calisi/  301
 /cicek/mavi-fare-kulagi.html  /cicek/mavi-fare-kulagi/  301
 /cicek/1564-cobanpuskulu.html  /bitki/cobanpuskulu/  301
