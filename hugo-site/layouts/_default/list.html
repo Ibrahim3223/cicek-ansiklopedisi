@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  <main>
+    <!-- List Header -->
+    <section class="list-header">
+      <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p>{{ with .Description }}{{ . }}{{ else }}{{ .Title }} kategorisindeki tüm bitkiler{{ end }}</p>
+      </div>
+    </section>
+
+    <!-- List Content -->
+    <section class="list-content">
+      <div class="container">
+        <!-- Filter Buttons -->
+        <div class="list-filters">
+          <button class="filter-btn active" data-filter="all">Tümü</button>
+          <button class="filter-btn" data-filter="kolay">Kolay Bakım</button>
+          <button class="filter-btn" data-filter="orta">Orta Bakım</button>
+          <button class="filter-btn" data-filter="az-isik">Az Işık</button>
+          <button class="filter-btn" data-filter="cok-isik">Çok Işık</button>
+        </div>
+
+        <!-- Plants Grid -->
+        <div class="plants-grid">
+          {{ $paginator := .Paginate .Pages 24 }}
+          {{ range $paginator.Pages }}
+          <a href="{{ .Permalink }}" class="plant-card" data-bakim="{{ .Params.bakim_kolayligi | default "orta" | lower }}">
+            <div class="plant-card-image">
+              {{ if .Params.image }}
+              <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+              {{ else }}
+              <div class="no-image">🌱</div>
+              {{ end }}
+              {{ with .Params.bakim_kolayligi }}
+              <span class="plant-card-badge">{{ . }}</span>
+              {{ end }}
+            </div>
+            <div class="plant-card-content">
+              <h3>{{ .Title }}</h3>
+              {{ with .Params.latince }}
+              <p class="latin-name">{{ . }}</p>
+              {{ end }}
+              <div class="plant-card-meta">
+                {{ with .Params.tur }}
+                <span class="plant-tag">{{ . }}</span>
+                {{ end }}
+                {{ with .Params.isik }}
+                <span class="plant-tag">☀️ {{ . }}</span>
+                {{ end }}
+              </div>
+            </div>
+          </a>
+          {{ else }}
+          <div class="plant-card">
+            <div class="plant-card-image">
+              <div class="no-image">🌱</div>
+            </div>
+            <div class="plant-card-content">
+              <h3>Henüz içerik yok</h3>
+              <p class="latin-name">Yakında eklenecek</p>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+
+        <!-- Pagination -->
+        {{ if gt $paginator.TotalPages 1 }}
+        <nav class="pagination" aria-label="Sayfalama">
+          {{ if $paginator.HasPrev }}
+          <a href="{{ $paginator.Prev.URL }}" aria-label="Önceki sayfa">←</a>
+          {{ end }}
+
+          {{ range $paginator.Pagers }}
+          {{ if eq . $paginator }}
+          <span class="current">{{ .PageNumber }}</span>
+          {{ else }}
+          <a href="{{ .URL }}">{{ .PageNumber }}</a>
+          {{ end }}
+          {{ end }}
+
+          {{ if $paginator.HasNext }}
+          <a href="{{ $paginator.Next.URL }}" aria-label="Sonraki sayfa">→</a>
+          {{ end }}
+        </nav>
+        {{ end }}
+      </div>
+    </section>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

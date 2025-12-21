@@ -1,0 +1,58 @@
+# Environment variables - API anahtarları
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Hugo build output
+hugo-site/public/
+hugo-site/resources/
+hugo-site/.hugo_build.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Google credentials
+google-credentials.json
+scripts/google-credentials.json
+*-credentials.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node (eğer kullanılırsa)
+node_modules/
+package-lock.json
+
+# İndirilen görseller - büyük dosyalar
+# hugo-site/static/images/bitkiler/
+
+# Progress ve tracking dosyaları
+scripts/generation_progress.json
+scripts/indexed_urls.json
+scripts/image_download_progress.json

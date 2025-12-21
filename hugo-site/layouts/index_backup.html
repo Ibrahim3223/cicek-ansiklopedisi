@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-content">
+          <h1>🌱 Bitki & Çiçek Ansiklopedisi</h1>
+          <p>Ev bitkileri, bahçe çiçekleri, sukulentler ve daha fazlası. Detaylı bakım rehberleri ve uzman tavsiyeleri.</p>
+
+          <!-- Hero Search -->
+          <div class="hero-search">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.35-4.35"></path>
+            </svg>
+            <input type="text" id="hero-search-input" placeholder="Bitki veya çiçek ara... (örn: Monstera, Orkide)">
+          </div>
+
+          <!-- Stats -->
+          <div class="hero-stats">
+            <div class="stat-item">
+              <div class="stat-number" id="plant-count">500+</div>
+              <div class="stat-label">Bitki Türü</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">8</div>
+              <div class="stat-label">Kategori</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-number">100%</div>
+              <div class="stat-label">Ücretsiz</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories-section">
+      <div class="container">
+        <h2 class="section-title">Kategoriler</h2>
+        <p class="section-subtitle">İlgilendiğiniz bitki türünü seçin</p>
+
+        <div class="categories-grid">
+          <a href="/ev-bitkileri/" class="category-card ev-bitkileri">
+            <div class="category-icon">🪴</div>
+            <h3>Ev Bitkileri</h3>
+            <p>İç mekan bitkileri</p>
+          </a>
+
+          <a href="/bahce-bitkileri/" class="category-card bahce-bitkileri">
+            <div class="category-icon">🌷</div>
+            <h3>Bahçe Bitkileri</h3>
+            <p>Dış mekan çiçekleri</p>
+          </a>
+
+          <a href="/sukulent/" class="category-card sukulentler">
+            <div class="category-icon">🌵</div>
+            <h3>Sukulentler</h3>
+            <p>Etli yapraklı bitkiler</p>
+          </a>
+
+          <a href="/kaktus/" class="category-card kaktusler">
+            <div class="category-icon">🌵</div>
+            <h3>Kaktüsler</h3>
+            <p>Dikenli güzellikler</p>
+          </a>
+
+          <a href="/sifali-bitkiler/" class="category-card sifali-bitkiler">
+            <div class="category-icon">🌿</div>
+            <h3>Şifalı Bitkiler</h3>
+            <p>Doğal tedavi</p>
+          </a>
+
+          <a href="/sebzeler/" class="category-card sebzeler">
+            <div class="category-icon">🥬</div>
+            <h3>Sebzeler</h3>
+            <p>Sebze yetiştirme</p>
+          </a>
+
+          <a href="/meyveler/" class="category-card meyveler">
+            <div class="category-icon">🍎</div>
+            <h3>Meyveler</h3>
+            <p>Meyve ağaçları</p>
+          </a>
+
+          <a href="/cicek/" class="category-card bahce-bitkileri">
+            <div class="category-icon">🌸</div>
+            <h3>Tüm Çiçekler</h3>
+            <p>Çiçek koleksiyonu</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Popular Plants Section -->
+    <section class="plants-section">
+      <div class="container">
+        <h2 class="section-title">Popüler Bitkiler</h2>
+        <p class="section-subtitle">En çok aranan ve bakımı kolay bitkiler</p>
+
+        <div class="plants-grid">
+          {{ $plants := where .Site.RegularPages "Section" "bitki" }}
+          {{ $popularPlants := first 8 (sort $plants ".Params.populer" "desc") }}
+
+          {{ if $popularPlants }}
+            {{ range $popularPlants }}
+            <a href="{{ .Permalink }}" class="plant-card">
+              <div class="plant-card-image">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                {{ else }}
+                <div class="no-image">🌱</div>
+                {{ end }}
+                {{ if .Params.bakim_kolayligi }}
+                <span class="plant-card-badge">{{ .Params.bakim_kolayligi }}</span>
+                {{ end }}
+              </div>
+              <div class="plant-card-content">
+                <h3>{{ .Title }}</h3>
+                {{ with .Params.latince }}
+                <p class="latin-name">{{ . }}</p>
+                {{ end }}
+                <div class="plant-card-meta">
+                  {{ with .Params.tur }}
+                  <span class="plant-tag">{{ . }}</span>
+                  {{ end }}
+                  {{ with .Params.isik }}
+                  <span class="plant-tag">☀️ {{ . }}</span>
+                  {{ end }}
+                </div>
+              </div>
+            </a>
+            {{ end }}
+          {{ else }}
+            <!-- Placeholder cards when no plants exist yet -->
+            {{ range seq 8 }}
+            <div class="plant-card">
+              <div class="plant-card-image">
+                <div class="no-image">🌱</div>
+              </div>
+              <div class="plant-card-content">
+                <h3>Yakında Eklenecek</h3>
+                <p class="latin-name">Bitki bilgisi</p>
+              </div>
+            </div>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        <div class="text-center mt-8">
+          <a href="/bitki/" class="filter-btn" style="display: inline-block; padding: 1rem 2rem;">Tüm Bitkileri Gör →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Latest Flowers Section -->
+    <section class="categories-section">
+      <div class="container">
+        <h2 class="section-title">Son Eklenen Çiçekler</h2>
+        <p class="section-subtitle">En yeni eklenen çiçek türleri</p>
+
+        <div class="plants-grid">
+          {{ $flowers := where .Site.RegularPages "Section" "cicek" }}
+          {{ $latestFlowers := first 4 $flowers }}
+
+          {{ if $latestFlowers }}
+            {{ range $latestFlowers }}
+            <a href="{{ .Permalink }}" class="plant-card">
+              <div class="plant-card-image">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+                {{ else }}
+                <div class="no-image">🌸</div>
+                {{ end }}
+              </div>
+              <div class="plant-card-content">
+                <h3>{{ .Title }}</h3>
+                {{ with .Params.latince }}
+                <p class="latin-name">{{ . }}</p>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }}
+          {{ else }}
+            {{ range seq 4 }}
+            <div class="plant-card">
+              <div class="plant-card-image">
+                <div class="no-image">🌸</div>
+              </div>
+              <div class="plant-card-content">
+                <h3>Yakında Eklenecek</h3>
+                <p class="latin-name">Çiçek bilgisi</p>
+              </div>
+            </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    <!-- Care Tips Section -->
+    <section class="plants-section">
+      <div class="container">
+        <h2 class="section-title">Bitki Bakım İpuçları</h2>
+        <p class="section-subtitle">Bitkilerinizi sağlıklı tutmak için temel bilgiler</p>
+
+        <div class="categories-grid">
+          <div class="category-card">
+            <div class="category-icon" style="background: #fef3c7;">💧</div>
+            <h3>Sulama</h3>
+            <p>Toprağın kurumasını bekleyin, aşırı sulamadan kaçının</p>
+          </div>
+
+          <div class="category-card">
+            <div class="category-icon" style="background: #fef9c3;">☀️</div>
+            <h3>Işık</h3>
+            <p>Her bitkinin farklı ışık ihtiyacı vardır</p>
+          </div>
+
+          <div class="category-card">
+            <div class="category-icon" style="background: #dcfce7;">🌡️</div>
+            <h3>Sıcaklık</h3>
+            <p>18-24°C arası çoğu bitki için idealdir</p>
+          </div>
+
+          <div class="category-card">
+            <div class="category-icon" style="background: #e0e7ff;">💨</div>
+            <h3>Nem</h3>
+            <p>Tropik bitkiler yüksek nem sever</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

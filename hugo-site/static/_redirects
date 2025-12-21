@@ -1,0 +1,15 @@
+# Backlink Redirects - Old URLs to New URLs
+# Query string redirects for old detay.asp pages
+
+/detay.asp  /bitki/badem/  301
+/cicek/1348-Firca-calisi-cicegi.html  /bitki/firca-calisi/  301
+/cicek/mavi-fare-kulagi.html  /cicek/mavi-fare-kulagi/  301
+/cicek/1564-cobanpuskulu.html  /bitki/cobanpuskulu/  301
+/cicek/237-Kova-Burcu-Kardelen-cicegi.html  /cicek/kardelen/  301
+/husnu-yusuf-dianthus-barbatus/  /cicek/husnu-yusuf/  301
+/cicek/1458-Nevruz-cicegi-iris-persica-.html  /cicek/nevruz-cicegi/  301
+/ceset-cicegi-amorphophallus-titanum/  /cicek/ceset-cicegi/  301
+/egzema-tedavisi-icin-beyaz-dut-kurusu-kuru/  /bitki/beyaz-dut/  301
+
+# Note: Query string specific redirects are handled by matching the path only
+# Netlify will redirect /detay.asp?anything to /bitki/badem/

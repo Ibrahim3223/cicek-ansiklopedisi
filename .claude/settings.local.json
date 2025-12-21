@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(cat:*)",
+      "Bash(wc:*)",
+      "Bash(python generate_content.py:*)",
+      "Bash(python -c:*)",
+      "Bash(iconv:*)",
+      "Bash(python plants_database.py:*)",
+      "Bash(python download_images.py:*)",
+      "Bash(pip install:*)",
+      "Bash(hugo version:*)",
+      "Bash(hugo server:*)",
+      "Bash(ls:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)",
+      "Bash(timeout 120 python:*)",
+      "Bash(taskkill:*)",
+      "Bash(timeout 30 python:*)",
+      "Bash(echo:*)",
+      "Bash(netstat:*)",
+      "Bash(timeout 120 hugo server:*)",
+      "Bash(timeout 3 ping:*)",
+      "Bash(if not exist \"static\\\\images\\\\bitkiler\" mkdir staticimagesbitkiler)",
+      "Bash(python:*)",
+      "Bash(test:*)",
+      "Bash(hugo list:*)",
+      "Bash(hugo:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

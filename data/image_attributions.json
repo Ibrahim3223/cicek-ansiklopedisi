@@ -1,0 +1,3236 @@
+{
+  "monstera": {
+    "source": "iNaturalist",
+    "author": "(c) Freddy Othonier Perez Mar, all rights reserved, uploaded by Freddy Othonier Perez Mar",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122521"
+  },
+  "aloe-vera": {
+    "source": "iNaturalist",
+    "author": "(c) Luis, some rights reserved (CC BY-NC), uploaded by Luis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/126882"
+  },
+  "baris-zambagi": {
+    "source": "iNaturalist",
+    "author": "(c) Dick Culbert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/206271"
+  },
+  "echeveria": {
+    "source": "iNaturalist",
+    "author": "(c) The Ruth Bancroft Garden, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/153990"
+  },
+  "pothos": {
+    "source": "iNaturalist",
+    "author": "(c) Alex Ambrioso, all rights reserved, uploaded by Alex Ambrioso",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/69223"
+  },
+  "yilan-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) leewarren, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/67710"
+  },
+  "gul": {
+    "source": "iNaturalist",
+    "author": "(c) lamprisdimitris, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53438"
+  },
+  "orkide": {
+    "source": "iNaturalist",
+    "author": "(c) Tom Heijnen, some rights reserved (CC BY-NC), uploaded by Tom Heijnen",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/140477"
+  },
+  "firca-calisi": {
+    "source": "iNaturalist",
+    "author": "(c) Klaus Bohn, some rights reserved (CC BY-NC), uploaded by Klaus Bohn",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/72232"
+  },
+  "mavi-fare-kulagi": {
+    "source": "iNaturalist",
+    "author": "(c) Inge Biller, some rights reserved (CC BY-NC), uploaded by Inge Biller",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55826"
+  },
+  "cobanpuskulu": {
+    "source": "iNaturalist",
+    "author": "(c) cinclosoma, some rights reserved (CC BY-NC), uploaded by cinclosoma",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56121"
+  },
+  "kardelen": {
+    "source": "iNaturalist",
+    "author": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY), uploaded by Alexis Tinker-Tsavalas",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/51607"
+  },
+  "husnu-yusuf": {
+    "source": "iNaturalist",
+    "author": "(c) xulescu_g, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/60015"
+  },
+  "nevruz-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Irfan Ersin AKINCI, all rights reserved, uploaded by Irfan Ersin AKINCI",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/508422"
+  },
+  "lale": {
+    "source": "iNaturalist",
+    "author": "(c) Bette J Kauffman, all rights reserved, uploaded by Bette J Kauffman",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48891"
+  },
+  "badem": {
+    "source": "iNaturalist",
+    "author": "(c) antonio c, all rights reserved, uploaded by antonio c",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/69936"
+  },
+  "ceset-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Kempu Rajalambing Sebayang, all rights reserved, uploaded by Kempu Rajalambing Sebayang",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62194"
+  },
+  "beyaz-dut": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/56090"
+  },
+  "papatya": {
+    "source": "iNaturalist",
+    "author": "(c) Maria Emília Martins, some rights reserved (CC BY-NC-SA), uploaded by Maria Emília Martins",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/55563"
+  },
+  "karanfil": {
+    "source": "iNaturalist",
+    "author": "(c) Nayrut Carolai Bombilla Torres, all rights reserved, uploaded by Nayrut Carolai Bombilla Torres",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/83063"
+  },
+  "zambak": {
+    "source": "iNaturalist",
+    "author": "(c) Dayne Galash, some rights reserved (CC BY-NC), uploaded by Dayne Galash",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48928"
+  },
+  "nergis": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Kalaentzis, all rights reserved, uploaded by Konstantinos Kalaentzis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/53597"
+  },
+  "sumbul": {
+    "source": "iNaturalist",
+    "author": "(c) Samanta Conte, all rights reserved, uploaded by Samanta Conte",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/56137"
+  },
+  "menekse": {
+    "source": "iNaturalist",
+    "author": "(c) Paolo Mazzei, some rights reserved (CC BY-NC), uploaded by Paolo Mazzei",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55845"
+  },
+  "lavanta": {
+    "source": "iNaturalist",
+    "author": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61905"
+  },
+  "begonvil": {
+    "source": "iNaturalist",
+    "author": "(c) Martin LaBar, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53804"
+  },
+  "yasemin": {
+    "source": "iNaturalist",
+    "author": "(c) Joan Faiola, some rights reserved (CC BY-NC), uploaded by Joan Faiola",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82888"
+  },
+  "acelya": {
+    "source": "iNaturalist",
+    "author": "(c) Thomas Shellenberger, all rights reserved, uploaded by Thomas Shellenberger",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/49487"
+  },
+  "manolya": {
+    "source": "iNaturalist",
+    "author": "(c) 空猫 T. N, some rights reserved (CC BY-NC), uploaded by 空猫 T. N",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82096"
+  },
+  "cigdem": {
+    "source": "iNaturalist",
+    "author": "(c) Krylenko VV, some rights reserved (CC BY-NC), uploaded by Krylenko VV",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55770"
+  },
+  "kasimpati": {
+    "source": "iNaturalist",
+    "author": "(c) Ben Zerante, some rights reserved (CC BY-NC), uploaded by Ben Zerante",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56057"
+  },
+  "ortanca": {
+    "source": "iNaturalist",
+    "author": "(c) mtfoliveira, some rights reserved (CC BY-NC), uploaded by mtfoliveira",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/83157"
+  },
+  "aster": {
+    "source": "iNaturalist",
+    "author": "(c) Susan Elliott, some rights reserved (CC BY-NC), uploaded by Susan Elliott",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56112"
+  },
+  "can-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Leif Fryle, some rights reserved (CC BY-NC), uploaded by Leif Fryle",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48596"
+  },
+  "sardunya": {
+    "source": "iNaturalist",
+    "author": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/72281"
+  },
+  "petunya": {
+    "source": "iNaturalist",
+    "author": "(c) Thomas Shahan, some rights reserved (CC BY-NC), uploaded by Thomas Shahan",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/83892"
+  },
+  "hercai-menekse": {
+    "source": "iNaturalist",
+    "author": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY), uploaded by Alexis Tinker-Tsavalas",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/55760"
+  },
+  "inci-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48715"
+  },
+  "sakayik": {
+    "source": "iNaturalist",
+    "author": "(c) Xavier Béjar, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/58228"
+  },
+  "gelincik": {
+    "source": "iNaturalist",
+    "author": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/54404"
+  },
+  "begonya": {
+    "source": "iNaturalist",
+    "author": "(c) Lily, some rights reserved (CC BY-NC), uploaded by Lily",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/126405"
+  },
+  "gerbera": {
+    "source": "iNaturalist",
+    "author": "(c) Troos van der Merwe, some rights reserved (CC BY-NC), uploaded by Troos van der Merwe",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/322689"
+  },
+  "leylak": {
+    "source": "iNaturalist",
+    "author": "(c) Maja Dumat, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/47732"
+  },
+  "nermin-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) mmkimberly, some rights reserved (CC BY-NC), uploaded by mmkimberly",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48039"
+  },
+  "hanimeli": {
+    "source": "iNaturalist",
+    "author": "(c) Josué Amoroso, some rights reserved (CC BY-NC), uploaded by Josué Amoroso",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51874"
+  },
+  "akasya": {
+    "source": "iNaturalist",
+    "author": "(c) mjcorreia, all rights reserved, uploaded by mjcorreia",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/47452"
+  },
+  "erguvan": {
+    "source": "iNaturalist",
+    "author": "(c) Alenka Mihoric, some rights reserved (CC BY-NC), uploaded by Alenka Mihoric",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/153440"
+  },
+  "kamelya": {
+    "source": "iNaturalist",
+    "author": "(c) Ashix, all rights reserved, uploaded by Ashix",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/83058"
+  },
+  "fusya": {
+    "source": "iNaturalist",
+    "author": "(c) Ariel Cabrera Foix, some rights reserved (CC BY-NC-SA), uploaded by Ariel Cabrera Foix",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/54713"
+  },
+  "ates-dikeni": {
+    "source": "iNaturalist",
+    "author": "(c) Louise Forrest, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54052"
+  },
+  "yildiz-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) musicmanz, some rights reserved (CC BY-NC), uploaded by musicmanz",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/117443"
+  },
+  "pembe-cicek": {
+    "source": "iNaturalist",
+    "author": "(c) jonas_barzdenas, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/60001"
+  },
+  "mor-salkim": {
+    "source": "iNaturalist",
+    "author": "(c) Karen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/51267"
+  },
+  "cuha-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Данил романюта, some rights reserved (CC BY), uploaded by Данил романюта",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/55820"
+  },
+  "anemone": {
+    "source": "iNaturalist",
+    "author": "(c) Kostas Zontanos, some rights reserved (CC BY-NC), uploaded by Kostas Zontanos",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/883652"
+  },
+  "dahilya": {
+    "source": "iNaturalist",
+    "author": "(c) Roberto Rodriguez, some rights reserved (CC BY), uploaded by Roberto Rodriguez",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/58465"
+  },
+  "susen": {
+    "source": "iNaturalist",
+    "author": "(c) vladimir_epiktetov, some rights reserved (CC BY-NC), uploaded by vladimir_epiktetov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47780"
+  },
+  "hint-sumbulu": {
+    "source": "iNaturalist",
+    "author": "(c) Felipe Castilla Lattke, some rights reserved (CC BY-NC), uploaded by Felipe Castilla Lattke",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/64237"
+  },
+  "gladiol": {
+    "source": "iNaturalist",
+    "author": "(c) Dave McDonald, all rights reserved, uploaded by Dave McDonald",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/59945"
+  },
+  "frezya": {
+    "source": "iNaturalist",
+    "author": "(c) wiam_h, some rights reserved (CC BY-NC), uploaded by wiam_h",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/68333"
+  },
+  "ranunkul": {
+    "source": "iNaturalist",
+    "author": "(c) Whitney Brook Matson, some rights reserved (CC BY), uploaded by Whitney Brook Matson",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/48230"
+  },
+  "nilufer": {
+    "source": "iNaturalist",
+    "author": "(c) George Shepherd, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/51122"
+  },
+  "lotus": {
+    "source": "iNaturalist",
+    "author": "(c) bavery116, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82815"
+  },
+  "agac-sakayigi": {
+    "source": "iNaturalist",
+    "author": "(c) novnic, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/923636"
+  },
+  "yaban-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Mathieu Massaviol, some rights reserved (CC BY-NC-ND), uploaded by Mathieu Massaviol",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/55884"
+  },
+  "beyaz-gul": {
+    "source": "iNaturalist",
+    "author": "Ruff tuff cream puff, no known copyright restrictions (public domain)",
+    "license": "pd",
+    "url": "https://www.inaturalist.org/taxa/342132"
+  },
+  "kirmizi-gul": {
+    "source": "iNaturalist",
+    "author": "(c) Rosa_rubiginosa_mit_einigen_Knospen.jpg, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/78886"
+  },
+  "sari-gul": {
+    "source": "iNaturalist",
+    "author": "(c) Ann B, all rights reserved, uploaded by Ann B",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/118409"
+  },
+  "bahar-dali": {
+    "source": "iNaturalist",
+    "author": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/60580"
+  },
+  "kardelen-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) rupicapra, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55810"
+  },
+  "boz-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Valter Jacinto, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/53317"
+  },
+  "mine-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Sergey Mayorov, some rights reserved (CC BY-NC), uploaded by Sergey Mayorov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53022"
+  },
+  "sabun-otu": {
+    "source": "iNaturalist",
+    "author": "(c) t0ntie, all rights reserved, uploaded by t0ntie",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/56155"
+  },
+  "yildiz-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Forest and Kim Starr, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/56955"
+  },
+  "afrika-meneksesi": {
+    "source": "iNaturalist",
+    "author": "(c) Olaf Schäfer, all rights reserved, uploaded by Olaf Schäfer",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/927983"
+  },
+  "gloksinya": {
+    "source": "iNaturalist",
+    "author": "(c) Diego Monsores, some rights reserved (CC BY-NC), uploaded by Diego Monsores",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/281612"
+  },
+  "can-zambagi": {
+    "source": "iNaturalist",
+    "author": "(c) Emily Scherer, some rights reserved (CC BY-NC), uploaded by Emily Scherer",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51062"
+  },
+  "gece-sefasi": {
+    "source": "iNaturalist",
+    "author": "(c) miguel-de-escamps, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/50616"
+  },
+  "kus-cenneti": {
+    "source": "iNaturalist",
+    "author": "(c) icomei, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/48316"
+  },
+  "antoryum": {
+    "source": "iNaturalist",
+    "author": "(c) losbioinvestigadores, some rights reserved (CC BY-NC), uploaded by losbioinvestigadores",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/49181"
+  },
+  "bromelia": {
+    "source": "iNaturalist",
+    "author": "(c) geomanuel, some rights reserved (CC BY-NC), uploaded by geomanuel",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/49571"
+  },
+  "kala": {
+    "source": "iNaturalist",
+    "author": "(c) Jay Bird, all rights reserved, uploaded by Jay Bird",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/56009"
+  },
+  "amarilis": {
+    "source": "iNaturalist",
+    "author": "(c) Marcello Consolo, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/62429"
+  },
+  "cicek-sogani": {
+    "source": "iNaturalist",
+    "author": "(c) James Gaither, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/47357"
+  },
+  "safran": {
+    "source": "iNaturalist",
+    "author": "(c) Юрий Данилевский (Yuriy Danilevsky), some rights reserved (CC BY), uploaded by Юрий Данилевский (Yuriy Danilevsky)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/118933"
+  },
+  "sardunya-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Theodore, some rights reserved (CC BY-NC), uploaded by Theodore",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47701"
+  },
+  "kirmizi-karanfil": {
+    "source": "iNaturalist",
+    "author": "(c) maxpauel, some rights reserved (CC BY-NC), uploaded by maxpauel",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/161763"
+  },
+  "horozibigi": {
+    "source": "iNaturalist",
+    "author": "(c) Yuwaraj Gurjar, some rights reserved (CC BY-NC), uploaded by Yuwaraj Gurjar",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/127364"
+  },
+  "kugu-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) martind, some rights reserved (CC BY-NC), uploaded by martind",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55869"
+  },
+  "yaprak-gunesi": {
+    "source": "iNaturalist",
+    "author": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/57983"
+  },
+  "sebboy": {
+    "source": "iNaturalist",
+    "author": "(c) Víctor Huete Pelaez, some rights reserved (CC BY-NC), uploaded by Víctor Huete Pelaez",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/72228"
+  },
+  "zerrin": {
+    "source": "iNaturalist",
+    "author": "(c) Simon Nyholt Petersen, all rights reserved, uploaded by Simon Nyholt Petersen",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/72389"
+  },
+  "kadife-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) akhilesh, some rights reserved (CC BY-NC), uploaded by akhilesh",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/79312"
+  },
+  "portulak": {
+    "source": "iNaturalist",
+    "author": "(c) rafasl, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/58992"
+  },
+  "bes-parmak": {
+    "source": "iNaturalist",
+    "author": "(c) jroderick, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53186"
+  },
+  "yildiz-cicek": {
+    "source": "iNaturalist",
+    "author": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/72196"
+  },
+  "kina-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Mason Maron, all rights reserved, uploaded by Mason Maron",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/76237"
+  },
+  "tuylu-cicek": {
+    "source": "iNaturalist",
+    "author": "(c) amantedarmanin, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/120945"
+  },
+  "altin-top": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by Sara L Giles",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/62742"
+  },
+  "kirmizi-zambak": {
+    "source": "iNaturalist",
+    "author": "(c) sunoochi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/223665"
+  },
+  "beyaz-zambak": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Kalaentzis, all rights reserved, uploaded by Konstantinos Kalaentzis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/223666"
+  },
+  "sari-zambak": {
+    "source": "iNaturalist",
+    "author": "(c) Ángel Argüelles, some rights reserved (CC BY-NC), uploaded by Ángel Argüelles",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/207716"
+  },
+  "sus-sogani": {
+    "source": "iNaturalist",
+    "author": "(c) sybilmajo, some rights reserved (CC BY-NC), uploaded by sybilmajo",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56138"
+  },
+  "can-sumbulu": {
+    "source": "iNaturalist",
+    "author": "(c) fotis-samaritakis, some rights reserved (CC BY-NC), uploaded by fotis-samaritakis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/49149"
+  },
+  "yildiz-sumbulu": {
+    "source": "iNaturalist",
+    "author": "(c) Roberto Sindaco, some rights reserved (CC BY-NC-SA), uploaded by Roberto Sindaco",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/128726"
+  },
+  "tavus-kusu-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Aimée Estrada, all rights reserved, uploaded by Aimée Estrada",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/146596"
+  },
+  "kirlangic-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) LMM897, some rights reserved (CC BY-NC), uploaded by LMM897",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55758"
+  },
+  "gelincik-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48226"
+  },
+  "yaban-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Hannah Mews, some rights reserved (CC BY-NC), uploaded by Hannah Mews",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48628"
+  },
+  "gunduz-sefasi": {
+    "source": "iNaturalist",
+    "author": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1289388"
+  },
+  "aycicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/57983"
+  },
+  "ay-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Barsakis, all rights reserved, uploaded by Konstantinos Barsakis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/75931"
+  },
+  "kadife-dugmesi": {
+    "source": "iNaturalist",
+    "author": "(c) Melissa Hutchison, all rights reserved, uploaded by Melissa Hutchison",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/323539"
+  },
+  "kaplan-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) williamdomenge9, all rights reserved, uploaded by williamdomenge9",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/49524"
+  },
+  "kelebek-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Peter Peterson, all rights reserved, uploaded by Peter Peterson",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/156216"
+  },
+  "igde-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Margarita Lankford, some rights reserved (CC BY-NC), uploaded by Margarita Lankford",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/64696"
+  },
+  "ballibaba": {
+    "source": "iNaturalist",
+    "author": "(c) Marty, some rights reserved (CC BY-NC-ND), uploaded by Marty",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/84281"
+  },
+  "cam-guzeli": {
+    "source": "iNaturalist",
+    "author": "(c) Ramesh Shenai Jr., some rights reserved (CC BY), uploaded by Ramesh Shenai Jr.",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/47889"
+  },
+  "dev-papatya": {
+    "source": "iNaturalist",
+    "author": "(c) Donna Pomeroy, some rights reserved (CC BY-NC), uploaded by Donna Pomeroy",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77719"
+  },
+  "kasimpati-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) nanhu3742, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53808"
+  },
+  "ebegumeci": {
+    "source": "iNaturalist",
+    "author": "(c) Eridan Xharahi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/55978"
+  },
+  "hatmi-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Σάββας Ζαφειρίου (Savvas Zafeiriou), some rights reserved (CC BY-NC), uploaded by Σάββας Ζαφειρίου (Savvas Zafeiriou)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/62205"
+  },
+  "gul-hatmi": {
+    "source": "iNaturalist",
+    "author": "(c) Bette J Kauffman, all rights reserved, uploaded by Bette J Kauffman",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48891"
+  },
+  "cennet-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) jrebman, some rights reserved (CC BY-NC), uploaded by jrebman",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48319"
+  },
+  "can-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Judy Gallagher, some rights reserved (CC BY-SA), uploaded by Judy Gallagher",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/124842"
+  },
+  "yasemin-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) thehaplesshiker, some rights reserved (CC BY-NC), uploaded by thehaplesshiker",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/155898"
+  },
+  "arap-yasemini": {
+    "source": "iNaturalist",
+    "author": "(c) 曾云保, all rights reserved, uploaded by 曾云保",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/135425"
+  },
+  "yildiz-yasemin": {
+    "source": "iNaturalist",
+    "author": "(c) Dinesh Valke, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/164231"
+  },
+  "kis-yasemini": {
+    "source": "iNaturalist",
+    "author": "(c) viviancui, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/164232"
+  },
+  "hint-yasemini": {
+    "source": "iNaturalist",
+    "author": "(c) Lara Lowis, some rights reserved (CC BY-NC), uploaded by Lara Lowis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/278277"
+  },
+  "madagaskar-yasemini": {
+    "source": "iNaturalist",
+    "author": "(c) Mauricio Mercadante, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/339916"
+  },
+  "gece-kralicesi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/85410"
+  },
+  "mandalina-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) patanat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1611056"
+  },
+  "greyfurt-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Manuel Martín Vicente, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54297"
+  },
+  "kumkat-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Manuel Martín Vicente, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54297"
+  },
+  "turuncgil-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Manuel Martín Vicente, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54297"
+  },
+  "nar-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) H. Zell, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/58300"
+  },
+  "seftali-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Colleen, some rights reserved (CC BY-NC), uploaded by Colleen",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78755"
+  },
+  "kiraz-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Ihor Olshanskyi, some rights reserved (CC BY-NC), uploaded by Ihor Olshanskyi",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61964"
+  },
+  "visne-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Ihor Olshanskyi, some rights reserved (CC BY-NC), uploaded by Ihor Olshanskyi",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61964"
+  },
+  "erik-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Ввласенко, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/63735"
+  },
+  "badem-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) antonio c, all rights reserved, uploaded by antonio c",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/69936"
+  },
+  "elma-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Vilma Bharatan, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/469472"
+  },
+  "armut-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Vickie Pullen, all rights reserved, uploaded by Vickie Pullen",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/63951"
+  },
+  "ayva-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Nicolas Lagière, some rights reserved (CC BY-NC), uploaded by Nicolas Lagière",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82853"
+  },
+  "incir-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Dmitry Savikovsky, all rights reserved, uploaded by Dmitry Savikovsky",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/60218"
+  },
+  "zeytin-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Pescalune Photo, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/57140"
+  },
+  "uzum-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) andrey_p, some rights reserved (CC BY), uploaded by andrey_p",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/79519"
+  },
+  "ahududu-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Ole Husby, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/54436"
+  },
+  "bogurtlen-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) J Brew, some rights reserved (CC BY-SA), uploaded by J Brew",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/168025"
+  },
+  "cilek-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Vladimir Bryukhov, some rights reserved (CC BY-NC), uploaded by Vladimir Bryukhov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/50299"
+  },
+  "kivi-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Eugene Popov, some rights reserved (CC BY), uploaded by Eugene Popov",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/55151"
+  },
+  "hurma-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Debra Halter, some rights reserved (CC BY-NC-ND), uploaded by Debra Halter",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/83434"
+  },
+  "dut-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Melissa McMasters, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/56091"
+  },
+  "agac-cilegi": {
+    "source": "iNaturalist",
+    "author": "(c) pigrodri, some rights reserved (CC BY-NC), uploaded by pigrodri",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/125742"
+  },
+  "japon-kirazi": {
+    "source": "iNaturalist",
+    "author": "(c) pigrodri, some rights reserved (CC BY-NC), uploaded by pigrodri",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/125742"
+  },
+  "kaucuk-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) P Buchwald, all rights reserved, uploaded by P Buchwald",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/126507"
+  },
+  "benjamin-agaci": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/50996"
+  },
+  "schefflera": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/1238857"
+  },
+  "dracena": {
+    "source": "iNaturalist",
+    "author": "(c) ritasouza, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/124826"
+  },
+  "dieffenbachia": {
+    "source": "iNaturalist",
+    "author": "(c) Nicolle Vergara, all rights reserved, uploaded by Nicolle Vergara",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/147272"
+  },
+  "agleonema": {
+    "source": "iNaturalist",
+    "author": "(c) 古國順, all rights reserved, uploaded by 古國順",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/141512"
+  },
+  "philodendron": {
+    "source": "iNaturalist",
+    "author": "(c) James Kamstra, all rights reserved, uploaded by James Kamstra",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/69807"
+  },
+  "kalatea": {
+    "source": "iNaturalist",
+    "author": "(c) Ruth Ripley, all rights reserved, uploaded by Ruth Ripley",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/68039"
+  },
+  "maranta": {
+    "source": "iNaturalist",
+    "author": "(c) Ahmad Fuad Morad, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/126246"
+  },
+  "fittonia": {
+    "source": "iNaturalist",
+    "author": "(c) Ricah Marquez, all rights reserved, uploaded by Ricah Marquez",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/327858"
+  },
+  "pilea": {
+    "source": "iNaturalist",
+    "author": "(c) jkz, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/125439"
+  },
+  "peperomia": {
+    "source": "iNaturalist",
+    "author": "(c) wherenextnyc, some rights reserved (CC BY-NC), uploaded by wherenextnyc",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/123622"
+  },
+  "areka-palmiyesi": {
+    "source": "iNaturalist",
+    "author": "(c) jerbon, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/276548"
+  },
+  "salon-palmiyesi": {
+    "source": "iNaturalist",
+    "author": "(c) Homero Bennet, all rights reserved, uploaded by Homero Bennet",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/283400"
+  },
+  "yucca": {
+    "source": "iNaturalist",
+    "author": "(c) larivera, some rights reserved (CC BY-NC), uploaded by larivera",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47787"
+  },
+  "ficus-lyrata": {
+    "source": "iNaturalist",
+    "author": "(c) Cerlin Ng, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/201458"
+  },
+  "zamioculcas": {
+    "source": "iNaturalist",
+    "author": "(c) Salisha Chandra, all rights reserved, uploaded by Salisha Chandra",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/367277"
+  },
+  "papirus": {
+    "source": "iNaturalist",
+    "author": "(c) Shaun Swanepoel, some rights reserved (CC BY), uploaded by Shaun Swanepoel",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/161469"
+  },
+  "bambu": {
+    "source": "iNaturalist",
+    "author": "(c) Lamerie, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/68667"
+  },
+  "sans-bambusu": {
+    "source": "iNaturalist",
+    "author": "(c) Sz-yi Tsai, all rights reserved, uploaded by Sz-yi Tsai",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/800897"
+  },
+  "cin-bambusu": {
+    "source": "iNaturalist",
+    "author": "(c) darilismelendez84, some rights reserved (CC BY-NC), uploaded by darilismelendez84",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122530"
+  },
+  "spatifilum": {
+    "source": "iNaturalist",
+    "author": "(c) Dick Culbert, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/206271"
+  },
+  "kina-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Aravinth, some rights reserved (CC BY), uploaded by Aravinth",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/285378"
+  },
+  "para-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Adriaan Grobler, some rights reserved (CC BY-NC), uploaded by Adriaan Grobler",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/76465"
+  },
+  "dev-yilan-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) leewarren, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/67710"
+  },
+  "kucuk-yilan-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) leewarren, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/67710"
+  },
+  "altin-pothos": {
+    "source": "iNaturalist",
+    "author": "(c) Alex Ambrioso, all rights reserved, uploaded by Alex Ambrioso",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/69223"
+  },
+  "kalpli-yaprak": {
+    "source": "iNaturalist",
+    "author": "(c) 澎湖小雲雀, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/426893"
+  },
+  "mum-cicegi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/129523"
+  },
+  "kadife-cicek": {
+    "source": "iNaturalist",
+    "author": "(c) ocanire, some rights reserved (CC BY-NC), uploaded by ocanire",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/163472"
+  },
+  "sus-biberi": {
+    "source": "iNaturalist",
+    "author": "(c) Russell Cumming, some rights reserved (CC BY-NC), uploaded by Russell Cumming",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48514"
+  },
+  "aloe": {
+    "source": "iNaturalist",
+    "author": "(c) _3foxes, some rights reserved (CC BY-NC), uploaded by _3foxes",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/71956"
+  },
+  "sedum": {
+    "source": "iNaturalist",
+    "author": "(c) Peter Zika, some rights reserved (CC BY-NC), uploaded by Peter Zika",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55735"
+  },
+  "sempervivum": {
+    "source": "iNaturalist",
+    "author": "(c) enderbyland1, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/62379"
+  },
+  "crassula": {
+    "source": "iNaturalist",
+    "author": "(c) Marinus de Jager, some rights reserved (CC BY-NC), uploaded by Marinus de Jager",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57017"
+  },
+  "kalanchoe": {
+    "source": "iNaturalist",
+    "author": "(c) jackywu, some rights reserved (CC BY), uploaded by jackywu",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/59379"
+  },
+  "haworthia": {
+    "source": "iNaturalist",
+    "author": "(c) Adriaan Grobler, some rights reserved (CC BY-NC), uploaded by Adriaan Grobler",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/576771"
+  },
+  "gasteria": {
+    "source": "iNaturalist",
+    "author": "(c) lieselm, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/246064"
+  },
+  "aeonium": {
+    "source": "iNaturalist",
+    "author": "(c) Andrew Butko, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/67718"
+  },
+  "senecio": {
+    "source": "iNaturalist",
+    "author": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/943005"
+  },
+  "inci-kolyesi": {
+    "source": "iNaturalist",
+    "author": "(c) Tony Rebelo, some rights reserved (CC BY-SA), uploaded by Tony Rebelo",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/943005"
+  },
+  "denizyildizi-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) mattbuckingham, all rights reserved, uploaded by mattbuckingham",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/135453"
+  },
+  "altin-varil": {
+    "source": "iNaturalist",
+    "author": "(c) Opuntia Cadereytensis, some rights reserved (CC BY-NC), uploaded by Opuntia Cadereytensis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/869962"
+  },
+  "tavsan-kulagi": {
+    "source": "iNaturalist",
+    "author": "(c) Frank Sengpiel, some rights reserved (CC BY), uploaded by Frank Sengpiel",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/78267"
+  },
+  "fil-ayagi": {
+    "source": "iNaturalist",
+    "author": "(c) Carlos Domínguez-Rodríguez, some rights reserved (CC BY-NC), uploaded by Carlos Domínguez-Rodríguez",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/204927"
+  },
+  "sut-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Hafiz Issadeen, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/322318"
+  },
+  "zebra-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) Adriaan Grobler, some rights reserved (CC BY-NC), uploaded by Adriaan Grobler",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/577645"
+  },
+  "mucevher-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) Anilú Alarcón, all rights reserved, uploaded by Anilú Alarcón",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/206749"
+  },
+  "tas-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) William Stephens, some rights reserved (CC BY), uploaded by William Stephens",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/67717"
+  },
+  "ay-kaktusu": {
+    "source": "iNaturalist",
+    "author": "Wayne Ray, no known copyright restrictions (public domain)",
+    "license": "pd",
+    "url": "https://www.inaturalist.org/taxa/51224"
+  },
+  "paskalya-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Douglas Meyer, some rights reserved (CC BY-NC), uploaded by Douglas Meyer",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1435384"
+  },
+  "noel-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Felipe Tubarão, some rights reserved (CC BY-NC), uploaded by Felipe Tubarão",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51223"
+  },
+  "parmak-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Bodo Nuñez Oberg, some rights reserved (CC BY-NC), uploaded by Bodo Nuñez Oberg",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/68192"
+  },
+  "yildiz-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) babo, some rights reserved (CC BY-NC), uploaded by babo",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/206452"
+  },
+  "beyin-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Alexis López Hernández, some rights reserved (CC BY), uploaded by Alexis López Hernández",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/273594"
+  },
+  "tavus-kusu-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Peri Lee Pipkin, some rights reserved (CC BY-NC), uploaded by Peri Lee Pipkin",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47902"
+  },
+  "kalem-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Marianne Skov Jensen, some rights reserved (CC BY-NC), uploaded by Marianne Skov Jensen",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54449"
+  },
+  "sutun-kaktusu": {
+    "source": "iNaturalist",
+    "author": "Stephen Marlett, no known copyright restrictions (public domain)",
+    "license": "pd",
+    "url": "https://www.inaturalist.org/taxa/156664"
+  },
+  "ay-isigi-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) P Gonzalez Zamora, all rights reserved, uploaded by P Gonzalez Zamora",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/156122"
+  },
+  "gece-kralicesi-kaktusu": {
+    "source": "iNaturalist",
+    "author": "(c) Sue, some rights reserved (CC BY-NC), uploaded by Sue",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/168776"
+  },
+  "ejder-meyvesi-kaktusu": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/1038928"
+  },
+  "mistik-kaktus": {
+    "source": "iNaturalist",
+    "author": "(c) Lex García, all rights reserved, uploaded by Lex García",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/156834"
+  },
+  "domates": {
+    "source": "iNaturalist",
+    "author": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/51737"
+  },
+  "biber": {
+    "source": "iNaturalist",
+    "author": "(c) Juan Cruzado Cortés, some rights reserved (CC BY-SA), uploaded by Juan Cruzado Cortés",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/48517"
+  },
+  "patlican": {
+    "source": "iNaturalist",
+    "author": "(c) Diogo Luiz, some rights reserved (CC BY), uploaded by Diogo Luiz",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/63190"
+  },
+  "kabak": {
+    "source": "iNaturalist",
+    "author": "(c) Daniel Donovan, some rights reserved (CC BY-NC), uploaded by Daniel Donovan",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55425"
+  },
+  "salatalik": {
+    "source": "iNaturalist",
+    "author": "(c) Bff, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/54919"
+  },
+  "havuc": {
+    "source": "iNaturalist",
+    "author": "(c) Nancy Lasiter, some rights reserved (CC BY-NC), uploaded by Nancy Lasiter",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/76610"
+  },
+  "sogan": {
+    "source": "iNaturalist",
+    "author": "(c) Monteregina (Nicole), some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/48592"
+  },
+  "sarimsak": {
+    "source": "iNaturalist",
+    "author": "(c) willem9, some rights reserved (CC BY-NC), uploaded by willem9",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/75363"
+  },
+  "patates": {
+    "source": "iNaturalist",
+    "author": "(c) dmitry tretjakov, some rights reserved (CC BY-NC), uploaded by dmitry tretjakov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53858"
+  },
+  "marul": {
+    "source": "iNaturalist",
+    "author": "(c) George F Mayfield, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/53107"
+  },
+  "ispanak": {
+    "source": "iNaturalist",
+    "author": "(c) Anne The Librarian, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/84092"
+  },
+  "kirmizi-lahana": {
+    "source": "iNaturalist",
+    "author": "(c) Morgan Stickrod, some rights reserved (CC BY-NC), uploaded by Morgan Stickrod",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54516"
+  },
+  "kereviz": {
+    "source": "iNaturalist",
+    "author": "(c) Stephen Thorpe, some rights reserved (CC BY-NC), uploaded by Stephen Thorpe",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/58788"
+  },
+  "pirasa": {
+    "source": "iNaturalist",
+    "author": "(c) Greg Holland, some rights reserved (CC BY-ND), uploaded by Greg Holland",
+    "license": "cc-by-nd",
+    "url": "https://www.inaturalist.org/taxa/122912"
+  },
+  "pancar": {
+    "source": "iNaturalist",
+    "author": "(c) Juan Antonio Campos, all rights reserved, uploaded by Juan Antonio Campos",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/54498"
+  },
+  "taze-fasulye": {
+    "source": "iNaturalist",
+    "author": "(c) IZAMAR, all rights reserved, uploaded by IZAMAR",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122850"
+  },
+  "bezelye": {
+    "source": "iNaturalist",
+    "author": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54522"
+  },
+  "nohut": {
+    "source": "iNaturalist",
+    "author": "(c) andrey_belechov, some rights reserved (CC BY-NC), uploaded by andrey_belechov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122854"
+  },
+  "mercimek": {
+    "source": "iNaturalist",
+    "author": "(c) יאיר אור, some rights reserved (CC BY-NC-SA), uploaded by יאיר אור",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/1375470"
+  },
+  "bamya": {
+    "source": "iNaturalist",
+    "author": "(c) chasecorrington, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/157765"
+  },
+  "kabak-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) psullivan22, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/76541"
+  },
+  "enginar": {
+    "source": "iNaturalist",
+    "author": "(c) Lies Van Rompaey, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/57563"
+  },
+  "kirmizi-biber": {
+    "source": "iNaturalist",
+    "author": "(c) Russell Cumming, some rights reserved (CC BY-NC), uploaded by Russell Cumming",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48514"
+  },
+  "yesil-biber": {
+    "source": "iNaturalist",
+    "author": "(c) Russell Cumming, some rights reserved (CC BY-NC), uploaded by Russell Cumming",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48514"
+  },
+  "aci-biber": {
+    "source": "iNaturalist",
+    "author": "(c) Juliana Lins, all rights reserved, uploaded by Juliana Lins",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122796"
+  },
+  "kozlenmis-patlican": {
+    "source": "iNaturalist",
+    "author": "(c) Diogo Luiz, some rights reserved (CC BY), uploaded by Diogo Luiz",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/63190"
+  },
+  "domates-cesitleri": {
+    "source": "iNaturalist",
+    "author": "(c) Juan Carlos Garcia Morales, all rights reserved, uploaded by Juan Carlos Garcia Morales",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/50641"
+  },
+  "salkim-domates": {
+    "source": "iNaturalist",
+    "author": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/51737"
+  },
+  "yesil-sogan": {
+    "source": "iNaturalist",
+    "author": "(c) NewbieL, all rights reserved, uploaded by NewbieL",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/126225"
+  },
+  "tatli-patates": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/62941"
+  },
+  "balkabagi": {
+    "source": "iNaturalist",
+    "author": "(c) jackollis, some rights reserved (CC BY-NC), uploaded by jackollis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122866"
+  },
+  "sakiz-kabagi": {
+    "source": "iNaturalist",
+    "author": "(c) Hong, some rights reserved (CC BY-NC), uploaded by Hong",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122869"
+  },
+  "sutlu-kabak": {
+    "source": "iNaturalist",
+    "author": "(c) psullivan22, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/76541"
+  },
+  "kis-kabagi": {
+    "source": "iNaturalist",
+    "author": "(c) jackollis, some rights reserved (CC BY-NC), uploaded by jackollis",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122866"
+  },
+  "turk-salataligi": {
+    "source": "iNaturalist",
+    "author": "(c) Bff, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/54919"
+  },
+  "acur": {
+    "source": "iNaturalist",
+    "author": "(c) Germaine Alexander Parada, some rights reserved (CC BY-NC), uploaded by Germaine Alexander Parada",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/161246"
+  },
+  "roka": {
+    "source": "iNaturalist",
+    "author": "(c) Víctor González García, some rights reserved (CC BY-NC), uploaded by Víctor González García",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77058"
+  },
+  "maydanoz": {
+    "source": "iNaturalist",
+    "author": "(c) Юрий, some rights reserved (CC BY-NC), uploaded by Юрий",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78465"
+  },
+  "dereotu": {
+    "source": "iNaturalist",
+    "author": "(c) Олександр Гриб, some rights reserved (CC BY-NC), uploaded by Олександр Гриб",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/75445"
+  },
+  "kisnis": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/67759"
+  },
+  "feslegen": {
+    "source": "iNaturalist",
+    "author": "(c) magalanng, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61398"
+  },
+  "nane": {
+    "source": "iNaturalist",
+    "author": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/54570"
+  },
+  "kekik": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Kalaentzis, all rights reserved, uploaded by Konstantinos Kalaentzis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/81754"
+  },
+  "biberiye": {
+    "source": "iNaturalist",
+    "author": "(c) Frank Walther, all rights reserved, uploaded by Frank Walther",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/636795"
+  },
+  "adacayi": {
+    "source": "iNaturalist",
+    "author": "(c) zeder425, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/51738"
+  },
+  "melisa": {
+    "source": "iNaturalist",
+    "author": "(c) Steve Kelley, some rights reserved (CC BY-NC), uploaded by Steve Kelley",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/59901"
+  },
+  "papatya-cayi": {
+    "source": "iNaturalist",
+    "author": "(c) mobbini, some rights reserved (CC BY-NC), uploaded by mobbini",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77965"
+  },
+  "rezene": {
+    "source": "iNaturalist",
+    "author": "(c) Allie Schiltmeyer, all rights reserved, uploaded by Allie Schiltmeyer",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/53052"
+  },
+  "anason": {
+    "source": "iNaturalist",
+    "author": "(c) Steluma, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/166878"
+  },
+  "kimyon": {
+    "source": "iNaturalist",
+    "author": "\nFranz Eugen Köhler, Köhler's Medizinal-Pflanzen, no known copyright restrictions (public domain)",
+    "license": "pd",
+    "url": "https://www.inaturalist.org/taxa/161251"
+  },
+  "zencefil": {
+    "source": "iNaturalist",
+    "author": "(c) Nuwan Chathuranga, all rights reserved, uploaded by Nuwan Chathuranga",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122971"
+  },
+  "zerdecal": {
+    "source": "iNaturalist",
+    "author": "(c) LM Wang-茶米, all rights reserved, uploaded by LM Wang-茶米",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/119386"
+  },
+  "tarcin": {
+    "source": "iNaturalist",
+    "author": "(c) Greg Tasney, some rights reserved (CC BY-SA), uploaded by Greg Tasney",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/1591063"
+  },
+  "karabiber": {
+    "source": "iNaturalist",
+    "author": "(c) Alexander R. Meza, all rights reserved, uploaded by Alexander R. Meza",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/83583"
+  },
+  "karanfil-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Frédéric LEVIEZ, some rights reserved (CC BY-NC), uploaded by Frédéric LEVIEZ",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122770"
+  },
+  "defne": {
+    "source": "iNaturalist",
+    "author": "(c) Jonathan Lovet, all rights reserved, uploaded by Jonathan Lovet",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/54759"
+  },
+  "yesil-cay": {
+    "source": "iNaturalist",
+    "author": "(c) Seongbin Im, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/123005"
+  },
+  "ihlamur": {
+    "source": "iNaturalist",
+    "author": "(c) Denis Ivanov, some rights reserved (CC BY-NC), uploaded by Denis Ivanov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54856"
+  },
+  "kusburnu": {
+    "source": "iNaturalist",
+    "author": "(c) Mathieu Massaviol, some rights reserved (CC BY-NC-ND), uploaded by Mathieu Massaviol",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/55884"
+  },
+  "bogurtlen": {
+    "source": "iNaturalist",
+    "author": "(c) J Brew, some rights reserved (CC BY-SA), uploaded by J Brew",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/168025"
+  },
+  "ahududu": {
+    "source": "iNaturalist",
+    "author": "(c) Ole Husby, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/54436"
+  },
+  "uzum": {
+    "source": "iNaturalist",
+    "author": "(c) andrey_p, some rights reserved (CC BY), uploaded by andrey_p",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/79519"
+  },
+  "elma": {
+    "source": "iNaturalist",
+    "author": "(c) Vilma Bharatan, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/469472"
+  },
+  "armut": {
+    "source": "iNaturalist",
+    "author": "(c) Vickie Pullen, all rights reserved, uploaded by Vickie Pullen",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/63951"
+  },
+  "seftali": {
+    "source": "iNaturalist",
+    "author": "(c) Colleen, some rights reserved (CC BY-NC), uploaded by Colleen",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78755"
+  },
+  "kayisi": {
+    "source": "iNaturalist",
+    "author": "(c) PROPOLI87, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/135331"
+  },
+  "kiraz": {
+    "source": "iNaturalist",
+    "author": "(c) Ihor Olshanskyi, some rights reserved (CC BY-NC), uploaded by Ihor Olshanskyi",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61964"
+  },
+  "visne": {
+    "source": "iNaturalist",
+    "author": "(c) Ihor Olshanskyi, some rights reserved (CC BY-NC), uploaded by Ihor Olshanskyi",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61964"
+  },
+  "erik": {
+    "source": "iNaturalist",
+    "author": "(c) Ввласенко, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/63735"
+  },
+  "incir": {
+    "source": "iNaturalist",
+    "author": "(c) Dmitry Savikovsky, all rights reserved, uploaded by Dmitry Savikovsky",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/60218"
+  },
+  "nar": {
+    "source": "iNaturalist",
+    "author": "(c) H. Zell, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/58300"
+  },
+  "ayva": {
+    "source": "iNaturalist",
+    "author": "(c) Nicolas Lagière, some rights reserved (CC BY-NC), uploaded by Nicolas Lagière",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82853"
+  },
+  "ceviz": {
+    "source": "iNaturalist",
+    "author": "(c) Ed Alverson, some rights reserved (CC BY), uploaded by Ed Alverson",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/63935"
+  },
+  "findik": {
+    "source": "iNaturalist",
+    "author": "(c) David Ballesteros, some rights reserved (CC BY-NC), uploaded by David Ballesteros",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54491"
+  },
+  "antep-fistigi": {
+    "source": "iNaturalist",
+    "author": "(c) coffee-dog, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/122975"
+  },
+  "kestane": {
+    "source": "iNaturalist",
+    "author": "(c) catherwoods, all rights reserved, uploaded by catherwoods",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/121763"
+  },
+  "kavun": {
+    "source": "iNaturalist",
+    "author": "(c) Jay Keller, all rights reserved, uploaded by Jay Keller",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/76538"
+  },
+  "karpuz": {
+    "source": "iNaturalist",
+    "author": "(c) Ahmad Fuad Morad, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/70054"
+  },
+  "mandalina": {
+    "source": "iNaturalist",
+    "author": "(c) patanat, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1611056"
+  },
+  "greyfurt": {
+    "source": "iNaturalist",
+    "author": "(c) Manuel Martín Vicente, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54297"
+  },
+  "kumkat": {
+    "source": "iNaturalist",
+    "author": "(c) Manuel Martín Vicente, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/54297"
+  },
+  "muz": {
+    "source": "iNaturalist",
+    "author": "(c) Desita Dyah D A Kusumaningrum, some rights reserved (CC BY-NC), uploaded by Desita Dyah D A Kusumaningrum",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/62924"
+  },
+  "ananas": {
+    "source": "iNaturalist",
+    "author": "(c) Diogo Luiz, some rights reserved (CC BY), uploaded by Diogo Luiz",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/122965"
+  },
+  "mango": {
+    "source": "iNaturalist",
+    "author": "(c) Milton Galvis, all rights reserved, uploaded by Milton Galvis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48872"
+  },
+  "papaya": {
+    "source": "iNaturalist",
+    "author": "(c) Hector Miranda, all rights reserved, uploaded by Hector Miranda",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62811"
+  },
+  "avokado": {
+    "source": "iNaturalist",
+    "author": "(c) YOULI HAWAII PHOTOGRAPHY, all rights reserved, uploaded by YOULI HAWAII PHOTOGRAPHY",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62831"
+  },
+  "carkifelek-meyvesi": {
+    "source": "iNaturalist",
+    "author": "(c) William Tovar Vega, all rights reserved, uploaded by William Tovar Vega",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/51446"
+  },
+  "guava": {
+    "source": "iNaturalist",
+    "author": "(c) Eerika Schulz, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62859"
+  },
+  "litchi": {
+    "source": "iNaturalist",
+    "author": "(c) Charlie Lou, all rights reserved, uploaded by Charlie Lou",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/223964"
+  },
+  "hurma": {
+    "source": "iNaturalist",
+    "author": "(c) Jagdish Singh Negi, all rights reserved, uploaded by Jagdish Singh Negi",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/83468"
+  },
+  "musmula": {
+    "source": "iNaturalist",
+    "author": "(c) Petra Barvová, all rights reserved, uploaded by Petra Barvová",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/1367002"
+  },
+  "yenidunya": {
+    "source": "iNaturalist",
+    "author": "(c) ms_starla, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/76949"
+  },
+  "dut": {
+    "source": "iNaturalist",
+    "author": "(c) Melissa McMasters, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/56091"
+  },
+  "trabzon-hurmasi": {
+    "source": "iNaturalist",
+    "author": "(c) Jagdish Singh Negi, all rights reserved, uploaded by Jagdish Singh Negi",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/83468"
+  },
+  "kizilcik": {
+    "source": "iNaturalist",
+    "author": "(c) Vireloup, all rights reserved, uploaded by Vireloup",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/55858"
+  },
+  "alic": {
+    "source": "iNaturalist",
+    "author": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC), uploaded by Wolfgang Bettighofer",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51148"
+  },
+  "kuskonmaz": {
+    "source": "iNaturalist",
+    "author": "(c) Denis Gallant, some rights reserved (CC BY-NC), uploaded by Denis Gallant",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/60265"
+  },
+  "keciboynuzu": {
+    "source": "iNaturalist",
+    "author": "(c) Antonio, all rights reserved, uploaded by Antonio",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/82742"
+  },
+  "zeytin": {
+    "source": "iNaturalist",
+    "author": "(c) Pescalune Photo, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/57140"
+  },
+  "kadayif-cilegi": {
+    "source": "iNaturalist",
+    "author": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/84227"
+  },
+  "yaban-mersini": {
+    "source": "iNaturalist",
+    "author": "(c) Дмитрий Власов, some rights reserved (CC BY-NC), uploaded by Дмитрий Власов",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/127029"
+  },
+  "kizilcik-meyvesi": {
+    "source": "iNaturalist",
+    "author": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47193"
+  },
+  "altin-cilek": {
+    "source": "iNaturalist",
+    "author": "(c) lorenzodotti, some rights reserved (CC BY-NC), uploaded by lorenzodotti",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51988"
+  },
+  "ejder-meyvesi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/1038928"
+  },
+  "yildiz-meyvesi": {
+    "source": "iNaturalist",
+    "author": "(c) Ashley Aburto, all rights reserved, uploaded by Ashley Aburto",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/146977"
+  },
+  "rambutan": {
+    "source": "iNaturalist",
+    "author": "(c) neptune2023, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/278605"
+  },
+  "durian": {
+    "source": "iNaturalist",
+    "author": "(c) Matt Berger, some rights reserved (CC BY), uploaded by Matt Berger",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/62772"
+  },
+  "mangostan": {
+    "source": "iNaturalist",
+    "author": "(c) Ahmad Fuad Morad, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/123001"
+  },
+  "kakao": {
+    "source": "iNaturalist",
+    "author": "(c) Bill Lucas, some rights reserved (CC BY-NC), uploaded by Bill Lucas",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/64340"
+  },
+  "kahve": {
+    "source": "iNaturalist",
+    "author": "(c) Andrea Talone Rìo, some rights reserved (CC BY-NC), uploaded by Andrea Talone Rìo",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/64342"
+  },
+  "vanilya": {
+    "source": "iNaturalist",
+    "author": "(c) Ariel Salinas Seq., some rights reserved (CC BY-NC), uploaded by Ariel Salinas Seq.",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61393"
+  },
+  "karadut": {
+    "source": "iNaturalist",
+    "author": "(c) Mehmet Çelik, some rights reserved (CC BY-NC), uploaded by Mehmet Çelik",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/126741"
+  },
+  "ak-dut": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/56090"
+  },
+  "kirmizi-dut": {
+    "source": "iNaturalist",
+    "author": "(c) kwillard, some rights reserved (CC BY-NC), uploaded by kwillard",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54801"
+  },
+  "yaban-armudu": {
+    "source": "iNaturalist",
+    "author": "(c) Natural  England, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/338408"
+  },
+  "kizil-elma": {
+    "source": "iNaturalist",
+    "author": "(c) Vilma Bharatan, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/469472"
+  },
+  "sari-erik": {
+    "source": "iNaturalist",
+    "author": "(c) Janet Hitchen, all rights reserved, uploaded by Janet Hitchen",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/55837"
+  },
+  "damson-erik": {
+    "source": "iNaturalist",
+    "author": "(c) Hugo Gaspar, some rights reserved (CC BY-NC), uploaded by Hugo Gaspar",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/204393"
+  },
+  "japonya-erigi": {
+    "source": "iNaturalist",
+    "author": "(c) Shin-Ming Ku, some rights reserved (CC BY-NC), uploaded by Shin-Ming Ku",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/464594"
+  },
+  "runner-bean-fasulye": {
+    "source": "iNaturalist",
+    "author": "(c) elimaya, some rights reserved (CC BY-NC), uploaded by elimaya",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122860"
+  },
+  "lima-fasulye": {
+    "source": "iNaturalist",
+    "author": "(c) Lyrae, some rights reserved (CC BY), uploaded by Lyrae",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/122849"
+  },
+  "orman-cilegi": {
+    "source": "iNaturalist",
+    "author": "(c) Алексей Афонин, some rights reserved (CC BY-NC), uploaded by Алексей Афонин",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/50298"
+  },
+  "beyaz-cilek": {
+    "source": "iNaturalist",
+    "author": "(c) Miriam Olivera, all rights reserved, uploaded by Miriam Olivera",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/55367"
+  },
+  "misk-cilegi": {
+    "source": "iNaturalist",
+    "author": "(c) mixon, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/337076"
+  },
+  "kus-uzumu": {
+    "source": "iNaturalist",
+    "author": "(c) Sara Rall, some rights reserved (CC BY-NC), uploaded by Sara Rall",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/68053"
+  },
+  "asya-armudu": {
+    "source": "iNaturalist",
+    "author": "(c) Michael Kielb, some rights reserved (CC BY-NC), uploaded by Michael Kielb",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122783"
+  },
+  "nergis-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Anastasiia Merkulova, some rights reserved (CC BY-NC), uploaded by Anastasiia Merkulova",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61334"
+  },
+  "hos-geldin-bebek": {
+    "source": "iNaturalist",
+    "author": "(c) Vinicius P. dos S. F., some rights reserved (CC BY-NC), uploaded by Vinicius P. dos S. F.",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/68185"
+  },
+  "coban-puskulu": {
+    "source": "iNaturalist",
+    "author": "(c) cinclosoma, some rights reserved (CC BY-NC), uploaded by cinclosoma",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56121"
+  },
+  "igde": {
+    "source": "iNaturalist",
+    "author": "(c) tejnarayan, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/64694"
+  },
+  "yesil-nane": {
+    "source": "iNaturalist",
+    "author": "(c) Jon Sullivan, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/62652"
+  },
+  "limon-nanesi": {
+    "source": "iNaturalist",
+    "author": "(c) A Emmerson, some rights reserved (CC BY-NC), uploaded by A Emmerson",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77990"
+  },
+  "elma-nanesi": {
+    "source": "iNaturalist",
+    "author": "(c) Francisco Barros, all rights reserved, uploaded by Francisco Barros",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/77993"
+  },
+  "kurbaga-nanesi": {
+    "source": "iNaturalist",
+    "author": "(c) dodger93, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57116"
+  },
+  "kedi-nanesi": {
+    "source": "iNaturalist",
+    "author": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48622"
+  },
+  "zahter": {
+    "source": "iNaturalist",
+    "author": "(c) Ori Fragman-Sapir, all rights reserved, uploaded by Ori Fragman-Sapir",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/559346"
+  },
+  "mercankosk": {
+    "source": "iNaturalist",
+    "author": "(c) Christoph Zurnieden, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/165925"
+  },
+  "kekik-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Viktoria, some rights reserved (CC BY-NC), uploaded by Viktoria",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/322051"
+  },
+  "dag-kekigi": {
+    "source": "iNaturalist",
+    "author": "(c) Stefan Gey, some rights reserved (CC BY-NC), uploaded by Stefan Gey",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/169752"
+  },
+  "kutsal-feslegen": {
+    "source": "iNaturalist",
+    "author": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC), uploaded by 小铖/Smalltown",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/181060"
+  },
+  "dis-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Bogdan V. Kryzhatyuk, some rights reserved (CC BY-NC-SA), uploaded by Bogdan V. Kryzhatyuk",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/47603"
+  },
+  "isirgan-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Oleksandr Shynder, some rights reserved (CC BY-NC), uploaded by Oleksandr Shynder",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51884"
+  },
+  "kara-murver": {
+    "source": "iNaturalist",
+    "author": "(c) Attila Oláh, some rights reserved (CC BY), uploaded by Attila Oláh",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/765394"
+  },
+  "ekinezya": {
+    "source": "iNaturalist",
+    "author": "(c) Virginia (Ginny) Sanderson, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/48627"
+  },
+  "altin-otu": {
+    "source": "iNaturalist",
+    "author": "(c) akolter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56077"
+  },
+  "kantaron": {
+    "source": "iNaturalist",
+    "author": "(c) akolter, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56077"
+  },
+  "corek-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Conrad Altmann, some rights reserved (CC BY), uploaded by Conrad Altmann",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/122834"
+  },
+  "hardal": {
+    "source": "iNaturalist",
+    "author": "(c) Ava Babili, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/79123"
+  },
+  "sap-otu": {
+    "source": "iNaturalist",
+    "author": "(c) gwenbezodis, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52724"
+  },
+  "atkuyrugu": {
+    "source": "iNaturalist",
+    "author": "(c) Irina Mitjushina, some rights reserved (CC BY-NC), uploaded by Irina Mitjushina",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47746"
+  },
+  "civanpercemi": {
+    "source": "iNaturalist",
+    "author": "(c) Steve Guttman, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/52821"
+  },
+  "centiyane": {
+    "source": "iNaturalist",
+    "author": "(c) Thomas Menut, some rights reserved (CC BY-NC), uploaded by Thomas Menut",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/142299"
+  },
+  "altinotu": {
+    "source": "iNaturalist",
+    "author": "(c) Stéphane Bello, some rights reserved (CC BY-NC), uploaded by Stéphane Bello",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/118850"
+  },
+  "engerek-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Dean Morley, some rights reserved (CC BY-ND)",
+    "license": "cc-by-nd",
+    "url": "https://www.inaturalist.org/taxa/133487"
+  },
+  "andiz-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) FreckLes, some rights reserved (CC BY-NC), uploaded by FreckLes",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/58725"
+  },
+  "andiz-meyvesi": {
+    "source": "iNaturalist",
+    "author": "(c) Gidip, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/135935"
+  },
+  "ardic": {
+    "source": "iNaturalist",
+    "author": "(c) jl__cc, some rights reserved (CC BY-NC), uploaded by jl__cc",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/133994"
+  },
+  "kara-ardic": {
+    "source": "iNaturalist",
+    "author": "(c) charlie_myles, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/774727"
+  },
+  "calba": {
+    "source": "iNaturalist",
+    "author": "(c) Ori Fragman-Sapir, all rights reserved, uploaded by Ori Fragman-Sapir",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/135920"
+  },
+  "okse-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Aleksandr_Levon, some rights reserved (CC BY-NC), uploaded by Aleksandr_Levon",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57512"
+  },
+  "coven": {
+    "source": "iNaturalist",
+    "author": "(c) Tom Norton, some rights reserved (CC BY), uploaded by Tom Norton",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/72156"
+  },
+  "sapun-koku": {
+    "source": "iNaturalist",
+    "author": "(c) Jerry Oldenettel, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/56154"
+  },
+  "hatmi": {
+    "source": "iNaturalist",
+    "author": "(c) Maxim Sharapov, some rights reserved (CC BY-NC), uploaded by Maxim Sharapov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52565"
+  },
+  "laden": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Barsakis, all rights reserved, uploaded by Konstantinos Barsakis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/64322"
+  },
+  "karamuk": {
+    "source": "iNaturalist",
+    "author": "(c) Katya, some rights reserved (CC BY), uploaded by Katya",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/64318"
+  },
+  "oksuruk-otu": {
+    "source": "iNaturalist",
+    "author": "(c) snsergeevna, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/56222"
+  },
+  "ballota": {
+    "source": "iNaturalist",
+    "author": "(c) Bastiaan, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/56158"
+  },
+  "guvey-feneri": {
+    "source": "iNaturalist",
+    "author": "(c) Jarosław Bury, all rights reserved, uploaded by Jarosław Bury",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/575102"
+  },
+  "kina-otu": {
+    "source": "iNaturalist",
+    "author": "(c) wojtest, all rights reserved, uploaded by wojtest",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/210414"
+  },
+  "mahlep": {
+    "source": "iNaturalist",
+    "author": "(c) Nicolas Baca Castex, all rights reserved, uploaded by Nicolas Baca Castex",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/126808"
+  },
+  "sumak": {
+    "source": "iNaturalist",
+    "author": "(c) forb, all rights reserved, uploaded by forb",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122987"
+  },
+  "meyan-koku": {
+    "source": "iNaturalist",
+    "author": "(c) J. IGNASI, some rights reserved (CC BY-NC), uploaded by J. IGNASI",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77295"
+  },
+  "seker-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Rich Hoyer, some rights reserved (CC BY-NC-SA), uploaded by Rich Hoyer",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/55104"
+  },
+  "cemen": {
+    "source": "iNaturalist",
+    "author": "(c) Вадим, some rights reserved (CC BY-NC), uploaded by Вадим",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1106415"
+  },
+  "hint-cevizi": {
+    "source": "iNaturalist",
+    "author": "(c) Kimberlie Sasan, some rights reserved (CC BY-ND), uploaded by Kimberlie Sasan",
+    "license": "cc-by-nd",
+    "url": "https://www.inaturalist.org/taxa/48865"
+  },
+  "kaju": {
+    "source": "iNaturalist",
+    "author": "(c) Sylvia van Leeuwen, some rights reserved (CC BY-NC), uploaded by Sylvia van Leeuwen",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122988"
+  },
+  "brezilya-fistigi": {
+    "source": "iNaturalist",
+    "author": "(c) Leonardo Bergamini, some rights reserved (CC BY), uploaded by Leonardo Bergamini",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/145603"
+  },
+  "makadamya-fistigi": {
+    "source": "iNaturalist",
+    "author": "(c) Hailed Tablada, all rights reserved, uploaded by Hailed Tablada",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/186054"
+  },
+  "pekan-cevizi": {
+    "source": "iNaturalist",
+    "author": "(c) Tony Rodd, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/67593"
+  },
+  "yer-fistigi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/63205"
+  },
+  "hindistan-cevizi": {
+    "source": "iNaturalist",
+    "author": "(c) Kimberlie Sasan, some rights reserved (CC BY-ND), uploaded by Kimberlie Sasan",
+    "license": "cc-by-nd",
+    "url": "https://www.inaturalist.org/taxa/48865"
+  },
+  "chia-tohumu": {
+    "source": "iNaturalist",
+    "author": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/53219"
+  },
+  "keten-tohumu": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/51306"
+  },
+  "susam": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/285850"
+  },
+  "hashas": {
+    "source": "iNaturalist",
+    "author": "(c) Sascha Ethelberg, some rights reserved (CC BY-NC), uploaded by Sascha Ethelberg",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78346"
+  },
+  "quinoa": {
+    "source": "iNaturalist",
+    "author": "(c) Maria Mamani Mamani, all rights reserved, uploaded by Maria Mamani Mamani",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/122848"
+  },
+  "amarant": {
+    "source": "iNaturalist",
+    "author": "(c) Jean-François Roch, some rights reserved (CC BY-NC), uploaded by Jean-François Roch",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52326"
+  },
+  "bugday": {
+    "source": "iNaturalist",
+    "author": "(c) SalomÃ©, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/52796"
+  },
+  "arpa": {
+    "source": "iNaturalist",
+    "author": "(c) sebastianv, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57182"
+  },
+  "yulaf": {
+    "source": "iNaturalist",
+    "author": "(c) Larry Swift, some rights reserved (CC BY-NC), uploaded by Larry Swift",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52698"
+  },
+  "cavdar": {
+    "source": "iNaturalist",
+    "author": "(c) Tara Bauman, some rights reserved (CC BY-NC), uploaded by Tara Bauman",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/79021"
+  },
+  "misir": {
+    "source": "iNaturalist",
+    "author": "(c) José Miguel Sola, all rights reserved, uploaded by José Miguel Sola",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48448"
+  },
+  "pirinc": {
+    "source": "iNaturalist",
+    "author": "(c) Luis Mata, some rights reserved (CC BY-NC), uploaded by Luis Mata",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61381"
+  },
+  "dari": {
+    "source": "iNaturalist",
+    "author": "(c) nastusha, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78340"
+  },
+  "sorgum": {
+    "source": "iNaturalist",
+    "author": "(c) onidiras-iNaturalist, some rights reserved (CC BY-NC), uploaded by onidiras-iNaturalist",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/58389"
+  },
+  "tef": {
+    "source": "iNaturalist",
+    "author": "(c) Rasbak, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/145597"
+  },
+  "karabugday": {
+    "source": "iNaturalist",
+    "author": "(c) joy russell, some rights reserved (CC BY-NC), uploaded by joy russell",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/145601"
+  },
+  "fonio": {
+    "source": "iNaturalist",
+    "author": "Jose Hernandez, žiadne známe obmedzenia autorskými právami no (voľné dielo)",
+    "license": "pd",
+    "url": "https://www.inaturalist.org/taxa/482028"
+  },
+  "sushi-pirinci": {
+    "source": "iNaturalist",
+    "author": "(c) Luis Mata, some rights reserved (CC BY-NC), uploaded by Luis Mata",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/61381"
+  },
+  "yabani-pirinc": {
+    "source": "iNaturalist",
+    "author": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/72434"
+  },
+  "seker-kamisi": {
+    "source": "iNaturalist",
+    "author": "(c) beingplace, some rights reserved (CC BY-NC), uploaded by beingplace",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/128270"
+  },
+  "akcaagac-surubu": {
+    "source": "iNaturalist",
+    "author": "(c) Michael John Oldham, some rights reserved (CC BY-NC), uploaded by Michael John Oldham",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52543"
+  },
+  "palmiye-sekeri": {
+    "source": "iNaturalist",
+    "author": "(c) rambatino, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/348791"
+  },
+  "agave-surubu": {
+    "source": "iNaturalist",
+    "author": "(c) La Rata Mutante, some rights reserved (CC BY-NC), uploaded by La Rata Mutante",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/50822"
+  },
+  "cicek-bali": {
+    "source": "iNaturalist",
+    "author": "(c) Eric Hunt, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/85327"
+  },
+  "supurge-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Ina Siebert, some rights reserved (CC BY-NC), uploaded by Ina Siebert",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48538"
+  },
+  "taze-bakla": {
+    "source": "iNaturalist",
+    "author": "(c) John Poulakis, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/57309"
+  },
+  "yer-elmasi": {
+    "source": "iNaturalist",
+    "author": "(c) Eduard Garin, some rights reserved (CC BY-NC), uploaded by Eduard Garin",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122970"
+  },
+  "topinambur": {
+    "source": "iNaturalist",
+    "author": "(c) Eduard Garin, some rights reserved (CC BY-NC), uploaded by Eduard Garin",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/122970"
+  },
+  "keci-sakali": {
+    "source": "iNaturalist",
+    "author": "(c) BlueRidgeKitties, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/75600"
+  },
+  "tilki-kuyrugu": {
+    "source": "iNaturalist",
+    "author": "(c) Biopix, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/75392"
+  },
+  "horoz-ibigi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/160259"
+  },
+  "horozibigi-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Jean-François Roch, some rights reserved (CC BY-NC), uploaded by Jean-François Roch",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52326"
+  },
+  "kis-gulleri": {
+    "source": "iNaturalist",
+    "author": "(c) Svetlana Nesterova, some rights reserved (CC BY-NC), uploaded by Svetlana Nesterova",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/55842"
+  },
+  "noel-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Ahmed Mujčinović, some rights reserved (CC BY-NC-SA), uploaded by Ahmed Mujčinović",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/55841"
+  },
+  "lenten-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Schnobby, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/126550"
+  },
+  "col-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/124839"
+  },
+  "cin-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) ka wai liu, all rights reserved, uploaded by ka wai liu",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62877"
+  },
+  "japon-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Tom Norton, some rights reserved (CC BY), uploaded by Tom Norton",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/83653"
+  },
+  "kaya-gulu": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Barsakis, all rights reserved, uploaded by Konstantinos Barsakis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/64322"
+  },
+  "titan-arumu": {
+    "source": "iNaturalist",
+    "author": "(c) Kempu Rajalambing Sebayang, all rights reserved, uploaded by Kempu Rajalambing Sebayang",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62194"
+  },
+  "sabah-sefasi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/52346"
+  },
+  "aksam-sefasi": {
+    "source": "iNaturalist",
+    "author": "(c) betsy_irwin, some rights reserved (CC BY-NC), uploaded by betsy_irwin",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48626"
+  },
+  "ogle-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) prix_burgoyne, all rights reserved, uploaded by prix_burgoyne",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/49321"
+  },
+  "gun-ortasi-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) WK Cheng, all rights reserved, uploaded by WK Cheng",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/167309"
+  },
+  "buz-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Barbara Agnew, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/120053"
+  },
+  "gumus-yaprak": {
+    "source": "iNaturalist",
+    "author": "(c) Jim Evans, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/357682"
+  },
+  "toz-pembe": {
+    "source": "iNaturalist",
+    "author": "(c) Valter Jacinto, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48160"
+  },
+  "peygamber-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Jacek Pietruszewski, some rights reserved (CC BY), uploaded by Jacek Pietruszewski",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/57286"
+  },
+  "kelebek-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Joey Santore, some rights reserved (CC BY-NC), uploaded by Joey Santore",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47906"
+  },
+  "sut-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Juan Carlos Garcia Morales, all rights reserved, uploaded by Juan Carlos Garcia Morales",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/52586"
+  },
+  "deve-dikeni": {
+    "source": "iNaturalist",
+    "author": "(c) Omar Al-Halabi, all rights reserved, uploaded by Omar Al-Halabi",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/75323"
+  },
+  "kangal": {
+    "source": "iNaturalist",
+    "author": "(c) Татьяна Губина, some rights reserved (CC BY-NC), uploaded by Татьяна Губина",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57628"
+  },
+  "boga-dikeni": {
+    "source": "iNaturalist",
+    "author": "(c) Andreas Rockstein, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/162699"
+  },
+  "kirpi-otu": {
+    "source": "iNaturalist",
+    "author": "(c) Dinesh Valke, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/57921"
+  },
+  "pitrak": {
+    "source": "iNaturalist",
+    "author": "(c) Troos van der Merwe, some rights reserved (CC BY-NC), uploaded by Troos van der Merwe",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/57920"
+  },
+  "coban-degnegi": {
+    "source": "iNaturalist",
+    "author": "(c) Flown Kimmerling, all rights reserved, uploaded by Flown Kimmerling",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/56165"
+  },
+  "sigir-kuyrugu": {
+    "source": "iNaturalist",
+    "author": "(c) Craig Evans, all rights reserved, uploaded by Craig Evans",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/59029"
+  },
+  "altin-cicek": {
+    "source": "iNaturalist",
+    "author": "(c) Bev Currie, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/48678"
+  },
+  "arnika": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/129103"
+  },
+  "arap-sabunu": {
+    "source": "iNaturalist",
+    "author": "(c) Kathy Ward, some rights reserved (CC BY-NC), uploaded by Kathy Ward",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/791928"
+  },
+  "bahce-gelincikleri": {
+    "source": "iNaturalist",
+    "author": "(c) friso, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/166114"
+  },
+  "hashas-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Jay L. Keller, all rights reserved, uploaded by Jay L. Keller",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/52504"
+  },
+  "kaliforniya-gelincikleri": {
+    "source": "iNaturalist",
+    "author": "(c) pronghornranch67, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/48225"
+  },
+  "izlanda-gelincikleri": {
+    "source": "iNaturalist",
+    "author": "(c) niveum, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1473094"
+  },
+  "tibet-gelincikleri": {
+    "source": "iNaturalist",
+    "author": "(c) aagenielsen, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/807416"
+  },
+  "mavi-hashas": {
+    "source": "iNaturalist",
+    "author": "(c) maggiestogner, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/60871"
+  },
+  "gelin-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) \nGordon Joly, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/62313"
+  },
+  "sevgi-cicegi": {
+    "source": "iNaturalist",
+    "author": "(c) Matt, all rights reserved, uploaded by Matt",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/62314"
+  },
+  "seytan-tirnagi": {
+    "source": "iNaturalist",
+    "author": "(c) birgitknorr, some rights reserved (CC BY-NC), uploaded by birgitknorr",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/72318"
+  },
+  "venus-sinekkapani": {
+    "source": "iNaturalist",
+    "author": "(c) David Hill, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/52666"
+  },
+  "sinek-kapan": {
+    "source": "iNaturalist",
+    "author": "(c) Kaylyn Pearce, some rights reserved (CC BY-NC), uploaded by Kaylyn Pearce",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52661"
+  },
+  "kobra-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) Jordan Collins, some rights reserved (CC BY-NC), uploaded by Jordan Collins",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52652"
+  },
+  "gul-receli": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/322878"
+  },
+  "zambak-sogani": {
+    "source": "iNaturalist",
+    "author": "(c) sunoochi, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/223665"
+  },
+  "nergis-sogani": {
+    "source": "iNaturalist",
+    "author": "(c) S. Rae, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/194786"
+  },
+  "uzum-sumbulu": {
+    "source": "iNaturalist",
+    "author": "(c) ayuwat, einige Rechte vorbehalten (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/1476418"
+  },
+  "su-niluferi": {
+    "source": "iNaturalist",
+    "author": "(c) LostInCR, all rights reserved, uploaded by LostInCR",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/165755"
+  },
+  "hint-niluferi": {
+    "source": "iNaturalist",
+    "author": "(c) Inessa, some rights reserved (CC BY-NC), uploaded by Inessa",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/82814"
+  },
+  "amerikan-niluferi": {
+    "source": "iNaturalist",
+    "author": "(c) liz west, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/84160"
+  },
+  "su-pecetesi": {
+    "source": "iNaturalist",
+    "author": "(c) amywainwright, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/78589"
+  },
+  "su-mercimegi": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by Peter de Lange",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/54519"
+  },
+  "papirus-bitkisi": {
+    "source": "iNaturalist",
+    "author": "(c) Shaun Swanepoel, some rights reserved (CC BY), uploaded by Shaun Swanepoel",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/161469"
+  },
+  "kamis": {
+    "source": "iNaturalist",
+    "author": "(c) InAweofGod'sCreation, some rights reserved (CC BY-ND)",
+    "license": "cc-by-nd",
+    "url": "https://www.inaturalist.org/taxa/64276"
+  },
+  "saz": {
+    "source": "iNaturalist",
+    "author": "(c) J. IGNASI, some rights reserved (CC BY-NC), uploaded by J. IGNASI",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52643"
+  },
+  "su-zambagi": {
+    "source": "iNaturalist",
+    "author": "(c) Junyan Xu, all rights reserved, uploaded by Junyan Xu",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/47779"
+  },
+  "ordek-otu": {
+    "source": "iNaturalist",
+    "author": "(c) 王美芳, some rights reserved (CC BY-NC), uploaded by 王美芳",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52631"
+  },
+  "su-sumbulu": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/962637"
+  },
+  "su-marulu": {
+    "source": "iNaturalist",
+    "author": "(c) Janice Sutton, some rights reserved (CC BY-NC), uploaded by Janice Sutton",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/52481"
+  },
+  "su-semsiyesi": {
+    "source": "iNaturalist",
+    "author": "(c) Matt Berger, some rights reserved (CC BY), uploaded by Matt Berger",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/67696"
+  },
+  "bataklik-sumbulu": {
+    "source": "iNaturalist",
+    "author": "(c) Anna Nguyen, all rights reserved, uploaded by Anna Nguyen",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/48729"
+  },
+  "su-nanesi": {
+    "source": "iNaturalist",
+    "author": "(c) A Emmerson, some rights reserved (CC BY-NC), uploaded by A Emmerson",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/77990"
+  },
+  "su-bogurtleni": {
+    "source": "iNaturalist",
+    "author": "(c) eeyipes, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/56224"
+  },
+  "katirtirnagi": {
+    "source": "iNaturalist",
+    "author": "(c) Rob Curtis, some rights reserved (CC BY-NC-SA), uploaded by Rob Curtis",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/49869"
+  },
+  "bataklik-meneksesi": {
+    "source": "iNaturalist",
+    "author": "(c) mhays, some rights reserved (CC BY-NC), uploaded by mhays",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/79514"
+  },
+  "sigla-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Ori Fragman-Sapir, all rights reserved, uploaded by Ori Fragman-Sapir",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/356068"
+  },
+  "sakiz-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) anonymous, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/82600"
+  },
+  "terebentin-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Bill Kirby1, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/81870"
+  },
+  "menengic": {
+    "source": "iNaturalist",
+    "author": "(c) Bill Kirby1, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/81870"
+  },
+  "keciboynuzu-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Antonio, all rights reserved, uploaded by Antonio",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/82742"
+  },
+  "harnup": {
+    "source": "iNaturalist",
+    "author": "(c) Antonio, all rights reserved, uploaded by Antonio",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/82742"
+  },
+  "sakiz-cami": {
+    "source": "iNaturalist",
+    "author": "(c) Douglas Goldman, some rights reserved (CC BY-SA), uploaded by Douglas Goldman",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/47561"
+  },
+  "cam-fistigi": {
+    "source": "iNaturalist",
+    "author": "(c) Valter Jacinto, all rights reserved",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/63621"
+  },
+  "citlembik": {
+    "source": "iNaturalist",
+    "author": "(c) Javi Gonzalez, some rights reserved (CC BY-NC), uploaded by Javi Gonzalez",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54858"
+  },
+  "dag-musmulasi": {
+    "source": "iNaturalist",
+    "author": "(c) J Brew, some rights reserved (CC BY-NC-SA), uploaded by J Brew",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/49230"
+  },
+  "hunnap": {
+    "source": "iNaturalist",
+    "author": "(c) oreste83, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/428365"
+  },
+  "cin-hurmasi": {
+    "source": "iNaturalist",
+    "author": "(c) oreste83, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/428365"
+  },
+  "kizilagac": {
+    "source": "iNaturalist",
+    "author": "(c) kathy-115, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53352"
+  },
+  "kavak": {
+    "source": "iNaturalist",
+    "author": "(c) Megan Timmons, all rights reserved, uploaded by Megan Timmons",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/47566"
+  },
+  "sogut": {
+    "source": "iNaturalist",
+    "author": "(c) Amadej Trnkoczy, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/53453"
+  },
+  "akcaagac": {
+    "source": "iNaturalist",
+    "author": "(c) Ed Hass, some rights reserved (CC BY-NC-ND), uploaded by Ed Hass",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/47727"
+  },
+  "gumus-akcaagac": {
+    "source": "iNaturalist",
+    "author": "no rights reserved",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/54762"
+  },
+  "kirmizi-akcaagac": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by mefisher",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/48098"
+  },
+  "japon-akcaagaci": {
+    "source": "iNaturalist",
+    "author": "(c) Katja Schulz, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/63512"
+  },
+  "ataturk-agaci": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by Andy Wilson",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/49662"
+  },
+  "cinar": {
+    "source": "iNaturalist",
+    "author": "(c) Helen Lynn, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/49664"
+  },
+  "ihlamur-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Denis Ivanov, some rights reserved (CC BY-NC), uploaded by Denis Ivanov",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54856"
+  },
+  "dut-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Melissa McMasters, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/56091"
+  },
+  "ceviz-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Tatiana Gerus, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54495"
+  },
+  "findik-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) timedge, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/53373"
+  },
+  "kestane-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Claire O'Neill, some rights reserved (CC BY-NC), uploaded by Claire O'Neill",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/49187"
+  },
+  "mese": {
+    "source": "iNaturalist",
+    "author": "(c) Miguel Angel Masegosa Martínez, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/47851"
+  },
+  "palamut-mesesi": {
+    "source": "iNaturalist",
+    "author": "(c) Konstantinos Kalaentzis, all rights reserved, uploaded by Konstantinos Kalaentzis",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/338763"
+  },
+  "kayin": {
+    "source": "iNaturalist",
+    "author": "(c) Ginevra🌿, some rights reserved (CC BY-NC), uploaded by Ginevra🌿",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/49203"
+  },
+  "gurgen": {
+    "source": "iNaturalist",
+    "author": "(c) Tig, all rights reserved, uploaded by Tig",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/54769"
+  },
+  "kizilcik-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/47193"
+  },
+  "alic-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Wolfgang Bettighofer, some rights reserved (CC BY-NC), uploaded by Wolfgang Bettighofer",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/51148"
+  },
+  "kusdili-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Don Loarie, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/82908"
+  },
+  "mersin-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Salomé, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/72248"
+  },
+  "defne-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Cassiopée2010, some rights reserved (CC BY-NC-SA)",
+    "license": "cc-by-nc-sa",
+    "url": "https://www.inaturalist.org/taxa/82666"
+  },
+  "sandal-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Tim Waters, some rights reserved (CC BY-NC-ND)",
+    "license": "cc-by-nc-nd",
+    "url": "https://www.inaturalist.org/taxa/68658"
+  },
+  "sandal-kokusu": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by 葉子",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/68656"
+  },
+  "okaliptus": {
+    "source": "iNaturalist",
+    "author": "(c) Terra Occ, some rights reserved (CC BY), uploaded by Terra Occ",
+    "license": "cc-by",
+    "url": "https://www.inaturalist.org/taxa/51815"
+  },
+  "cay-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Klaus Bohn, some rights reserved (CC BY-NC), uploaded by Klaus Bohn",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/72232"
+  },
+  "manuka-agaci": {
+    "source": "iNaturalist",
+    "author": "no rights reserved, uploaded by Peter de Lange",
+    "license": "cc0",
+    "url": "https://www.inaturalist.org/taxa/54699"
+  },
+  "kavak-agaci": {
+    "source": "iNaturalist",
+    "author": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54840"
+  },
+  "titrek-kavak": {
+    "source": "iNaturalist",
+    "author": "(c) Damon Tighe, some rights reserved (CC BY-NC), uploaded by Damon Tighe",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54840"
+  },
+  "beyaz-kavak": {
+    "source": "iNaturalist",
+    "author": "(c) Jeffery Arbuckle, all rights reserved, uploaded by Jeffery Arbuckle",
+    "license": null,
+    "url": "https://www.inaturalist.org/taxa/47570"
+  },
+  "siyah-kavak": {
+    "source": "iNaturalist",
+    "author": "(c) \n\nAyotte, Gilles, 1948-, some rights reserved (CC BY-SA)",
+    "license": "cc-by-sa",
+    "url": "https://www.inaturalist.org/taxa/47565"
+  },
+  "salkim-sogut": {
+    "source": "iNaturalist",
+    "author": "(c) Carlos Eduardo Simental Crespo, some rights reserved (CC BY-NC), uploaded by Carlos Eduardo Simental Crespo",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/58316"
+  },
+  "ak-sogut": {
+    "source": "iNaturalist",
+    "author": "(c) saartje281, some rights reserved (CC BY-NC)",
+    "license": "cc-by-nc",
+    "url": "https://www.inaturalist.org/taxa/54841"
+  }
+}

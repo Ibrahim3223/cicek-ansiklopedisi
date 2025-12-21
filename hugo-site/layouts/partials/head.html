@@ -1,0 +1,226 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- SEO Meta Tags -->
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="keywords" content="{{ with .Keywords }}{{ delimit . ", " }}{{ else }}{{ delimit .Site.Params.keywords ", " }}{{ end }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="tr_TR">
+{{ with .Params.image }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ else }}
+<meta property="og:image" content="{{ "images/og-default.jpg" | absURL }}">
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ with .Params.image }}
+<meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}
+
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="/favicons/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+<link rel="manifest" href="/favicons/site.webmanifest">
+<meta name="theme-color" content="#16a34a">
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+
+<!-- Styles -->
+<link rel="stylesheet" href="/css/style.css">
+
+<!-- JSON-LD Schema -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}arama/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}favicons/logo.png",
+  "description": "{{ .Site.Params.description }}"
+}
+</script>
+{{ end }}
+
+{{ if and (not .IsHome) .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}favicons/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Sayfa",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ if .CurrentSection }}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .CurrentSection.Title }}",
+      "item": "{{ .CurrentSection.Permalink }}"
+    }
+    {{ end }}
+    ,{
+      "@type": "ListItem",
+      "position": {{ if .CurrentSection }}3{{ else }}2{{ end }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+<!-- FAQ Schema for plant pages -->
+{{ if and .Params.sss (gt (len .Params.sss) 0) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $index, $faq := .Params.sss }}
+    {{ if $index }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.soru }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.cevap }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<!-- HowTo Schema for plant care guide -->
+{{ if or .Params.sulama .Params.isik .Params.toprak }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "{{ .Title }} Bakımı Nasıl Yapılır",
+  "description": "{{ .Title }} bitkisinin bakım rehberi: sulama, ışık, toprak ve gübreleme.",
+  "image": "{{ with .Params.image }}{{ . | absURL }}{{ end }}",
+  "totalTime": "PT30M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "TRY",
+    "value": "0"
+  },
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Sulama kabı"
+    }
+  ],
+  "step": [
+    {{ $stepIndex := 0 }}
+    {{ with .Params.sulama }}
+    {{ if $stepIndex }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "name": "Sulama",
+      "text": "{{ . }}",
+      "position": {{ add $stepIndex 1 }}
+    }
+    {{ $stepIndex = add $stepIndex 1 }}
+    {{ end }}
+    {{ with .Params.isik }}
+    {{ if $stepIndex }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "name": "Işık Sağlama",
+      "text": "{{ . }}",
+      "position": {{ add $stepIndex 1 }}
+    }
+    {{ $stepIndex = add $stepIndex 1 }}
+    {{ end }}
+    {{ with .Params.toprak }}
+    {{ if $stepIndex }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "name": "Toprak Hazırlama",
+      "text": "{{ . }}",
+      "position": {{ add $stepIndex 1 }}
+    }
+    {{ $stepIndex = add $stepIndex 1 }}
+    {{ end }}
+    {{ with .Params.gubre }}
+    {{ if $stepIndex }},{{ end }}
+    {
+      "@type": "HowToStep",
+      "name": "Gübreleme",
+      "text": "{{ . }}",
+      "position": {{ add $stepIndex 1 }}
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

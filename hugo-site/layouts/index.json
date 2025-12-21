@@ -1,0 +1,14 @@
+{{- $index := slice -}}
+{{- range where .Site.RegularPages "Type" "in" (slice "bitki" "cicek") -}}
+  {{- $entry := dict
+    "title" .Title
+    "url" .Permalink
+    "latince" (.Params.latince | default "")
+    "description" (.Description | default "")
+    "tur" (.Params.tur | default "")
+    "image" (.Params.image | default "")
+    "bakim" (.Params.bakim_kolayligi | default "")
+  -}}
+  {{- $index = $index | append $entry -}}
+{{- end -}}
+{{- $index | jsonify -}}

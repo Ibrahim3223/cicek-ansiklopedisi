@@ -1,0 +1,123 @@
+baseURL = "https://cicekansiklopedisi.com/"
+languageCode = "tr-TR"
+defaultContentLanguage = "tr"
+title = "Çiçek Ansiklopedisi - Bitki Bakım Rehberi"
+description = "Türkiye'nin en kapsamlı bitki ve çiçek ansiklopedisi. Ev bitkileri, bahçe bitkileri, sukulentler, kaktüsler ve şifalı bitkiler hakkında detaylı bakım rehberleri."
+enableRobotsTXT = true
+canonifyURLs = true
+enableEmoji = true
+
+# Zaman dilimi
+timeZone = "Europe/Istanbul"
+
+# Performans ayarları
+timeout = 30000
+[pagination]
+  pagerSize = 48
+
+# Sitemap ayarları
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.8
+
+# Taksonomiler
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  tur = "tur"
+  bakim = "bakim"
+
+# Menü yapısı
+[menu]
+  [[menu.main]]
+    identifier = "anasayfa"
+    name = "Ana Sayfa"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "ev-bitkileri"
+    name = "Ev Bitkileri"
+    url = "/categories/ev-bitkileri/"
+    weight = 2
+  [[menu.main]]
+    identifier = "bahce-bitkileri"
+    name = "Bahçe Bitkileri"
+    url = "/categories/bahce-bitkileri/"
+    weight = 3
+  [[menu.main]]
+    identifier = "sukulentler"
+    name = "Sukulentler"
+    url = "/categories/sukulent/"
+    weight = 4
+  [[menu.main]]
+    identifier = "kaktusler"
+    name = "Kaktüsler"
+    url = "/categories/kaktus/"
+    weight = 5
+  [[menu.main]]
+    identifier = "sifali-bitkiler"
+    name = "Şifalı Bitkiler"
+    url = "/categories/sifali-bitkiler/"
+    weight = 6
+  [[menu.main]]
+    identifier = "sebzeler"
+    name = "Sebzeler"
+    url = "/categories/sebzeler/"
+    weight = 7
+  [[menu.main]]
+    identifier = "meyveler"
+    name = "Meyveler"
+    url = "/categories/meyveler/"
+    weight = 8
+
+# Parametreler
+[params]
+  author = "Çiçek Ansiklopedisi"
+  description = "Türkiye'nin en kapsamlı bitki ve çiçek ansiklopedisi"
+  keywords = ["bitki", "çiçek", "bitki bakımı", "ev bitkileri", "bahçe", "sukulent", "kaktüs", "şifalı bitkiler"]
+  logo = "/favicons/logo.png"
+  favicon = "/favicons/favicon.ico"
+
+  # Sosyal medya
+  twitter = ""
+  instagram = ""
+
+  # SEO
+  googleAnalytics = ""
+
+  # Site özellikleri
+  showReadingTime = true
+  showShareButtons = true
+  showRelatedPlants = true
+
+# Çıktı formatları
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+# Markdown ayarları
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    style = "monokai"
+
+# Minifikasyon
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+
+# Build ayarları
+[build]
+  writeStats = true
