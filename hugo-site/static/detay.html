@@ -50,17 +50,27 @@
 
         let redirectUrl = '/';
 
-        // Badem: flowers=654 & cicekler=91
-        if (flowers === '654' && cicekler === '91') {
-            redirectUrl = '/bitki/badem/';
+        // 1. Önce cicek parametresini kontrol et (en spesifik)
+        if (cicek) {
+            const cicekLower = cicek.toLowerCase();
+            if (cicekLower === 'badem-' || cicekLower === 'badem') {
+                redirectUrl = '/bitki/badem/';
+            }
+            else if (cicekLower === 'lale') {
+                redirectUrl = '/cicek/lale/';
+            }
         }
-        // Lale: cicekler=67 & flowers=167
-        else if (cicekler === '67' && flowers === '167') {
-            redirectUrl = '/cicek/lale/';
-        }
-        // Default: anasayfa
-        else {
-            redirectUrl = '/';
+
+        // 2. cicek parametresi yoksa, flowers & cicekler kombinasyonuna bak
+        if (redirectUrl === '/') {
+            // Limon: flowers=654 & cicekler=91
+            if (flowers === '654' && cicekler === '91') {
+                redirectUrl = '/bitki/limon/';
+            }
+            // Lale (fallback): cicekler=67 & flowers=167
+            else if (cicekler === '67' && flowers === '167') {
+                redirectUrl = '/cicek/lale/';
+            }
         }
 
         // Immediate redirect
