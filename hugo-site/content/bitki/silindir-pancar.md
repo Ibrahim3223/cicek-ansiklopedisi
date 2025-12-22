@@ -16,7 +16,7 @@ tags:
   - silindir-pancar
   - sebzeler
 latince: Beta vulgaris cylindra
-image: 
+image: /images/bitkiler/silindir-pancar.jpg
 populer: false
 draft: false
 sss:

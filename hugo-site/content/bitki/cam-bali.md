@@ -16,7 +16,7 @@ tags:
   - cam-bali
   - sifali-bitkiler
 latince: Pinus honey
-image: /images/bitkiler/cam-bali.jpg
+image: 
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - limon-ayva
   - meyveler
 latince: Cydonia oblonga lemon
-image: 
+image: /images/bitkiler/limon-ayva.jpg
 populer: false
 draft: false
 sss:

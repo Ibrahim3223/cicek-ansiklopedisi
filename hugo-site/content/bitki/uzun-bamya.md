@@ -16,7 +16,7 @@ tags:
   - uzun-bamya
   - sebzeler
 latince: Abelmoschus esculentus long
-image: /images/bitkiler/uzun-bamya.png
+image: /images/bitkiler/uzun-bamya.jpg
 populer: false
 draft: false
 sss:

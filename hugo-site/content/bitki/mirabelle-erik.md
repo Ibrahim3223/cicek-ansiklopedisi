@@ -16,7 +16,7 @@ tags:
   - mirabelle-erik
   - meyveler
 latince: Prunus domestica syriaca
-image: /images/bitkiler/mirabelle-erik.png
+image: /images/bitkiler/mirabelle-erik.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kirmizi-habanero
   - sebzeler
 latince: Capsicum chinense red habanero
-image: /images/bitkiler/kirmizi-habanero.png
+image: /images/bitkiler/kirmizi-habanero.jpg
 populer: false
 draft: false
 sss:

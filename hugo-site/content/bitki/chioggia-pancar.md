@@ -16,7 +16,7 @@ tags:
   - chioggia-pancar
   - sebzeler
 latince: Beta vulgaris chioggia
-image: 
+image: /images/bitkiler/chioggia-pancar.jpg
 populer: false
 draft: false
 sss:

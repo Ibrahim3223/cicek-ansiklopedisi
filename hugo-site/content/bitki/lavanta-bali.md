@@ -16,7 +16,7 @@ tags:
   - lavanta-bali
   - sifali-bitkiler
 latince: Lavandula honey
-image: /images/bitkiler/lavanta-bali.jpg
+image: 
 populer: false
 draft: false
 sss:

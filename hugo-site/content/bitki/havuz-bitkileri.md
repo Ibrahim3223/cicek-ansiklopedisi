@@ -16,7 +16,7 @@ tags:
   - havuz-bitkileri
   - bahce-bitkileri
 latince: Pond plants
-image: /images/bitkiler/havuz-bitkileri.jpg
+image: 
 populer: false
 draft: false
 sss:

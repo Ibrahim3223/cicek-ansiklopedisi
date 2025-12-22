@@ -16,7 +16,7 @@ tags:
   - akasya-bali
   - sifali-bitkiler
 latince: Acacia honey
-image: /images/bitkiler/akasya-bali.jpg
+image: 
 populer: false
 draft: false
 sss:

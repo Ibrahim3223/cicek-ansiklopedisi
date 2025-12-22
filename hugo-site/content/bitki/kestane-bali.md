@@ -16,7 +16,7 @@ tags:
   - kestane-bali
   - sifali-bitkiler
 latince: Castanea honey
-image: /images/bitkiler/kestane-bali.jpg
+image: 
 populer: false
 draft: false
 ---

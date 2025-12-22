@@ -16,7 +16,7 @@ tags:
   - beyaz-turp
   - sebzeler
 latince: Raphanus sativus longipinnatus
-image: /images/bitkiler/beyaz-turp.png
+image: /images/bitkiler/beyaz-turp.jpg
 populer: false
 draft: false
 sss:

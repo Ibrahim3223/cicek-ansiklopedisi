@@ -16,7 +16,7 @@ tags:
   - gul-surubu
   - sifali-bitkiler
 latince: Rosa syrup
-image: /images/bitkiler/gul-surubu.jpg
+image: 
 populer: false
 draft: false
 sss:

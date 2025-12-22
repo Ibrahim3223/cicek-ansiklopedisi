@@ -16,7 +16,7 @@ tags:
   - gul-suyu
   - sifali-bitkiler
 latince: Rosa water
-image: /images/bitkiler/gul-suyu.jpg
+image: 
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - can-erigi
   - meyveler
 latince: Prunus domestica syriaca
-image: /images/bitkiler/can-erigi.png
+image: /images/bitkiler/can-erigi.jpg
 populer: false
 draft: false
 sss:

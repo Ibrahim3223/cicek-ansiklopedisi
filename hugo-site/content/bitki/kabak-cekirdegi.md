@@ -16,7 +16,7 @@ tags:
   - kabak-cekirdegi
   - sebzeler
 latince: Cucurbita pepo seed
-image: /images/bitkiler/kabak-cekirdegi.jpg
+image: /images/bitkiler/kabak-cekirdegi.png
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - sumbul-sogani
   - bahce-bitkileri
 latince: Hyacinthus bulb
-image: /images/bitkiler/sumbul-sogani.jpg
+image: 
 populer: false
 draft: false
 sss:

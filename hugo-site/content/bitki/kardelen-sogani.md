@@ -16,7 +16,7 @@ tags:
   - kardelen-sogani
   - bahce-bitkileri
 latince: Galanthus bulb
-image: /images/bitkiler/kardelen-sogani.jpg
+image: 
 populer: false
 draft: false
 sss:

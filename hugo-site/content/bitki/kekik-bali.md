@@ -16,7 +16,7 @@ tags:
   - kekik-bali
   - sifali-bitkiler
 latince: Thymus honey
-image: /images/bitkiler/kekik-bali.jpg
+image: 
 populer: false
 draft: false
 sss:

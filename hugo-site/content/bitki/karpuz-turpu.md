@@ -16,7 +16,7 @@ tags:
   - karpuz-turpu
   - sebzeler
 latince: Raphanus sativus watermelon
-image: /images/bitkiler/karpuz-turpu.png
+image: /images/bitkiler/karpuz-turpu.jpg
 populer: false
 draft: false
 sss:

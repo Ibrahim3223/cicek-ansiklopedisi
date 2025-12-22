@@ -16,7 +16,7 @@ tags:
   - kore-armudu
   - meyveler
 latince: Pyrus pyrifolia korean
-image: /images/bitkiler/kore-armudu.png
+image: /images/bitkiler/kore-armudu.jpg
 populer: false
 draft: false
 sss:

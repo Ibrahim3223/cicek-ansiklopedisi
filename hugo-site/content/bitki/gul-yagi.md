@@ -16,7 +16,7 @@ tags:
   - gul-yagi
   - sifali-bitkiler
 latince: Rosa oil
-image: /images/bitkiler/gul-yagi.jpg
+image: 
 populer: false
 draft: false
 sss:
