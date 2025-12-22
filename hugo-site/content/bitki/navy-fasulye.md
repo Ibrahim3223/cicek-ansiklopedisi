@@ -16,7 +16,7 @@ tags:
   - navy-fasulye
   - sebzeler
 latince: Phaseolus vulgaris navy
-image: 
+image: /images/bitkiler/navy-fasulye.jpg
 populer: false
 draft: false
 sss:

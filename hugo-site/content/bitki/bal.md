@@ -16,7 +16,7 @@ tags:
   - bal
   - sifali-bitkiler
 latince: Apis mellifera honey
-image: 
+image: /images/bitkiler/bal.jpg
 populer: false
 draft: false
 sss:

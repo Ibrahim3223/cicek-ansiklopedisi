@@ -16,7 +16,7 @@ tags:
   - saraplik-uzum
   - meyveler
 latince: Vitis vinifera wine
-image: 
+image: /images/bitkiler/saraplik-uzum.jpg
 populer: false
 draft: false
 sss:

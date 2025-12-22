@@ -16,7 +16,7 @@ tags:
   - mor-karnabahar
   - sebzeler
 latince: Brassica oleracea purple cauliflower
-image: 
+image: /images/bitkiler/mor-karnabahar.jpg
 populer: false
 draft: false
 sss:

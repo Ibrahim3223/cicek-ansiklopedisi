@@ -16,7 +16,7 @@ tags:
   - beyaz-sogan
   - sebzeler
 latince: Allium cepa album
-image: 
+image: /images/bitkiler/beyaz-sogan.jpg
 populer: false
 draft: false
 sss:

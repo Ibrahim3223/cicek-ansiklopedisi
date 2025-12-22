@@ -16,7 +16,7 @@ tags:
   - hacihaliloglu-kayisisi
   - meyveler
 latince: Prunus armeniaca hacihaliloglu
-image: 
+image: /images/bitkiler/hacihaliloglu-kayisisi.jpg
 populer: false
 draft: false
 ---

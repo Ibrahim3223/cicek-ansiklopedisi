@@ -16,7 +16,7 @@ tags:
   - nashi-armut
   - meyveler
 latince: Pyrus pyrifolia nashi
-image: 
+image: /images/bitkiler/nashi-armut.jpg
 populer: false
 draft: false
 sss:

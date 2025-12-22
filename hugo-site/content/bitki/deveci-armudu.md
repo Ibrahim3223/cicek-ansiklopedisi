@@ -16,7 +16,7 @@ tags:
   - deveci-armudu
   - meyveler
 latince: Pyrus communis deveci
-image: 
+image: /images/bitkiler/deveci-armudu.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kirmizi-gelincik
   - cicek
 latince: Papaver rhoeas red
-image: 
+image: /images/bitkiler/kirmizi-gelincik.jpg
 populer: false
 draft: false
 sss:

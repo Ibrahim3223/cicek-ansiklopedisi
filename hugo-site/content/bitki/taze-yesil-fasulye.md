@@ -16,7 +16,7 @@ tags:
   - taze-yesil-fasulye
   - sebzeler
 latince: Phaseolus vulgaris green
-image: 
+image: /images/bitkiler/taze-yesil-fasulye.jpg
 populer: false
 draft: false
 sss:

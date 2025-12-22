@@ -16,7 +16,7 @@ tags:
   - karpuz-cekirdegi
   - meyveler
 latince: Citrullus lanatus seed
-image: 
+image: /images/bitkiler/karpuz-cekirdegi.jpg
 populer: false
 draft: false
 sss:

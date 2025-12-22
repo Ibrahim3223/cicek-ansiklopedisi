@@ -16,7 +16,7 @@ tags:
   - romanesco-brokoli
   - sebzeler
 latince: Brassica oleracea botrytis romanesco
-image: 
+image: /images/bitkiler/romanesco-brokoli.jpg
 populer: false
 draft: false
 sss:

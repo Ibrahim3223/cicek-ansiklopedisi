@@ -16,7 +16,7 @@ tags:
   - yesil-bamya
   - sebzeler
 latince: Abelmoschus esculentus green
-image: 
+image: /images/bitkiler/yesil-bamya.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - ingiliz-bezelye
   - sebzeler
 latince: Pisum sativum english
-image: 
+image: /images/bitkiler/ingiliz-bezelye.jpg
 populer: false
 draft: false
 sss:

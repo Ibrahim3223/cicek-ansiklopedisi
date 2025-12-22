@@ -16,7 +16,7 @@ tags:
   - uzum-domates
   - sebzeler
 latince: Solanum lycopersicum grape
-image: 
+image: /images/bitkiler/uzum-domates.jpg
 populer: false
 draft: false
 sss:

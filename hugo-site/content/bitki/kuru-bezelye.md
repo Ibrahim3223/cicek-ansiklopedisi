@@ -16,7 +16,7 @@ tags:
   - kuru-bezelye
   - sebzeler
 latince: Pisum sativum dried
-image: 
+image: /images/bitkiler/kuru-bezelye.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - bogurtlen-yapragi
   - sifali-bitkiler
 latince: Rubus fruticosus leaf
-image: 
+image: /images/bitkiler/bogurtlen-yapragi.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kahverengi-pirinc
   - bahce-bitkileri
 latince: Oryza sativa brown
-image: 
+image: /images/bitkiler/kahverengi-pirinc.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - limon-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum citriodorum
-image: 
+image: /images/bitkiler/limon-feslegeni.jpg
 populer: false
 draft: false
 sss:

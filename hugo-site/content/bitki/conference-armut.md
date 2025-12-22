@@ -16,7 +16,7 @@ tags:
   - conference-armut
   - meyveler
 latince: Pyrus communis conference
-image: 
+image: /images/bitkiler/conference-armut.jpg
 populer: false
 draft: false
 ---

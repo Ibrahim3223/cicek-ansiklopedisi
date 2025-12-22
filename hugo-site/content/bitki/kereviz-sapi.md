@@ -16,7 +16,7 @@ tags:
   - kereviz-sapi
   - sebzeler
 latince: Apium graveolens dulce
-image: 
+image: /images/bitkiler/kereviz-sapi.jpg
 populer: false
 draft: false
 sss:

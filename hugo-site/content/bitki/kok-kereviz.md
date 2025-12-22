@@ -16,7 +16,7 @@ tags:
   - kok-kereviz
   - sebzeler
 latince: Apium graveolens rapaceum
-image: 
+image: /images/bitkiler/kok-kereviz.jpg
 populer: false
 draft: false
 sss:

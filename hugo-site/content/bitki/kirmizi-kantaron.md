@@ -16,7 +16,7 @@ tags:
   - kirmizi-kantaron
   - sifali-bitkiler
 latince: Hypericum perforatum red
-image: 
+image: /images/bitkiler/kirmizi-kantaron.png
 populer: false
 draft: false
 sss:

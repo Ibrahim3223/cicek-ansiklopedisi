@@ -16,7 +16,7 @@ tags:
   - tropik-nilufer
   - bahce-bitkileri
 latince: Nymphaea tropical
-image: 
+image: /images/bitkiler/tropik-nilufer.jpg
 populer: false
 draft: false
 sss:

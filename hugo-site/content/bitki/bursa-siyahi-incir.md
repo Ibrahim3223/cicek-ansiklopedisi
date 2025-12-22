@@ -16,7 +16,7 @@ tags:
   - bursa-siyahi-incir
   - meyveler
 latince: Ficus carica bursa
-image: 
+image: /images/bitkiler/bursa-siyahi-incir.jpg
 populer: false
 draft: false
 sss:

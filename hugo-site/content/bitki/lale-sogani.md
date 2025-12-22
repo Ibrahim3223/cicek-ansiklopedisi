@@ -16,7 +16,7 @@ tags:
   - lale-sogani
   - bahce-bitkileri
 latince: Tulipa bulb
-image: 
+image: /images/bitkiler/lale-sogani.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - starking-delicious
   - meyveler
 latince: Malus domestica starking
-image: 
+image: /images/bitkiler/starking-delicious.jpg
 populer: false
 draft: false
 sss:

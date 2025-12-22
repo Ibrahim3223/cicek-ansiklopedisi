@@ -16,7 +16,7 @@ tags:
   - yaz-pirasasi
   - sebzeler
 latince: Allium ampeloprasum summer
-image: 
+image: /images/bitkiler/yaz-pirasasi.jpg
 populer: false
 draft: false
 sss:

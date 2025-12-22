@@ -16,7 +16,7 @@ tags:
   - sera-domates
   - sebzeler
 latince: Solanum lycopersicum greenhouse
-image: 
+image: /images/bitkiler/sera-domates.jpg
 populer: false
 draft: false
 sss:

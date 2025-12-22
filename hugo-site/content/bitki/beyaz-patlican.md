@@ -16,7 +16,7 @@ tags:
   - beyaz-patlican
   - sebzeler
 latince: Solanum melongena alba
-image: 
+image: /images/bitkiler/beyaz-patlican.jpg
 populer: false
 draft: false
 sss:

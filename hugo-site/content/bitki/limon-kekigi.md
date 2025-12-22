@@ -16,7 +16,7 @@ tags:
   - limon-kekigi
   - sifali-bitkiler
 latince: Thymus citriodorus
-image: 
+image: /images/bitkiler/limon-kekigi.jpg
 populer: false
 draft: false
 sss:

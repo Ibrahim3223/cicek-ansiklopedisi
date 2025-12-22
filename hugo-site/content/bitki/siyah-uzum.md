@@ -16,7 +16,7 @@ tags:
   - siyah-uzum
   - meyveler
 latince: Vitis vinifera black
-image: 
+image: /images/bitkiler/siyah-uzum.jpg
 populer: false
 draft: false
 sss:

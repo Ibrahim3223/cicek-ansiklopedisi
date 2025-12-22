@@ -16,7 +16,7 @@ tags:
   - beyaz-misir
   - sebzeler
 latince: Zea mays white
-image: 
+image: /images/bitkiler/beyaz-misir.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - turuncu-domates
   - sebzeler
 latince: Solanum lycopersicum orange
-image: 
+image: /images/bitkiler/turuncu-domates.jpg
 populer: false
 draft: false
 sss:

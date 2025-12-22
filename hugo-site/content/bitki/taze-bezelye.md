@@ -16,7 +16,7 @@ tags:
   - taze-bezelye
   - sebzeler
 latince: Pisum sativum fresh
-image: 
+image: /images/bitkiler/taze-bezelye.jpg
 populer: false
 draft: false
 sss:

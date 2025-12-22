@@ -16,7 +16,7 @@ tags:
   - kusburnu-cayi
   - sifali-bitkiler
 latince: Rosa canina tea
-image: 
+image: /images/bitkiler/kusburnu-cayi.jpg
 populer: false
 draft: false
 sss:

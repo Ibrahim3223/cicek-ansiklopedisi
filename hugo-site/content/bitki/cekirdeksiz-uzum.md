@@ -16,7 +16,7 @@ tags:
   - cekirdeksiz-uzum
   - meyveler
 latince: Vitis vinifera seedless
-image: 
+image: /images/bitkiler/cekirdeksiz-uzum.jpg
 populer: false
 draft: false
 sss:

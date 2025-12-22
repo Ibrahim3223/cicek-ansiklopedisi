@@ -16,7 +16,7 @@ tags:
   - pimiento-biber
   - sebzeler
 latince: Capsicum annuum pimiento
-image: 
+image: /images/bitkiler/pimiento-biber.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kurutulmus-bamya
   - sebzeler
 latince: Abelmoschus esculentus dried
-image: 
+image: /images/bitkiler/kurutulmus-bamya.jpg
 populer: false
 draft: false
 sss:

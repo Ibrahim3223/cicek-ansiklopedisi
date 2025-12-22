@@ -16,7 +16,7 @@ tags:
   - sari-mercimek
   - sebzeler
 latince: Lens culinaris yellow
-image: 
+image: /images/bitkiler/sari-mercimek.jpg
 populer: false
 draft: false
 sss:

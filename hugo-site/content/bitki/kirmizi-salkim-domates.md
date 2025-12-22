@@ -16,7 +16,7 @@ tags:
   - kirmizi-salkim-domates
   - sebzeler
 latince: Solanum lycopersicum cluster
-image: 
+image: /images/bitkiler/kirmizi-salkim-domates.jpg
 populer: false
 draft: false
 sss:

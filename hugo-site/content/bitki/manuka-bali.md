@@ -16,7 +16,7 @@ tags:
   - manuka-bali
   - sifali-bitkiler
 latince: Leptospermum scoparium honey
-image: 
+image: /images/bitkiler/manuka-bali.jpg
 populer: false
 draft: false
 sss:

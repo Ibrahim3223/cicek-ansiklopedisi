@@ -16,7 +16,7 @@ tags:
   - bergamot
   - meyveler
 latince: Citrus bergamia
-image: 
+image: /images/bitkiler/bergamot.jpg
 populer: false
 draft: false
 sss:

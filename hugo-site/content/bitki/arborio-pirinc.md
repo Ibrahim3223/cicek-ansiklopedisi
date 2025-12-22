@@ -16,7 +16,7 @@ tags:
   - arborio-pirinc
   - bahce-bitkileri
 latince: Oryza sativa arborio
-image: 
+image: /images/bitkiler/arborio-pirinc.jpg
 populer: false
 draft: false
 sss:

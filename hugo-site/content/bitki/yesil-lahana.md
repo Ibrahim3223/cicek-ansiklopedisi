@@ -16,7 +16,7 @@ tags:
   - yesil-lahana
   - sebzeler
 latince: Brassica oleracea green
-image: 
+image: /images/bitkiler/yesil-lahana.jpg
 populer: false
 draft: false
 sss:

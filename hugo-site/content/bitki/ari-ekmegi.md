@@ -16,7 +16,7 @@ tags:
   - ari-ekmegi
   - sifali-bitkiler
 latince: Apis mellifera bee bread
-image: 
+image: /images/bitkiler/ari-ekmegi.jpg
 populer: false
 draft: false
 sss:

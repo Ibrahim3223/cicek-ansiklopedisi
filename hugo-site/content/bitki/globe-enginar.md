@@ -16,7 +16,7 @@ tags:
   - globe-enginar
   - sebzeler
 latince: Cynara scolymus globe
-image: 
+image: /images/bitkiler/globe-enginar.jpg
 populer: false
 draft: false
 ---

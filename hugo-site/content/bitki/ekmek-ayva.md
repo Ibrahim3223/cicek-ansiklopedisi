@@ -16,7 +16,7 @@ tags:
   - ekmek-ayva
   - meyveler
 latince: Cydonia oblonga apple
-image: 
+image: /images/bitkiler/ekmek-ayva.jpg
 populer: false
 draft: false
 sss:

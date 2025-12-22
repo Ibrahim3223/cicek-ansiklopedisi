@@ -16,7 +16,7 @@ tags:
   - nektarin
   - meyveler
 latince: Prunus persica nectarina
-image: 
+image: /images/bitkiler/nektarin.jpg
 populer: false
 draft: false
 sss:

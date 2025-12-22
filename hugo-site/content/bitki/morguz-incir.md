@@ -16,7 +16,7 @@ tags:
   - morguz-incir
   - meyveler
 latince: Ficus carica morguz
-image: 
+image: /images/bitkiler/morguz-incir.jpg
 populer: false
 draft: false
 sss:

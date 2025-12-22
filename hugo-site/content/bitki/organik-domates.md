@@ -16,7 +16,7 @@ tags:
   - organik-domates
   - sebzeler
 latince: Solanum lycopersicum organic
-image: 
+image: /images/bitkiler/organik-domates.jpg
 populer: false
 draft: false
 sss:

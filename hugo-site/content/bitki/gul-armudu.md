@@ -16,7 +16,7 @@ tags:
   - gul-armudu
   - meyveler
 latince: Pyrus communis rose
-image: 
+image: /images/bitkiler/gul-armudu.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - neon-pothos
   - ev-bitkileri
 latince: Epipremnum aureum neon
-image: 
+image: /images/bitkiler/neon-pothos.jpg
 populer: false
 draft: false
 sss:

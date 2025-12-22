@@ -16,7 +16,7 @@ tags:
   - san-andreas-cilek
   - meyveler
 latince: Fragaria ananassa san andreas
-image: 
+image: /images/bitkiler/san-andreas-cilek.jpg
 populer: false
 draft: false
 sss:

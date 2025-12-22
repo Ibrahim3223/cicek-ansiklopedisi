@@ -16,7 +16,7 @@ tags:
   - kirmizi-nane
   - sifali-bitkiler
 latince: Mentha piperita
-image: 
+image: /images/bitkiler/kirmizi-nane.jpg
 populer: false
 draft: false
 sss:

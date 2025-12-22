@@ -16,7 +16,7 @@ tags:
   - kirmizi-kure-uzum
   - meyveler
 latince: Vitis vinifera red globe
-image: 
+image: /images/bitkiler/kirmizi-kure-uzum.jpg
 populer: false
 draft: false
 sss:

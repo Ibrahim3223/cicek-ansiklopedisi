@@ -16,7 +16,7 @@ tags:
   - duz-seftali
   - meyveler
 latince: Prunus persica platycarpa
-image: 
+image: /images/bitkiler/duz-seftali.jpg
 populer: false
 draft: false
 sss:

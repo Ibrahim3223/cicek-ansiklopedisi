@@ -16,7 +16,7 @@ tags:
   - taze-bamya
   - sebzeler
 latince: Abelmoschus esculentus fresh
-image: 
+image: /images/bitkiler/taze-bamya.jpg
 populer: false
 draft: false
 sss:

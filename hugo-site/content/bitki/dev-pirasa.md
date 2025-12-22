@@ -16,7 +16,7 @@ tags:
   - dev-pirasa
   - sebzeler
 latince: Allium ampeloprasum giant
-image: 
+image: /images/bitkiler/dev-pirasa.png
 populer: false
 draft: false
 sss:

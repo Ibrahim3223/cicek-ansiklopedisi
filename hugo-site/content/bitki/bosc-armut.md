@@ -16,7 +16,7 @@ tags:
   - bosc-armut
   - meyveler
 latince: Pyrus communis bosc
-image: 
+image: /images/bitkiler/bosc-armut.jpg
 populer: false
 draft: false
 sss:

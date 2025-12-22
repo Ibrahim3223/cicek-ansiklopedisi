@@ -16,7 +16,7 @@ tags:
   - sorgum-surubu
   - bahce-bitkileri
 latince: Sorghum bicolor syrup
-image: 
+image: /images/bitkiler/sorgum-surubu.jpg
 populer: false
 draft: false
 sss:

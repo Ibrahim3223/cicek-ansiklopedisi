@@ -16,7 +16,7 @@ tags:
   - sari-fasulye
   - sebzeler
 latince: Phaseolus vulgaris yellow
-image: 
+image: /images/bitkiler/sari-fasulye.jpg
 populer: false
 draft: false
 sss:

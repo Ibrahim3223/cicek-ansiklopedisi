@@ -16,7 +16,7 @@ tags:
   - beyaz-yaprakli-kereviz
   - sebzeler
 latince: Apium graveolens white leaf
-image: 
+image: /images/bitkiler/beyaz-yaprakli-kereviz.jpg
 populer: false
 draft: false
 sss:

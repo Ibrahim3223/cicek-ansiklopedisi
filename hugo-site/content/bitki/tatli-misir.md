@@ -16,7 +16,7 @@ tags:
   - tatli-misir
   - sebzeler
 latince: Zea mays saccharata
-image: 
+image: /images/bitkiler/tatli-misir.jpg
 populer: false
 draft: false
 sss:

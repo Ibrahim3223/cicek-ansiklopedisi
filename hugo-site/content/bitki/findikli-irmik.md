@@ -16,7 +16,7 @@ tags:
   - findikli-irmik
   - bahce-bitkileri
 latince: Corylus avellana hazelnut semolina
-image: 
+image: /images/bitkiler/findikli-irmik.jpg
 populer: false
 draft: false
 sss:

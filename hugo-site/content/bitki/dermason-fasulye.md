@@ -16,7 +16,7 @@ tags:
   - dermason-fasulye
   - sebzeler
 latince: Phaseolus vulgaris dermason
-image: 
+image: /images/bitkiler/dermason-fasulye.jpg
 populer: false
 draft: false
 sss:

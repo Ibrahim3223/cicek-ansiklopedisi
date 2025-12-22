@@ -16,7 +16,7 @@ tags:
   - yesil-mercimek
   - sebzeler
 latince: Lens culinaris green
-image: 
+image: /images/bitkiler/yesil-mercimek.jpg
 populer: false
 draft: false
 sss:

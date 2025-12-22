@@ -16,7 +16,7 @@ tags:
   - pinto-fasulye
   - sebzeler
 latince: Phaseolus vulgaris pinto
-image: 
+image: /images/bitkiler/pinto-fasulye.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - sari-misir
   - sebzeler
 latince: Zea mays yellow
-image: 
+image: /images/bitkiler/sari-misir.jpg
 populer: false
 draft: false
 sss:

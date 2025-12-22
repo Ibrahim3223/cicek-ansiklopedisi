@@ -16,7 +16,7 @@ tags:
   - ay-cekirdegi
   - bahce-bitkileri
 latince: Helianthus annuus seed
-image: 
+image: /images/bitkiler/ay-cekirdegi.jpg
 populer: false
 draft: false
 sss:

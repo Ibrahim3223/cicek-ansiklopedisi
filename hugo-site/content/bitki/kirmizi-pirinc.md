@@ -16,7 +16,7 @@ tags:
   - kirmizi-pirinc
   - bahce-bitkileri
 latince: Oryza sativa red
-image: 
+image: /images/bitkiler/kirmizi-pirinc.jpg
 populer: false
 draft: false
 sss:

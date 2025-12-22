@@ -16,7 +16,7 @@ tags:
   - barbunya
   - sebzeler
 latince: Phaseolus vulgaris borlotti
-image: 
+image: /images/bitkiler/barbunya.jpg
 populer: false
 draft: false
 sss:

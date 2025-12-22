@@ -16,7 +16,7 @@ tags:
   - mor-lahana
   - sebzeler
 latince: Brassica oleracea purple
-image: 
+image: /images/bitkiler/mor-lahana.jpg
 populer: false
 draft: false
 sss:

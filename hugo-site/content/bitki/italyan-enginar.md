@@ -16,7 +16,7 @@ tags:
   - italyan-enginar
   - sebzeler
 latince: Cynara cardunculus italian
-image: 
+image: /images/bitkiler/italyan-enginar.jpg
 populer: false
 draft: false
 sss:

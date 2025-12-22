@@ -16,7 +16,7 @@ tags:
   - japon-armudu
   - meyveler
 latince: Pyrus pyrifolia japanese
-image: 
+image: /images/bitkiler/japon-armudu.jpg
 populer: false
 draft: false
 sss:

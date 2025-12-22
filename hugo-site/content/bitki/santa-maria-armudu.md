@@ -16,7 +16,7 @@ tags:
   - santa-maria-armudu
   - meyveler
 latince: Pyrus communis santa maria
-image: 
+image: /images/bitkiler/santa-maria-armudu.jpg
 populer: false
 draft: false
 sss:

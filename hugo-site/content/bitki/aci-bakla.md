@@ -16,7 +16,7 @@ tags:
   - aci-bakla
   - sebzeler
 latince: Vicia faba bitter
-image: 
+image: /images/bitkiler/aci-bakla.jpg
 populer: false
 draft: false
 sss:

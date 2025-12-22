@@ -16,7 +16,7 @@ tags:
   - cayenne-biber
   - sebzeler
 latince: Capsicum annuum cayenne
-image: 
+image: /images/bitkiler/cayenne-biber.jpg
 populer: false
 draft: false
 sss:

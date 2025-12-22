@@ -16,7 +16,7 @@ tags:
   - kimyon-tohumu
   - sifali-bitkiler
 latince: Cuminum cyminum seed
-image: 
+image: /images/bitkiler/kimyon-tohumu.jpg
 populer: false
 draft: false
 sss:

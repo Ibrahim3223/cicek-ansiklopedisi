@@ -16,7 +16,7 @@ tags:
   - kenevir-tohumu
   - bahce-bitkileri
 latince: Cannabis sativa seed
-image: 
+image: /images/bitkiler/kenevir-tohumu.jpg
 populer: false
 draft: false
 sss:

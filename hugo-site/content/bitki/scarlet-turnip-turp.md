@@ -16,7 +16,7 @@ tags:
   - scarlet-turnip-turp
   - sebzeler
 latince: Raphanus sativus scarlet turnip
-image: 
+image: /images/bitkiler/scarlet-turnip-turp.jpg
 populer: false
 draft: false
 sss:

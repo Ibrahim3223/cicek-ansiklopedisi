@@ -16,7 +16,7 @@ tags:
   - milano-lahana
   - sebzeler
 latince: Brassica oleracea milan
-image: 
+image: /images/bitkiler/milano-lahana.jpg
 populer: false
 draft: false
 sss:

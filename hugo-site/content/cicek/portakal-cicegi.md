@@ -16,7 +16,7 @@ tags:
   - portakal-cicegi
   - cicek
 latince: Citrus sinensis
-image: 
+image: /images/bitkiler/portakal-cicegi.jpg
 populer: false
 draft: false
 sss:

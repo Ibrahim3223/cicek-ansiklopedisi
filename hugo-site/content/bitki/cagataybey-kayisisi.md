@@ -16,7 +16,7 @@ tags:
   - cagataybey-kayisisi
   - meyveler
 latince: Prunus armeniaca cagatay
-image: 
+image: /images/bitkiler/cagataybey-kayisisi.jpg
 populer: false
 draft: false
 sss:

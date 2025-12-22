@@ -16,7 +16,7 @@ tags:
   - razaki-uzum
   - meyveler
 latince: Vitis vinifera razaki
-image: 
+image: /images/bitkiler/razaki-uzum.jpg
 populer: false
 draft: false
 sss:

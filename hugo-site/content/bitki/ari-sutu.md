@@ -16,7 +16,7 @@ tags:
   - ari-sutu
   - sifali-bitkiler
 latince: Apis mellifera royal jelly
-image: 
+image: /images/bitkiler/ari-sutu.jpg
 populer: false
 draft: false
 sss:

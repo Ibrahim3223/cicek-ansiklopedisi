@@ -16,7 +16,7 @@ tags:
   - tatli-kirmizi-domates
   - sebzeler
 latince: Solanum lycopersicum sweet red
-image: 
+image: /images/bitkiler/tatli-kirmizi-domates.jpg
 populer: false
 draft: false
 sss:

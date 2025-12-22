@@ -16,7 +16,7 @@ tags:
   - granny-smith-elma
   - meyveler
 latince: Malus domestica granny
-image: 
+image: /images/bitkiler/granny-smith-elma.jpg
 populer: false
 draft: false
 sss:

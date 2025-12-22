@@ -16,7 +16,7 @@ tags:
   - horoz-fasulye
   - sebzeler
 latince: Phaseolus vulgaris horoz
-image: 
+image: /images/bitkiler/horoz-fasulye.jpg
 populer: false
 draft: false
 sss:

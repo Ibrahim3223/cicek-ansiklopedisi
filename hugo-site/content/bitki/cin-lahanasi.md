@@ -16,7 +16,7 @@ tags:
   - cin-lahanasi
   - sebzeler
 latince: Brassica rapa pekinensis
-image: 
+image: /images/bitkiler/cin-lahanasi.jpg
 populer: false
 draft: false
 sss:

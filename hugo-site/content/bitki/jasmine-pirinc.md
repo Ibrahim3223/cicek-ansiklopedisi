@@ -16,7 +16,7 @@ tags:
   - jasmine-pirinc
   - bahce-bitkileri
 latince: Oryza sativa jasmine
-image: 
+image: /images/bitkiler/jasmine-pirinc.jpg
 populer: false
 draft: false
 sss:

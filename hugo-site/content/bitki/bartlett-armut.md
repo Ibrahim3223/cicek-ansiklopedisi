@@ -16,7 +16,7 @@ tags:
   - bartlett-armut
   - meyveler
 latince: Pyrus communis bartlett
-image: 
+image: /images/bitkiler/bartlett-armut.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - yesil-domates
   - sebzeler
 latince: Solanum lycopersicum green
-image: 
+image: /images/bitkiler/yesil-domates.jpg
 populer: false
 draft: false
 sss:

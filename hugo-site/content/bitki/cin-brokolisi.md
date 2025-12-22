@@ -16,7 +16,7 @@ tags:
   - cin-brokolisi
   - sebzeler
 latince: Brassica oleracea alboglabra
-image: 
+image: /images/bitkiler/cin-brokolisi.jpg
 populer: false
 draft: false
 sss:

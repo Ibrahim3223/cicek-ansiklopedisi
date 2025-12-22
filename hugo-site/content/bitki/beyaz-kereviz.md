@@ -16,7 +16,7 @@ tags:
   - beyaz-kereviz
   - sebzeler
 latince: Apium graveolens white
-image: 
+image: /images/bitkiler/beyaz-kereviz.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kirmizi-nohut
   - sebzeler
 latince: Cicer arietinum red
-image: 
+image: /images/bitkiler/kirmizi-nohut.jpg
 populer: false
 draft: false
 sss:

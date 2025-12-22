@@ -16,7 +16,7 @@ tags:
   - williams-armut
   - meyveler
 latince: Pyrus communis williams
-image: 
+image: /images/bitkiler/williams-armut.jpg
 populer: false
 draft: false
 sss:

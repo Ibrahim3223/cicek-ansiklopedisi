@@ -16,7 +16,7 @@ tags:
   - scotch-bonnet-biber
   - sebzeler
 latince: Capsicum chinense scotch bonnet
-image: 
+image: /images/bitkiler/scotch-bonnet-biber.jpg
 populer: false
 draft: false
 sss:

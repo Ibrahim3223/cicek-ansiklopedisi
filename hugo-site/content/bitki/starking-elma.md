@@ -16,7 +16,7 @@ tags:
   - starking-elma
   - meyveler
 latince: Malus domestica red delicious
-image: 
+image: /images/bitkiler/starking-elma.jpg
 populer: false
 draft: false
 sss:

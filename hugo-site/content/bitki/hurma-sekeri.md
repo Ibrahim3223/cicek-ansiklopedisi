@@ -16,7 +16,7 @@ tags:
   - hurma-sekeri
   - bahce-bitkileri
 latince: Phoenix dactylifera sugar
-image: 
+image: /images/bitkiler/hurma-sekeri.jpg
 populer: false
 draft: false
 sss:

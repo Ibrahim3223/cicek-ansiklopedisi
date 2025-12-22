@@ -16,7 +16,7 @@ tags:
   - kirmizi-kaliforniya-biber
   - sebzeler
 latince: Capsicum annuum red california
-image: 
+image: /images/bitkiler/kirmizi-kaliforniya-biber.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kisnis-tohumu
   - sifali-bitkiler
 latince: Coriandrum sativum seed
-image: 
+image: /images/bitkiler/kisnis-tohumu.jpg
 populer: false
 draft: false
 sss:

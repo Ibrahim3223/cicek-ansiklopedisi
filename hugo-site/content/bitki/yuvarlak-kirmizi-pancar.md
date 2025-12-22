@@ -16,7 +16,7 @@ tags:
   - yuvarlak-kirmizi-pancar
   - sebzeler
 latince: Beta vulgaris round red
-image: 
+image: /images/bitkiler/yuvarlak-kirmizi-pancar.jpg
 populer: false
 draft: false
 sss:

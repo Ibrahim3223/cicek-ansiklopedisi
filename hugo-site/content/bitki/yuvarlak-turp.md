@@ -16,7 +16,7 @@ tags:
   - yuvarlak-turp
   - sebzeler
 latince: Raphanus sativus round
-image: 
+image: /images/bitkiler/yuvarlak-turp.jpg
 populer: false
 draft: false
 sss:

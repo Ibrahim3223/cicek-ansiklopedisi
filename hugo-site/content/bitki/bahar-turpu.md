@@ -16,7 +16,7 @@ tags:
   - bahar-turpu
   - sebzeler
 latince: Raphanus sativus spring
-image: 
+image: /images/bitkiler/bahar-turpu.jpg
 populer: false
 draft: false
 sss:

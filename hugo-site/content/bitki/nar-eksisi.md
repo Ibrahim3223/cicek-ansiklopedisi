@@ -16,7 +16,7 @@ tags:
   - nar-eksisi
   - meyveler
 latince: Punica granatum molasses
-image: 
+image: /images/bitkiler/nar-eksisi.jpg
 populer: false
 draft: false
 sss:

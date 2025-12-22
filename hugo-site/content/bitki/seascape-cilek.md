@@ -16,7 +16,7 @@ tags:
   - seascape-cilek
   - meyveler
 latince: Fragaria ananassa seascape
-image: 
+image: /images/bitkiler/seascape-cilek.jpg
 populer: false
 draft: false
 ---

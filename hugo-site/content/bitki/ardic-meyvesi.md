@@ -16,7 +16,7 @@ tags:
   - ardic-meyvesi
   - sifali-bitkiler
 latince: Juniperus communis berry
-image: 
+image: /images/bitkiler/ardic-meyvesi.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - roma-domates
   - sebzeler
 latince: Solanum lycopersicum roma
-image: 
+image: /images/bitkiler/roma-domates.jpg
 populer: false
 draft: false
 ---

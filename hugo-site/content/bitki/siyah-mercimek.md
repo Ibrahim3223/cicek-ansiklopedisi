@@ -16,7 +16,7 @@ tags:
   - siyah-mercimek
   - sebzeler
 latince: Lens culinaris black
-image: 
+image: /images/bitkiler/siyah-mercimek.jpg
 populer: false
 draft: false
 sss:

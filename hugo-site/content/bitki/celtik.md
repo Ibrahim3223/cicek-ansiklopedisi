@@ -16,7 +16,7 @@ tags:
   - celtik
   - bahce-bitkileri
 latince: Oryza sativa rice
-image: 
+image: /images/bitkiler/celtik.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - ak-turp
   - sebzeler
 latince: Raphanus sativus albus
-image: 
+image: /images/bitkiler/ak-turp.jpg
 populer: false
 draft: false
 sss:

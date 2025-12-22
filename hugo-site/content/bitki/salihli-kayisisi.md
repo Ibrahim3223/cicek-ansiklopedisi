@@ -16,7 +16,7 @@ tags:
   - salihli-kayisisi
   - meyveler
 latince: Prunus armeniaca salihli
-image: 
+image: /images/bitkiler/salihli-kayisisi.jpg
 populer: false
 draft: false
 sss:

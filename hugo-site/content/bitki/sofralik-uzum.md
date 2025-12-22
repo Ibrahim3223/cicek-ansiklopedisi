@@ -16,7 +16,7 @@ tags:
   - sofralik-uzum
   - meyveler
 latince: Vitis vinifera table
-image: 
+image: /images/bitkiler/sofralik-uzum.jpg
 populer: false
 draft: false
 sss:

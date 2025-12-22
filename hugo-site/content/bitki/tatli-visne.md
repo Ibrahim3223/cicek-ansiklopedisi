@@ -16,7 +16,7 @@ tags:
   - tatli-visne
   - meyveler
 latince: Prunus cerasus morello
-image: 
+image: /images/bitkiler/tatli-visne.jpg
 populer: false
 draft: false
 sss:

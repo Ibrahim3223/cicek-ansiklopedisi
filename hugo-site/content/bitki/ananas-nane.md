@@ -16,7 +16,7 @@ tags:
   - ananas-nane
   - sifali-bitkiler
 latince: Mentha suaveolens variegata
-image: 
+image: /images/bitkiler/ananas-nane.jpg
 populer: false
 draft: false
 sss:

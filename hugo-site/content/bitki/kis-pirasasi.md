@@ -16,7 +16,7 @@ tags:
   - kis-pirasasi
   - sebzeler
 latince: Allium ampeloprasum winter
-image: 
+image: /images/bitkiler/kis-pirasasi.jpg
 populer: false
 draft: false
 sss:

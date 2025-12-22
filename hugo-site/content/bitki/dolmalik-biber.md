@@ -16,7 +16,7 @@ tags:
   - dolmalik-biber
   - sebzeler
 latince: Capsicum annuum grossum
-image: 
+image: /images/bitkiler/dolmalik-biber.jpg
 populer: false
 draft: false
 sss:

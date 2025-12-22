@@ -16,7 +16,7 @@ tags:
   - california-wonder-biber
   - sebzeler
 latince: Capsicum annuum california
-image: 
+image: /images/bitkiler/california-wonder-biber.jpg
 populer: false
 draft: false
 sss:

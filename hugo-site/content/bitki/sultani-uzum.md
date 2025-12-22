@@ -16,7 +16,7 @@ tags:
   - sultani-uzum
   - meyveler
 latince: Vitis vinifera sultana
-image: 
+image: /images/bitkiler/sultani-uzum.jpg
 populer: false
 draft: false
 ---

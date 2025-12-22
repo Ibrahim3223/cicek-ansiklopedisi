@@ -16,7 +16,7 @@ tags:
   - kahverengi-mercimek
   - sebzeler
 latince: Lens culinaris brown
-image: 
+image: /images/bitkiler/kahverengi-mercimek.jpg
 populer: false
 draft: false
 sss:

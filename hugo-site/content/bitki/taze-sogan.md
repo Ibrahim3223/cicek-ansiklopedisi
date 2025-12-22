@@ -16,7 +16,7 @@ tags:
   - taze-sogan
   - sebzeler
 latince: Allium cepa viviparum
-image: 
+image: /images/bitkiler/taze-sogan.jpg
 populer: false
 draft: false
 sss:

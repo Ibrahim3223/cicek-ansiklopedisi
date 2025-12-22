@@ -16,7 +16,7 @@ tags:
   - yunan-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum greek
-image: 
+image: /images/bitkiler/yunan-feslegeni.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - envy-elma
   - meyveler
 latince: Malus domestica envy
-image: 
+image: /images/bitkiler/envy-elma.jpg
 populer: false
 draft: false
 sss:

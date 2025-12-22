@@ -16,7 +16,7 @@ tags:
   - kirmizi-seker-pancari
   - sebzeler
 latince: Beta vulgaris red
-image: 
+image: /images/bitkiler/kirmizi-seker-pancari.jpg
 populer: false
 draft: false
 sss:

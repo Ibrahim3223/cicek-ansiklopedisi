@@ -16,7 +16,7 @@ tags:
   - beluga-mercimek
   - sebzeler
 latince: Lens culinaris beluga
-image: 
+image: /images/bitkiler/beluga-mercimek.jpg
 populer: false
 draft: false
 sss:

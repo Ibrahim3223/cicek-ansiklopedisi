@@ -16,7 +16,7 @@ tags:
   - mor-patlican
   - sebzeler
 latince: Solanum melongena purple
-image: 
+image: /images/bitkiler/mor-patlican.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - napoleon-kiraz
   - meyveler
 latince: Prunus avium napoleon
-image: 
+image: /images/bitkiler/napoleon-kiraz.jpg
 populer: false
 draft: false
 sss:

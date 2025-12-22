@@ -16,7 +16,7 @@ tags:
   - dondurulmus-bezelye
   - sebzeler
 latince: Pisum sativum frozen
-image: 
+image: /images/bitkiler/dondurulmus-bezelye.jpg
 populer: false
 draft: false
 sss:

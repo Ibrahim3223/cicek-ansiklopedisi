@@ -16,7 +16,7 @@ tags:
   - cherry-belle-turp
   - sebzeler
 latince: Raphanus sativus cherry belle
-image: 
+image: /images/bitkiler/cherry-belle-turp.jpg
 populer: false
 draft: false
 sss:

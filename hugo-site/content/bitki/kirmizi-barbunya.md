@@ -16,7 +16,7 @@ tags:
   - kirmizi-barbunya
   - sebzeler
 latince: Phaseolus vulgaris cranberry
-image: 
+image: /images/bitkiler/kirmizi-barbunya.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kohlrabi
   - sebzeler
 latince: Brassica oleracea gongylodes
-image: 
+image: /images/bitkiler/kohlrabi.jpg
 populer: false
 draft: false
 sss:

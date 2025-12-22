@@ -16,7 +16,7 @@ tags:
   - turp
   - sebzeler
 latince: Raphanus sativus
-image: 
+image: /images/bitkiler/turp.jpg
 populer: false
 draft: false
 sss:

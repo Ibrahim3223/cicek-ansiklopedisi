@@ -16,7 +16,7 @@ tags:
   - visne-domates
   - sebzeler
 latince: Solanum lycopersicum cherry
-image: 
+image: /images/bitkiler/visne-domates.jpg
 populer: false
 draft: false
 sss:

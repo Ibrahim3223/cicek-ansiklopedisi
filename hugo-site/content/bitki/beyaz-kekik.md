@@ -16,7 +16,7 @@ tags:
   - beyaz-kekik
   - sifali-bitkiler
 latince: Thymus vulgaris white
-image: 
+image: /images/bitkiler/beyaz-kekik.jpg
 populer: false
 draft: false
 sss:

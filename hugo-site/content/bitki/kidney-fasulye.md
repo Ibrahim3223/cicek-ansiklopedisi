@@ -16,7 +16,7 @@ tags:
   - kidney-fasulye
   - sebzeler
 latince: Phaseolus vulgaris kidney
-image: 
+image: /images/bitkiler/kidney-fasulye.jpg
 populer: false
 draft: false
 sss:

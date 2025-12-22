@@ -16,7 +16,7 @@ tags:
   - arpacik-sogan
   - sebzeler
 latince: Allium cepa aggregatum
-image: 
+image: /images/bitkiler/arpacik-sogan.jpg
 populer: false
 draft: false
 sss:

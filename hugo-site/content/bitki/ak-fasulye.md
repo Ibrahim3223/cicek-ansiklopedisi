@@ -16,7 +16,7 @@ tags:
   - ak-fasulye
   - sebzeler
 latince: Phaseolus vulgaris white
-image: 
+image: /images/bitkiler/ak-fasulye.jpg
 populer: false
 draft: false
 sss:

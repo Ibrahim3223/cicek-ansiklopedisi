@@ -16,7 +16,7 @@ tags:
   - bruksel-lahanasi
   - sebzeler
 latince: Brassica oleracea gemmifera
-image: 
+image: /images/bitkiler/bruksel-lahanasi.jpg
 populer: false
 draft: false
 sss:

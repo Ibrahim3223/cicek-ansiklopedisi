@@ -16,7 +16,7 @@ tags:
   - jazz-elma
   - meyveler
 latince: Malus domestica jazz
-image: 
+image: /images/bitkiler/jazz-elma.jpg
 populer: false
 draft: false
 sss:

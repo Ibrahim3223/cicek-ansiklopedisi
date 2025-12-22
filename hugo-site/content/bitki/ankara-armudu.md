@@ -16,7 +16,7 @@ tags:
   - ankara-armudu
   - meyveler
 latince: Pyrus communis ankara
-image: 
+image: /images/bitkiler/ankara-armudu.jpg
 populer: false
 draft: false
 sss:

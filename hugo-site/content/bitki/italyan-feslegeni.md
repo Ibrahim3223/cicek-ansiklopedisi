@@ -16,7 +16,7 @@ tags:
   - italyan-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum italian
-image: 
+image: /images/bitkiler/italyan-feslegeni.jpg
 populer: false
 draft: false
 sss:

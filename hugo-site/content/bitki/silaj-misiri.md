@@ -16,7 +16,7 @@ tags:
   - silaj-misiri
   - bahce-bitkileri
 latince: Zea mays silage
-image: 
+image: /images/bitkiler/silaj-misiri.jpg
 populer: false
 draft: false
 sss:

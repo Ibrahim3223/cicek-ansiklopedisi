@@ -16,7 +16,7 @@ tags:
   - siyah-ispanyol-turpu
   - sebzeler
 latince: Raphanus sativus black spanish
-image: 
+image: /images/bitkiler/siyah-ispanyol-turpu.jpg
 populer: false
 draft: false
 sss:

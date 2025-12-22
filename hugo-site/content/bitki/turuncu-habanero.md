@@ -16,7 +16,7 @@ tags:
   - turuncu-habanero
   - sebzeler
 latince: Capsicum chinense orange habanero
-image: 
+image: /images/bitkiler/turuncu-habanero.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - beyaz-gelincik
   - cicek
 latince: Papaver rhoeas white
-image: 
+image: /images/bitkiler/beyaz-gelincik.jpg
 populer: false
 draft: false
 sss:

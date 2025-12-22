@@ -16,7 +16,7 @@ tags:
   - nisasta-misiri
   - bahce-bitkileri
 latince: Zea mays starch
-image: 
+image: /images/bitkiler/nisasta-misiri.jpg
 populer: false
 draft: false
 sss:

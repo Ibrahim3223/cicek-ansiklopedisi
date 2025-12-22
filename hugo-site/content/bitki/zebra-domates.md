@@ -16,7 +16,7 @@ tags:
   - zebra-domates
   - sebzeler
 latince: Solanum lycopersicum zebra
-image: 
+image: /images/bitkiler/zebra-domates.jpg
 populer: false
 draft: false
 sss:

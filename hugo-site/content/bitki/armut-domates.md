@@ -16,7 +16,7 @@ tags:
   - armut-domates
   - sebzeler
 latince: Solanum lycopersicum pear
-image: 
+image: /images/bitkiler/armut-domates.jpg
 populer: false
 draft: false
 sss:

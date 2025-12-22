@@ -16,7 +16,7 @@ tags:
   - kayisi-cicegi
   - cicek
 latince: Prunus armeniaca
-image: 
+image: /images/bitkiler/kayisi-cicegi.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - patlamis-misir
   - sebzeler
 latince: Zea mays everta
-image: 
+image: /images/bitkiler/patlamis-misir.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - romanesco-karnabahar
   - sebzeler
 latince: Brassica oleracea romanesco cauliflower
-image: 
+image: /images/bitkiler/romanesco-karnabahar.jpg
 populer: false
 draft: false
 sss:

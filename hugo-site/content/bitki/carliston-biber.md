@@ -16,7 +16,7 @@ tags:
   - carliston-biber
   - sebzeler
 latince: Capsicum annuum charleston
-image: 
+image: /images/bitkiler/carliston-biber.jpg
 populer: false
 draft: false
 sss:

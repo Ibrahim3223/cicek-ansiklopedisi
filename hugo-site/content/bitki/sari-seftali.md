@@ -16,7 +16,7 @@ tags:
   - sari-seftali
   - meyveler
 latince: Prunus persica yellow
-image: 
+image: /images/bitkiler/sari-seftali.jpg
 populer: false
 draft: false
 sss:

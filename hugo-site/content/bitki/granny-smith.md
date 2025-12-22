@@ -16,7 +16,7 @@ tags:
   - granny-smith
   - meyveler
 latince: Malus domestica granny smith
-image: 
+image: /images/bitkiler/granny-smith.jpg
 populer: false
 draft: false
 sss:

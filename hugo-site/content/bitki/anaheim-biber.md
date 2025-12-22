@@ -16,7 +16,7 @@ tags:
   - anaheim-biber
   - sebzeler
 latince: Capsicum annuum anaheim
-image: 
+image: /images/bitkiler/anaheim-biber.jpg
 populer: false
 draft: false
 sss:

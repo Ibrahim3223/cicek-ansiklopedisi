@@ -16,7 +16,7 @@ tags:
   - uzun-turp
   - sebzeler
 latince: Raphanus sativus long
-image: 
+image: /images/bitkiler/uzun-turp.jpg
 populer: false
 draft: false
 sss:

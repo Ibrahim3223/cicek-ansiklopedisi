@@ -16,7 +16,7 @@ tags:
   - savoy-lahana
   - sebzeler
 latince: Brassica oleracea sabauda
-image: 
+image: /images/bitkiler/savoy-lahana.jpg
 populer: false
 draft: false
 sss:

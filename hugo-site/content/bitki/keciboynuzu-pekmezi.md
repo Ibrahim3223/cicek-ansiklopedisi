@@ -16,7 +16,7 @@ tags:
   - keciboynuzu-pekmezi
   - sifali-bitkiler
 latince: Ceratonia siliqua molasses
-image: 
+image: /images/bitkiler/keciboynuzu-pekmezi.jpg
 populer: false
 draft: false
 sss:

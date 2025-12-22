@@ -16,7 +16,7 @@ tags:
   - tatli-feslegen
   - sifali-bitkiler
 latince: Ocimum basilicum sweet
-image: 
+image: /images/bitkiler/tatli-feslegen.jpg
 populer: false
 draft: false
 sss:

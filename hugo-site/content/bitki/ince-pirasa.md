@@ -16,7 +16,7 @@ tags:
   - ince-pirasa
   - sebzeler
 latince: Allium ampeloprasum thin
-image: 
+image: /images/bitkiler/ince-pirasa.jpg
 populer: false
 draft: false
 sss:

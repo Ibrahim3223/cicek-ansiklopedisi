@@ -16,7 +16,7 @@ tags:
   - ispanyol-papatyasi
   - cicek
 latince: Gazania
-image: 
+image: /images/bitkiler/ispanyol-papatyasi.jpg
 populer: false
 draft: false
 sss:

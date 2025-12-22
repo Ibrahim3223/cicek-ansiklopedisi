@@ -16,7 +16,7 @@ tags:
   - akdari
   - bahce-bitkileri
 latince: Panicum miliaceum white
-image: 
+image: /images/bitkiler/akdari.jpg
 populer: false
 draft: false
 sss:

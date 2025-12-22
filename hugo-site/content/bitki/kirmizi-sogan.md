@@ -16,7 +16,7 @@ tags:
   - kirmizi-sogan
   - sebzeler
 latince: Allium cepa rubrum
-image: 
+image: /images/bitkiler/kirmizi-sogan.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kivi
   - meyveler
 latince: Actinidia deliciosa
-image: 
+image: /images/bitkiler/kivi.jpg
 populer: false
 draft: false
 sss:

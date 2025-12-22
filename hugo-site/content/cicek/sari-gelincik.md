@@ -16,7 +16,7 @@ tags:
   - sari-gelincik
   - cicek
 latince: Papaver rhoeas yellow
-image: 
+image: /images/bitkiler/sari-gelincik.jpg
 populer: false
 draft: false
 sss:

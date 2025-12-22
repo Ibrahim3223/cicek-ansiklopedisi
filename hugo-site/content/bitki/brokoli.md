@@ -16,7 +16,7 @@ tags:
   - brokoli
   - sebzeler
 latince: Brassica oleracea italica
-image: 
+image: /images/bitkiler/brokoli.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - seker-bezelye
   - sebzeler
 latince: Pisum sativum sugar
-image: 
+image: /images/bitkiler/seker-bezelye.jpg
 populer: false
 draft: false
 ---

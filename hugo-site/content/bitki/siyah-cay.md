@@ -16,7 +16,7 @@ tags:
   - siyah-cay
   - sifali-bitkiler
 latince: Camellia sinensis assamica
-image: 
+image: /images/bitkiler/siyah-cay.jpg
 populer: false
 draft: false
 sss:

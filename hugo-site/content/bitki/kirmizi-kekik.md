@@ -16,7 +16,7 @@ tags:
   - kirmizi-kekik
   - sifali-bitkiler
 latince: Thymus vulgaris red
-image: 
+image: /images/bitkiler/kirmizi-kekik.jpg
 populer: false
 draft: false
 sss:

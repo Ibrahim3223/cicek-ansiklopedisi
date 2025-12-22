@@ -16,7 +16,7 @@ tags:
   - san-marzano-domates
   - sebzeler
 latince: Solanum lycopersicum san marzano
-image: 
+image: /images/bitkiler/san-marzano-domates.jpg
 populer: false
 draft: false
 sss:

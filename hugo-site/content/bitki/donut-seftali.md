@@ -16,7 +16,7 @@ tags:
   - donut-seftali
   - meyveler
 latince: Prunus persica donut
-image: 
+image: /images/bitkiler/donut-seftali.jpg
 populer: false
 draft: false
 sss:

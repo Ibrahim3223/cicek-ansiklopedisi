@@ -16,7 +16,7 @@ tags:
   - yesil-uzum
   - meyveler
 latince: Vitis vinifera green
-image: 
+image: /images/bitkiler/yesil-uzum.jpg
 populer: false
 draft: false
 sss:

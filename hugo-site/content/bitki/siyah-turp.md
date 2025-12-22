@@ -16,7 +16,7 @@ tags:
   - siyah-turp
   - sebzeler
 latince: Raphanus sativus niger
-image: 
+image: /images/bitkiler/siyah-turp.jpg
 populer: false
 draft: false
 sss:

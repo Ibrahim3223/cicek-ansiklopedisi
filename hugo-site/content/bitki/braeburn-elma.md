@@ -16,7 +16,7 @@ tags:
   - braeburn-elma
   - meyveler
 latince: Malus domestica braeburn
-image: 
+image: /images/bitkiler/braeburn-elma.jpg
 populer: false
 draft: false
 sss:

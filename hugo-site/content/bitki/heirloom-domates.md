@@ -16,7 +16,7 @@ tags:
   - heirloom-domates
   - sebzeler
 latince: Solanum lycopersicum heirloom
-image: 
+image: /images/bitkiler/heirloom-domates.jpg
 populer: false
 draft: false
 sss:

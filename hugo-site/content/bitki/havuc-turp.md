@@ -16,7 +16,7 @@ tags:
   - havuc-turp
   - sebzeler
 latince: Raphanus sativus caudatus
-image: 
+image: /images/bitkiler/havuc-turp.jpg
 populer: false
 draft: false
 sss:

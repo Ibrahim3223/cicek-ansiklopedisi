@@ -16,7 +16,7 @@ tags:
   - amasya-elmasi
   - meyveler
 latince: Malus domestica amasya
-image: 
+image: /images/bitkiler/amasya-elmasi.jpg
 populer: false
 draft: false
 sss:

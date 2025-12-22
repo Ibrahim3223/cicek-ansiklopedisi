@@ -16,7 +16,7 @@ tags:
   - cemen-tohumu
   - sifali-bitkiler
 latince: Trigonella foenum-graecum seed
-image: 
+image: /images/bitkiler/cemen-tohumu.jpg
 populer: false
 draft: false
 sss:

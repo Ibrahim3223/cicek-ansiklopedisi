@@ -16,7 +16,7 @@ tags:
   - kis-turpu
   - sebzeler
 latince: Raphanus sativus winter
-image: 
+image: /images/bitkiler/kis-turpu.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - sari-kantaron
   - sifali-bitkiler
 latince: Hypericum perforatum yellow
-image: 
+image: /images/bitkiler/sari-kantaron.jpg
 populer: false
 draft: false
 sss:

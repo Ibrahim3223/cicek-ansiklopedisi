@@ -16,7 +16,7 @@ tags:
   - altin-elma
   - meyveler
 latince: Malus domestica golden
-image: 
+image: /images/bitkiler/altin-elma.jpg
 populer: false
 draft: false
 sss:

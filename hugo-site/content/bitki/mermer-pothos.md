@@ -16,7 +16,7 @@ tags:
   - mermer-pothos
   - ev-bitkileri
 latince: Epipremnum aureum marble
-image: 
+image: /images/bitkiler/mermer-pothos.jpg
 populer: false
 draft: false
 sss:

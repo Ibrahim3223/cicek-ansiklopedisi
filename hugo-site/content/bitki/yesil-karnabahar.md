@@ -16,7 +16,7 @@ tags:
   - yesil-karnabahar
   - sebzeler
 latince: Brassica oleracea green cauliflower
-image: 
+image: /images/bitkiler/yesil-karnabahar.jpg
 populer: false
 draft: false
 sss:

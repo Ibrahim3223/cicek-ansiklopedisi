@@ -16,7 +16,7 @@ tags:
   - albion-cilek
   - meyveler
 latince: Fragaria ananassa albion
-image: 
+image: /images/bitkiler/albion-cilek.jpg
 populer: false
 draft: false
 sss:

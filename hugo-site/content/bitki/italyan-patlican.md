@@ -16,7 +16,7 @@ tags:
   - italyan-patlican
   - sebzeler
 latince: Solanum melongena italian
-image: 
+image: /images/bitkiler/italyan-patlican.jpg
 populer: false
 draft: false
 sss:

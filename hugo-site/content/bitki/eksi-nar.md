@@ -16,7 +16,7 @@ tags:
   - eksi-nar
   - meyveler
 latince: Punica granatum sour
-image: 
+image: /images/bitkiler/eksi-nar.jpg
 populer: false
 draft: false
 sss:

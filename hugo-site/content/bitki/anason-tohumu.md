@@ -16,7 +16,7 @@ tags:
   - anason-tohumu
   - sifali-bitkiler
 latince: Pimpinella anisum seed
-image: 
+image: /images/bitkiler/anason-tohumu.jpg
 populer: false
 draft: false
 sss:

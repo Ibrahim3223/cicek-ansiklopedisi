@@ -16,7 +16,7 @@ tags:
   - limon
   - meyveler
 latince: Citrus limon
-image:
+image: /images/bitkiler/limon.jpg
 populer: false
 draft: false
 sss:

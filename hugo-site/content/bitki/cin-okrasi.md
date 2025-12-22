@@ -16,7 +16,7 @@ tags:
   - cin-okrasi
   - sebzeler
 latince: Abelmoschus esculentus chinese
-image: 
+image: /images/bitkiler/cin-okrasi.jpg
 populer: false
 draft: false
 sss:

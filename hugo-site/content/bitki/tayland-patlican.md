@@ -16,7 +16,7 @@ tags:
   - tayland-patlican
   - sebzeler
 latince: Solanum melongena thai
-image: 
+image: /images/bitkiler/tayland-patlican.jpg
 populer: false
 draft: false
 sss:

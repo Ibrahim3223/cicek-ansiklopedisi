@@ -16,7 +16,7 @@ tags:
   - nektarin-seftali
   - meyveler
 latince: Prunus persica nucipersica
-image: 
+image: /images/bitkiler/nektarin-seftali.jpg
 populer: false
 draft: false
 sss:

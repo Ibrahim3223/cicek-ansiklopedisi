@@ -16,7 +16,7 @@ tags:
   - mor-misir
   - sebzeler
 latince: Zea mays purple
-image: 
+image: /images/bitkiler/mor-misir.jpg
 populer: false
 draft: false
 sss:

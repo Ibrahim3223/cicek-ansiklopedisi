@@ -16,7 +16,7 @@ tags:
   - sari-bezelye
   - sebzeler
 latince: Pisum sativum yellow
-image: 
+image: /images/bitkiler/sari-bezelye.jpg
 populer: false
 draft: false
 sss:

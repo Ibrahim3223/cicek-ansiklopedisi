@@ -16,7 +16,7 @@ tags:
   - ghost-pepper
   - sebzeler
 latince: Capsicum chinense bhut jolokia
-image: 
+image: /images/bitkiler/ghost-pepper.jpg
 populer: false
 draft: false
 ---

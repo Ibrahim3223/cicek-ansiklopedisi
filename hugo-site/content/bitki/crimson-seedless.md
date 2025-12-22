@@ -16,7 +16,7 @@ tags:
   - crimson-seedless
   - meyveler
 latince: Vitis vinifera crimson
-image: 
+image: /images/bitkiler/crimson-seedless.jpg
 populer: false
 draft: false
 sss:

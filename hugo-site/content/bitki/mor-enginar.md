@@ -16,7 +16,7 @@ tags:
   - mor-enginar
   - sebzeler
 latince: Cynara cardunculus purple
-image: 
+image: /images/bitkiler/mor-enginar.jpg
 populer: false
 draft: false
 sss:

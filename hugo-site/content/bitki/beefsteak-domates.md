@@ -16,7 +16,7 @@ tags:
   - beefsteak-domates
   - sebzeler
 latince: Solanum lycopersicum beefsteak
-image: 
+image: /images/bitkiler/beefsteak-domates.jpg
 populer: false
 draft: false
 sss:

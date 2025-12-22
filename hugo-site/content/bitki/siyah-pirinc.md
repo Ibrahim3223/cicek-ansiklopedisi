@@ -16,7 +16,7 @@ tags:
   - siyah-pirinc
   - bahce-bitkileri
 latince: Oryza sativa black
-image: 
+image: /images/bitkiler/siyah-pirinc.jpg
 populer: false
 draft: false
 sss:

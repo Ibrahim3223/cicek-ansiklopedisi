@@ -16,7 +16,7 @@ tags:
   - honeycrisp-elma
   - meyveler
 latince: Malus domestica honeycrisp
-image: 
+image: /images/bitkiler/honeycrisp-elma.jpg
 populer: false
 draft: false
 sss:

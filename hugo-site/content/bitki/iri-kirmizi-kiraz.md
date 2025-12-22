@@ -16,7 +16,7 @@ tags:
   - iri-kirmizi-kiraz
   - meyveler
 latince: Prunus avium napoleon
-image: 
+image: /images/bitkiler/iri-kirmizi-kiraz.jpg
 populer: false
 draft: false
 sss:

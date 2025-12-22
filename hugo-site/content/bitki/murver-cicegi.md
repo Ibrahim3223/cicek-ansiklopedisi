@@ -16,7 +16,7 @@ tags:
   - murver-cicegi
   - sifali-bitkiler
 latince: Sambucus nigra flower
-image: 
+image: /images/bitkiler/murver-cicegi.jpg
 populer: false
 draft: false
 sss:

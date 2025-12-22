@@ -16,7 +16,7 @@ tags:
   - altin-pancar
   - sebzeler
 latince: Beta vulgaris golden
-image: 
+image: /images/bitkiler/altin-pancar.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - turunc
   - meyveler
 latince: Citrus aurantium
-image: 
+image: /images/bitkiler/turunc.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - aci-dolmalik-biber
   - sebzeler
 latince: Capsicum annuum hot
-image: 
+image: /images/bitkiler/aci-dolmalik-biber.jpg
 populer: false
 draft: false
 sss:

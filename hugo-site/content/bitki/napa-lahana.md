@@ -16,7 +16,7 @@ tags:
   - napa-lahana
   - sebzeler
 latince: Brassica rapa pekinensis napa
-image: 
+image: /images/bitkiler/napa-lahana.png
 populer: false
 draft: false
 sss:

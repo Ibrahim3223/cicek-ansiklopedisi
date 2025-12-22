@@ -16,7 +16,7 @@ tags:
   - pink-lady-elma
   - meyveler
 latince: Malus domestica pink lady
-image: 
+image: /images/bitkiler/pink-lady-elma.jpg
 populer: false
 draft: false
 sss:

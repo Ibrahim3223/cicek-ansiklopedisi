@@ -16,7 +16,7 @@ tags:
   - tarcin-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum cinnamon
-image: 
+image: /images/bitkiler/tarcin-feslegeni.jpg
 populer: false
 draft: false
 sss:

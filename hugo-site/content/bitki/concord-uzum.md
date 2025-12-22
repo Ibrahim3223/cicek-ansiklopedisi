@@ -16,7 +16,7 @@ tags:
   - concord-uzum
   - meyveler
 latince: Vitis labrusca concord
-image: 
+image: /images/bitkiler/concord-uzum.jpg
 populer: false
 draft: false
 sss:

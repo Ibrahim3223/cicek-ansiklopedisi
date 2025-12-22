@@ -16,7 +16,7 @@ tags:
   - portakal-ayva
   - meyveler
 latince: Cydonia oblonga orange
-image: 
+image: /images/bitkiler/portakal-ayva.jpg
 populer: false
 draft: false
 sss:

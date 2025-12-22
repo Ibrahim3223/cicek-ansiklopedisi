@@ -16,7 +16,7 @@ tags:
   - siyah-domates
   - sebzeler
 latince: Solanum lycopersicum black
-image: 
+image: /images/bitkiler/siyah-domates.jpg
 populer: false
 draft: false
 sss:

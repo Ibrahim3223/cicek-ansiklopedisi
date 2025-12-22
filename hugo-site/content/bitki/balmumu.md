@@ -16,7 +16,7 @@ tags:
   - balmumu
   - sifali-bitkiler
 latince: Apis mellifera beeswax
-image: 
+image: /images/bitkiler/balmumu.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - malatya-kayisisi
   - meyveler
 latince: Prunus armeniaca malatya
-image: 
+image: /images/bitkiler/malatya-kayisisi.jpg
 populer: false
 draft: false
 sss:

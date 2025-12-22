@@ -16,7 +16,7 @@ tags:
   - mor-domates
   - sebzeler
 latince: Solanum lycopersicum purple
-image: 
+image: /images/bitkiler/mor-domates.jpg
 populer: false
 draft: false
 sss:

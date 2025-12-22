@@ -16,7 +16,7 @@ tags:
   - kirmizi-kereviz
   - sebzeler
 latince: Apium graveolens red
-image: 
+image: /images/bitkiler/kirmizi-kereviz.jpg
 populer: false
 draft: false
 sss:

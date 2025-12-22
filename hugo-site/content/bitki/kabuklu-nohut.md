@@ -16,7 +16,7 @@ tags:
   - kabuklu-nohut
   - sebzeler
 latince: Cicer arietinum shell
-image: 
+image: /images/bitkiler/kabuklu-nohut.jpg
 populer: false
 draft: false
 sss:

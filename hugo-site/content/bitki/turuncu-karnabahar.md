@@ -16,7 +16,7 @@ tags:
   - turuncu-karnabahar
   - sebzeler
 latince: Brassica oleracea orange cauliflower
-image: 
+image: /images/bitkiler/turuncu-karnabahar.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kirmizi-lahana-salatasi
   - sebzeler
 latince: Brassica oleracea rubra salad
-image: 
+image: /images/bitkiler/kirmizi-lahana-salatasi.jpg
 populer: false
 draft: false
 sss:

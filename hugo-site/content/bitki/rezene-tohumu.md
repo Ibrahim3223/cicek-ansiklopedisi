@@ -16,7 +16,7 @@ tags:
   - rezene-tohumu
   - sifali-bitkiler
 latince: Foeniculum vulgare seed
-image: 
+image: /images/bitkiler/rezene-tohumu.jpg
 populer: false
 draft: false
 sss:

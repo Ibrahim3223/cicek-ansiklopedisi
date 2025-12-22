@@ -16,7 +16,7 @@ tags:
   - tritikale
   - bahce-bitkileri
 latince: Triticosecale
-image: 
+image: /images/bitkiler/tritikale.jpg
 populer: false
 draft: false
 sss:

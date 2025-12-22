@@ -16,7 +16,7 @@ tags:
   - cay-agaci-yagi
   - sifali-bitkiler
 latince: Melaleuca alternifolia oil
-image: 
+image: /images/bitkiler/cay-agaci-yagi.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - bezelye-filizi
   - sebzeler
 latince: Pisum sativum shoots
-image: 
+image: /images/bitkiler/bezelye-filizi.jpg
 populer: false
 draft: false
 sss:

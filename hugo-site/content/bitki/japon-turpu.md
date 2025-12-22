@@ -16,7 +16,7 @@ tags:
   - japon-turpu
   - sebzeler
 latince: Raphanus sativus daikon
-image: 
+image: /images/bitkiler/japon-turpu.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - polen
   - sifali-bitkiler
 latince: Apis mellifera pollen
-image: 
+image: /images/bitkiler/polen.jpg
 populer: false
 draft: false
 sss:

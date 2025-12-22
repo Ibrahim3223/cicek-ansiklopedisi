@@ -16,7 +16,7 @@ tags:
   - kar-bezelye
   - sebzeler
 latince: Pisum sativum snow
-image: 
+image: /images/bitkiler/kar-bezelye.jpg
 populer: false
 draft: false
 sss:

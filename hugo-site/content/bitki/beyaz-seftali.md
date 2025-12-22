@@ -16,7 +16,7 @@ tags:
   - beyaz-seftali
   - meyveler
 latince: Prunus persica white
-image: 
+image: /images/bitkiler/beyaz-seftali.jpg
 populer: false
 draft: false
 sss:

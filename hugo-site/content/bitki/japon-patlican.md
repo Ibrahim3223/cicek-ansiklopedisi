@@ -16,7 +16,7 @@ tags:
   - japon-patlican
   - sebzeler
 latince: Solanum melongena japanese
-image: 
+image: /images/bitkiler/japon-patlican.jpg
 populer: false
 draft: false
 sss:

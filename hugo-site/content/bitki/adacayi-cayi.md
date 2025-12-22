@@ -16,7 +16,7 @@ tags:
   - adacayi-cayi
   - sifali-bitkiler
 latince: Salvia officinalis tea
-image: 
+image: /images/bitkiler/adacayi-cayi.jpg
 populer: false
 draft: false
 ---

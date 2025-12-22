@@ -16,7 +16,7 @@ tags:
   - tatli-cilek
   - meyveler
 latince: Fragaria ananassa sweet
-image: 
+image: /images/bitkiler/tatli-cilek.jpg
 populer: false
 draft: false
 sss:

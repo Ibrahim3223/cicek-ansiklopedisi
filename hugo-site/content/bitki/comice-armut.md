@@ -16,7 +16,7 @@ tags:
   - comice-armut
   - meyveler
 latince: Pyrus communis comice
-image: 
+image: /images/bitkiler/comice-armut.jpg
 populer: false
 draft: false
 ---

@@ -16,7 +16,7 @@ tags:
   - karabiber-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum peppery
-image: 
+image: /images/bitkiler/karabiber-feslegeni.jpg
 populer: false
 draft: false
 sss:

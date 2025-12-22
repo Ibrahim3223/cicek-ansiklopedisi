@@ -16,7 +16,7 @@ tags:
   - sultani-incir
   - meyveler
 latince: Ficus carica sultani
-image: 
+image: /images/bitkiler/sultani-incir.jpg
 populer: false
 draft: false
 ---

@@ -16,7 +16,7 @@ tags:
   - sisito-biber
   - sebzeler
 latince: Capsicum annuum shishito
-image: 
+image: /images/bitkiler/sisito-biber.jpg
 populer: false
 draft: false
 sss:

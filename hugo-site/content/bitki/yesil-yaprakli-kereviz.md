@@ -16,7 +16,7 @@ tags:
   - yesil-yaprakli-kereviz
   - sebzeler
 latince: Apium graveolens green leaf
-image: 
+image: /images/bitkiler/yesil-yaprakli-kereviz.jpg
 populer: false
 draft: false
 sss:

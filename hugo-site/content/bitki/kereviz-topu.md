@@ -16,7 +16,7 @@ tags:
   - kereviz-topu
   - sebzeler
 latince: Apium graveolens celeriac
-image: 
+image: /images/bitkiler/kereviz-topu.jpg
 populer: false
 draft: false
 sss:

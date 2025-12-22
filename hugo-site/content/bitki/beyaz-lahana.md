@@ -16,7 +16,7 @@ tags:
   - beyaz-lahana
   - sebzeler
 latince: Brassica oleracea capitata
-image: 
+image: /images/bitkiler/beyaz-lahana.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - mavi-misir
   - sebzeler
 latince: Zea mays blue
-image: 
+image: /images/bitkiler/mavi-misir.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - yesil-bezelye
   - sebzeler
 latince: Pisum sativum green
-image: 
+image: /images/bitkiler/yesil-bezelye.jpg
 populer: false
 draft: false
 sss:

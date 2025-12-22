@@ -16,7 +16,7 @@ tags:
   - kultur-cilegi
   - meyveler
 latince: Fragaria ananassa cultivated
-image: 
+image: /images/bitkiler/kultur-cilegi.jpg
 populer: false
 draft: false
 sss:

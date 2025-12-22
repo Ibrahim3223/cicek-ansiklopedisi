@@ -16,7 +16,7 @@ tags:
   - kirmizi-bamya
   - sebzeler
 latince: Abelmoschus esculentus red
-image: 
+image: /images/bitkiler/kirmizi-bamya.jpg
 populer: false
 draft: false
 sss:

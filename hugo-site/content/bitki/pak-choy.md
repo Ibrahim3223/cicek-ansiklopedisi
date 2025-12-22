@@ -16,7 +16,7 @@ tags:
   - pak-choy
   - sebzeler
 latince: Brassica rapa chinensis
-image: 
+image: /images/bitkiler/pak-choy.jpg
 populer: false
 draft: false
 sss:

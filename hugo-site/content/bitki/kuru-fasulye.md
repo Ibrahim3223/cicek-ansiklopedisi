@@ -16,7 +16,7 @@ tags:
   - kuru-fasulye
   - sebzeler
 latince: Phaseolus vulgaris dried
-image: 
+image: /images/bitkiler/kuru-fasulye.jpg
 populer: false
 draft: false
 sss:

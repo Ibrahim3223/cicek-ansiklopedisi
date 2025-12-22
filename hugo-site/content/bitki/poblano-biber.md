@@ -16,7 +16,7 @@ tags:
   - poblano-biber
   - sebzeler
 latince: Capsicum annuum poblano
-image: 
+image: /images/bitkiler/poblano-biber.jpg
 populer: false
 draft: false
 sss:

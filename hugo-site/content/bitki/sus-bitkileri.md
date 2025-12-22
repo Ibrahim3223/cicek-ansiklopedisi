@@ -16,7 +16,7 @@ tags:
   - sus-bitkileri
   - bahce-bitkileri
 latince: Ornamental plants
-image: 
+image: /images/bitkiler/sus-bitkileri.jpg
 populer: false
 draft: false
 sss:

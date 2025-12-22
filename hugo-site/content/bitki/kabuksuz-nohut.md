@@ -16,7 +16,7 @@ tags:
   - kabuksuz-nohut
   - sebzeler
 latince: Cicer arietinum peeled
-image: 
+image: /images/bitkiler/kabuksuz-nohut.jpg
 populer: false
 draft: false
 sss:

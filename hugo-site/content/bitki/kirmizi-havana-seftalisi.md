@@ -16,7 +16,7 @@ tags:
   - kirmizi-havana-seftalisi
   - meyveler
 latince: Prunus persica red haven
-image: 
+image: /images/bitkiler/kirmizi-havana-seftalisi.jpg
 populer: false
 draft: false
 sss:

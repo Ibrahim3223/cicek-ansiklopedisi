@@ -16,7 +16,7 @@ tags:
   - golden-delicious
   - meyveler
 latince: Malus domestica golden
-image: 
+image: /images/bitkiler/golden-delicious.jpg
 populer: false
 draft: false
 sss:

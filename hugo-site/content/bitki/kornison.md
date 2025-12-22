@@ -16,7 +16,7 @@ tags:
   - kornison
   - sebzeler
 latince: Cucumis sativus cornichon
-image: 
+image: /images/bitkiler/kornison.jpg
 populer: false
 draft: false
 sss:

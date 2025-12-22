@@ -16,7 +16,7 @@ tags:
   - uzun-kirmizi-pancar
   - sebzeler
 latince: Beta vulgaris long red
-image: 
+image: /images/bitkiler/uzun-kirmizi-pancar.jpg
 populer: false
 draft: false
 sss:

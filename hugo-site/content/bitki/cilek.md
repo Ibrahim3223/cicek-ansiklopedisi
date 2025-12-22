@@ -16,7 +16,7 @@ tags:
   - cilek
   - meyveler
 latince: Fragaria ananassa
-image: 
+image: /images/bitkiler/cilek.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - fuji-elma
   - meyveler
 latince: Malus domestica fuji
-image: 
+image: /images/bitkiler/fuji-elma.jpg
 populer: false
 draft: false
 ---

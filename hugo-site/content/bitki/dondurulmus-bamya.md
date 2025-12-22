@@ -16,7 +16,7 @@ tags:
   - dondurulmus-bamya
   - sebzeler
 latince: Abelmoschus esculentus frozen
-image: 
+image: /images/bitkiler/dondurulmus-bamya.jpg
 populer: false
 draft: false
 sss:

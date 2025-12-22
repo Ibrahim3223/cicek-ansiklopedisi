@@ -16,7 +16,7 @@ tags:
   - siyah-nohut
   - sebzeler
 latince: Cicer arietinum black
-image: 
+image: /images/bitkiler/siyah-nohut.jpg
 populer: false
 draft: false
 sss:

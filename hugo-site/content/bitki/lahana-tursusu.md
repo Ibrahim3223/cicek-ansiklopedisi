@@ -16,7 +16,7 @@ tags:
   - lahana-tursusu
   - sebzeler
 latince: Brassica oleracea fermented
-image: 
+image: /images/bitkiler/lahana-tursusu.jpg
 populer: false
 draft: false
 sss:

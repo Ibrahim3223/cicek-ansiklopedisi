@@ -16,7 +16,7 @@ tags:
   - cin-armudu
   - meyveler
 latince: Pyrus pyrifolia chinese
-image: 
+image: /images/bitkiler/cin-armudu.jpg
 populer: false
 draft: false
 sss:

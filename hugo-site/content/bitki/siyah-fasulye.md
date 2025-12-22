@@ -16,7 +16,7 @@ tags:
   - siyah-fasulye
   - sebzeler
 latince: Phaseolus vulgaris black
-image: 
+image: /images/bitkiler/siyah-fasulye.jpg
 populer: false
 draft: false
 sss:

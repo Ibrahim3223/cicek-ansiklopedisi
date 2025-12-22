@@ -16,7 +16,7 @@ tags:
   - kirmizi-misir
   - sebzeler
 latince: Zea mays red
-image: 
+image: /images/bitkiler/kirmizi-misir.jpg
 populer: false
 draft: false
 sss:

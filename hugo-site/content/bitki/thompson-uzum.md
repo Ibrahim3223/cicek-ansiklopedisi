@@ -16,7 +16,7 @@ tags:
   - thompson-uzum
   - meyveler
 latince: Vitis vinifera thompson
-image: 
+image: /images/bitkiler/thompson-uzum.jpg
 populer: false
 draft: false
 sss:

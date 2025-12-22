@@ -16,7 +16,7 @@ tags:
   - kaktus
   - kaktus
 latince: Cactaceae
-image: 
+image: /images/bitkiler/kaktus.jpg
 populer: false
 draft: false
 sss:

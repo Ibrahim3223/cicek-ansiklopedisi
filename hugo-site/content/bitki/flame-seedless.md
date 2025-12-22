@@ -16,7 +16,7 @@ tags:
   - flame-seedless
   - meyveler
 latince: Vitis vinifera flame
-image: 
+image: /images/bitkiler/flame-seedless.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - mor-feslegen
   - sifali-bitkiler
 latince: Ocimum basilicum purple
-image: 
+image: /images/bitkiler/mor-feslegen.jpg
 populer: false
 draft: false
 ---

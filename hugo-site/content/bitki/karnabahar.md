@@ -16,7 +16,7 @@ tags:
   - karnabahar
   - sebzeler
 latince: Brassica oleracea botrytis
-image: 
+image: /images/bitkiler/karnabahar.jpg
 populer: false
 draft: false
 sss:

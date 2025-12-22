@@ -16,7 +16,7 @@ tags:
   - yesil-habanero
   - sebzeler
 latince: Capsicum chinense habanero
-image: 
+image: /images/bitkiler/yesil-habanero.jpg
 populer: false
 draft: false
 sss:

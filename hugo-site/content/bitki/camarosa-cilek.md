@@ -16,7 +16,7 @@ tags:
   - camarosa-cilek
   - meyveler
 latince: Fragaria ananassa camarosa
-image: 
+image: /images/bitkiler/camarosa-cilek.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - sari-kereviz
   - sebzeler
 latince: Apium graveolens yellow
-image: 
+image: /images/bitkiler/sari-kereviz.jpg
 populer: false
 draft: false
 sss:

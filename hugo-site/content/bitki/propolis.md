@@ -16,7 +16,7 @@ tags:
   - propolis
   - sifali-bitkiler
 latince: Apis mellifera propolis
-image: 
+image: /images/bitkiler/propolis.jpg
 populer: false
 draft: false
 sss:

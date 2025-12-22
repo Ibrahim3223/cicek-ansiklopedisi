@@ -16,7 +16,7 @@ tags:
   - kirmizi-uzum
   - meyveler
 latince: Vitis vinifera red
-image: 
+image: /images/bitkiler/kirmizi-uzum.jpg
 populer: false
 draft: false
 sss:

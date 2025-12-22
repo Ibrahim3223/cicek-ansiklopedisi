@@ -16,7 +16,7 @@ tags:
   - sari-domates
   - sebzeler
 latince: Solanum lycopersicum yellow
-image: 
+image: /images/bitkiler/sari-domates.jpg
 populer: false
 draft: false
 sss:

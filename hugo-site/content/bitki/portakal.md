@@ -16,7 +16,7 @@ tags:
   - portakal
   - meyveler
 latince: Citrus sinensis
-image: 
+image: /images/bitkiler/portakal.jpg
 populer: false
 draft: false
 sss:

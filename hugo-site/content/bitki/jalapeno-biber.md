@@ -16,7 +16,7 @@ tags:
   - jalapeno-biber
   - sebzeler
 latince: Capsicum annuum jalapeno
-image: 
+image: /images/bitkiler/jalapeno-biber.jpg
 populer: false
 draft: false
 sss:

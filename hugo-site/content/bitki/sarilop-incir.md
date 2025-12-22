@@ -16,7 +16,7 @@ tags:
   - sarilop-incir
   - meyveler
 latince: Ficus carica sarilop
-image: 
+image: /images/bitkiler/sarilop-incir.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - kirmizi-mercimek
   - sebzeler
 latince: Lens culinaris red
-image: 
+image: /images/bitkiler/kirmizi-mercimek.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - puy-mercimek
   - sebzeler
 latince: Lens culinaris puy
-image: 
+image: /images/bitkiler/puy-mercimek.jpg
 populer: false
 draft: false
 sss:

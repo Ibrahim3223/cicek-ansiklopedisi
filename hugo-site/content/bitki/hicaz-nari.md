@@ -16,7 +16,7 @@ tags:
   - hicaz-nari
   - meyveler
 latince: Punica granatum hicaz
-image: 
+image: /images/bitkiler/hicaz-nari.jpg
 populer: false
 draft: false
 sss:

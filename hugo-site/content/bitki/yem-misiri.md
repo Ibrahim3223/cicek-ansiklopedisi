@@ -16,7 +16,7 @@ tags:
   - yem-misiri
   - bahce-bitkileri
 latince: Zea mays feed
-image: 
+image: /images/bitkiler/yem-misiri.jpg
 populer: false
 draft: false
 sss:

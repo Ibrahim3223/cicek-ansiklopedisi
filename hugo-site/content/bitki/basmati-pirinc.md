@@ -16,7 +16,7 @@ tags:
   - basmati-pirinc
   - bahce-bitkileri
 latince: Oryza sativa basmati
-image: 
+image: /images/bitkiler/basmati-pirinc.jpg
 populer: false
 draft: false
 sss:

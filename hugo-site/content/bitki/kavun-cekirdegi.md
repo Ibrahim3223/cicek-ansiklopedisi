@@ -16,7 +16,7 @@ tags:
   - kavun-cekirdegi
   - meyveler
 latince: Cucumis melo seed
-image: 
+image: /images/bitkiler/kavun-cekirdegi.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - carolina-reaper
   - sebzeler
 latince: Capsicum chinense carolina reaper
-image: 
+image: /images/bitkiler/carolina-reaper.jpg
 populer: false
 draft: false
 sss:

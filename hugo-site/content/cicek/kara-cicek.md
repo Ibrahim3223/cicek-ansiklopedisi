@@ -16,7 +16,7 @@ tags:
   - kara-cicek
   - cicek
 latince: Nigella sativa flower
-image: 
+image: /images/bitkiler/kara-cicek.jpg
 populer: false
 draft: false
 sss:

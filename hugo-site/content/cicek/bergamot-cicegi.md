@@ -16,7 +16,7 @@ tags:
   - bergamot-cicegi
   - cicek
 latince: Citrus bergamia
-image: 
+image: /images/bitkiler/bergamot-cicegi.jpg
 populer: false
 draft: false
 sss:

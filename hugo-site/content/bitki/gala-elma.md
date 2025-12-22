@@ -16,7 +16,7 @@ tags:
   - gala-elma
   - meyveler
 latince: Malus domestica gala
-image: 
+image: /images/bitkiler/gala-elma.jpg
 populer: false
 draft: false
 sss:

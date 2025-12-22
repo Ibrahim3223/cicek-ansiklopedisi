@@ -16,7 +16,7 @@ tags:
   - bok-choy
   - sebzeler
 latince: Brassica rapa chinensis
-image: 
+image: /images/bitkiler/bok-choy.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - yesil-kereviz
   - sebzeler
 latince: Apium graveolens secalinum
-image: 
+image: /images/bitkiler/yesil-kereviz.jpg
 populer: false
 draft: false
 sss:

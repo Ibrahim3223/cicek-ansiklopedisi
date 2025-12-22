@@ -16,7 +16,7 @@ tags:
   - sari-nohut
   - sebzeler
 latince: Cicer arietinum yellow
-image: 
+image: /images/bitkiler/sari-nohut.jpg
 populer: false
 draft: false
 sss:

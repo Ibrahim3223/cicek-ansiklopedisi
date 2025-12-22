@@ -16,7 +16,7 @@ tags:
   - toprak-domates
   - sebzeler
 latince: Solanum lycopersicum outdoor
-image: 
+image: /images/bitkiler/toprak-domates.jpg
 populer: false
 draft: false
 sss:

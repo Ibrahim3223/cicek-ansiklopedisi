@@ -16,7 +16,7 @@ tags:
   - festival-cilek
   - meyveler
 latince: Fragaria ananassa festival
-image: 
+image: /images/bitkiler/festival-cilek.jpg
 populer: false
 draft: false
 sss:

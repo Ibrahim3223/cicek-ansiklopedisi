@@ -16,7 +16,7 @@ tags:
   - aycicegi-bali
   - sifali-bitkiler
 latince: Helianthus honey
-image: 
+image: /images/bitkiler/aycicegi-bali.jpg
 populer: false
 draft: false
 ---

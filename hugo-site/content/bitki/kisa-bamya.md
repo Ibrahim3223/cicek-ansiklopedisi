@@ -16,7 +16,7 @@ tags:
   - kisa-bamya
   - sebzeler
 latince: Abelmoschus esculentus short
-image: 
+image: /images/bitkiler/kisa-bamya.jpg
 populer: false
 draft: false
 sss:

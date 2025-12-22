@@ -16,7 +16,7 @@ tags:
   - biberiye-cayi
   - sifali-bitkiler
 latince: Rosmarinus officinalis tea
-image: 
+image: /images/bitkiler/biberiye-cayi.jpg
 populer: false
 draft: false
 ---

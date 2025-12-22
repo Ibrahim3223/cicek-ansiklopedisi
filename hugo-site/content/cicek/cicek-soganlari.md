@@ -16,7 +16,7 @@ tags:
   - cicek-soganlari
   - bahce-bitkileri
 latince: Bulb flowers
-image: 
+image: /images/bitkiler/cicek-soganlari.jpg
 populer: false
 draft: false
 sss:

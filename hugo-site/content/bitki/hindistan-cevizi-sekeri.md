@@ -16,7 +16,7 @@ tags:
   - hindistan-cevizi-sekeri
   - bahce-bitkileri
 latince: Cocos nucifera sugar
-image: 
+image: /images/bitkiler/hindistan-cevizi-sekeri.jpg
 populer: false
 draft: false
 sss:

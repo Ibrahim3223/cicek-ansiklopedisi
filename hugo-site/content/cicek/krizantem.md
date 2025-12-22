@@ -16,7 +16,7 @@ tags:
   - krizantem
   - cicek
 latince: Chrysanthemum morifolium
-image: 
+image: /images/bitkiler/krizantem.jpg
 populer: false
 draft: false
 sss:

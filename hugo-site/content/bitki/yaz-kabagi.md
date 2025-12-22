@@ -16,7 +16,7 @@ tags:
   - yaz-kabagi
   - sebzeler
 latince: Cucurbita pepo cylindrica
-image: 
+image: /images/bitkiler/yaz-kabagi.jpg
 populer: false
 draft: false
 sss:

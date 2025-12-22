@@ -16,7 +16,7 @@ tags:
   - fransiz-kahvalti-turpu
   - sebzeler
 latince: Raphanus sativus french breakfast
-image: 
+image: /images/bitkiler/fransiz-kahvalti-turpu.jpg
 populer: false
 draft: false
 sss:

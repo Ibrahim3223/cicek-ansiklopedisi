@@ -16,7 +16,7 @@ tags:
   - tatli-nar
   - meyveler
 latince: Punica granatum sweet
-image: 
+image: /images/bitkiler/tatli-nar.png
 populer: false
 draft: false
 sss:

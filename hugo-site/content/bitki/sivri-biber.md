@@ -16,7 +16,7 @@ tags:
   - sivri-biber
   - sebzeler
 latince: Capsicum annuum longum
-image: 
+image: /images/bitkiler/sivri-biber.jpg
 populer: false
 draft: false
 sss:

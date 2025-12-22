@@ -16,7 +16,7 @@ tags:
   - kirmizi-pancar
   - sebzeler
 latince: Beta vulgaris rubra
-image: 
+image: /images/bitkiler/kirmizi-pancar.jpg
 populer: false
 draft: false
 sss:

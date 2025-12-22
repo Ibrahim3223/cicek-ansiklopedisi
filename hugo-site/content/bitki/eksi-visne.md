@@ -16,7 +16,7 @@ tags:
   - eksi-visne
   - meyveler
 latince: Prunus cerasus montmorency
-image: 
+image: /images/bitkiler/eksi-visne.jpg
 populer: false
 draft: false
 sss:

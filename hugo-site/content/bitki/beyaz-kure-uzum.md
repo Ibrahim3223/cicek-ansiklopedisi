@@ -16,7 +16,7 @@ tags:
   - beyaz-kure-uzum
   - meyveler
 latince: Vitis vinifera white globe
-image: 
+image: /images/bitkiler/beyaz-kure-uzum.jpg
 populer: false
 draft: false
 sss:

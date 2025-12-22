@@ -16,7 +16,7 @@ tags:
   - fransiz-enginar
   - sebzeler
 latince: Cynara cardunculus french
-image: 
+image: /images/bitkiler/fransiz-enginar.jpg
 populer: false
 draft: false
 sss:

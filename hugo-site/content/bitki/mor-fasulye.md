@@ -16,7 +16,7 @@ tags:
   - mor-fasulye
   - sebzeler
 latince: Phaseolus vulgaris purple
-image: 
+image: /images/bitkiler/mor-fasulye.jpg
 populer: false
 draft: false
 sss:

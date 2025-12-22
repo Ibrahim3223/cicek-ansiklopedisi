@@ -16,7 +16,7 @@ tags:
   - turunc-cicegi
   - cicek
 latince: Citrus aurantium
-image: 
+image: /images/bitkiler/turunc-cicegi.jpg
 populer: false
 draft: false
 sss:

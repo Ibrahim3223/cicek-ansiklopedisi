@@ -16,7 +16,7 @@ tags:
   - sogut-kabugu
   - sifali-bitkiler
 latince: Salix alba bark
-image: 
+image: /images/bitkiler/sogut-kabugu.jpg
 populer: false
 draft: false
 sss:

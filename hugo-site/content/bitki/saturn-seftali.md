@@ -16,7 +16,7 @@ tags:
   - saturn-seftali
   - meyveler
 latince: Prunus persica saturn
-image: 
+image: /images/bitkiler/saturn-seftali.jpg
 populer: false
 draft: false
 sss:

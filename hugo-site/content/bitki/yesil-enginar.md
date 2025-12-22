@@ -16,7 +16,7 @@ tags:
   - yesil-enginar
   - sebzeler
 latince: Cynara cardunculus green
-image: 
+image: /images/bitkiler/yesil-enginar.jpg
 populer: false
 draft: false
 sss:

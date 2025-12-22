@@ -16,7 +16,7 @@ tags:
   - mancar-pancari
   - sebzeler
 latince: Beta vulgaris mangel
-image: 
+image: /images/bitkiler/mancar-pancari.jpg
 populer: false
 draft: false
 sss:

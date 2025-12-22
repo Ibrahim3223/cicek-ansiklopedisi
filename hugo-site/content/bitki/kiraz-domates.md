@@ -16,7 +16,7 @@ tags:
   - kiraz-domates
   - sebzeler
 latince: Solanum lycopersicum cerasiforme
-image: 
+image: /images/bitkiler/kiraz-domates.jpg
 populer: false
 draft: false
 sss:

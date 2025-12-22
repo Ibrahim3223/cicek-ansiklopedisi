@@ -16,7 +16,7 @@ tags:
   - safran-sogani
   - bahce-bitkileri
 latince: Crocus sativus bulb
-image: 
+image: /images/bitkiler/safran-sogani.jpg
 populer: false
 draft: false
 sss:

@@ -16,7 +16,7 @@ tags:
   - tayland-feslegeni
   - sifali-bitkiler
 latince: Ocimum basilicum thai
-image: 
+image: /images/bitkiler/tayland-feslegeni.jpg
 populer: false
 draft: false
 sss:

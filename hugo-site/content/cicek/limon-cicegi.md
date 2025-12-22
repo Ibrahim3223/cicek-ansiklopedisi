@@ -16,7 +16,7 @@ tags:
   - limon-cicegi
   - cicek
 latince: Citrus limon
-image: 
+image: /images/bitkiler/limon-cicegi.jpg
 populer: false
 draft: false
 sss:

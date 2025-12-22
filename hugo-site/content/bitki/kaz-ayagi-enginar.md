@@ -16,7 +16,7 @@ tags:
   - kaz-ayagi-enginar
   - sebzeler
 latince: Cynara cardunculus scolymus
-image: 
+image: /images/bitkiler/kaz-ayagi-enginar.jpg
 populer: false
 draft: false
 sss:

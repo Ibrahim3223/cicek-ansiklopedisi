@@ -16,7 +16,7 @@ tags:
   - sutlu-patlican
   - sebzeler
 latince: Solanum melongena white
-image: 
+image: /images/bitkiler/sutlu-patlican.jpg
 populer: false
 draft: false
 sss:

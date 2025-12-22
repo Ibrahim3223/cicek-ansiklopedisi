@@ -16,7 +16,7 @@ tags:
   - kalin-pirasa
   - sebzeler
 latince: Allium ampeloprasum thick
-image: 
+image: /images/bitkiler/kalin-pirasa.jpg
 populer: false
 draft: false
 sss:

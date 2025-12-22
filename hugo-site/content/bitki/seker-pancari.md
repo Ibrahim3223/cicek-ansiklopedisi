@@ -16,7 +16,7 @@ tags:
   - seker-pancari
   - sebzeler
 latince: Beta vulgaris sugar
-image: 
+image: /images/bitkiler/seker-pancari.jpg
 populer: false
 draft: false
 sss:

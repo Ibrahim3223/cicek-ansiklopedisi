@@ -16,7 +16,7 @@ tags:
   - hardy-nilufer
   - bahce-bitkileri
 latince: Nymphaea hardy
-image: 
+image: /images/bitkiler/hardy-nilufer.jpg
 populer: false
 draft: false
 ---
