@@ -198,14 +198,29 @@ function initScrollToTop() {
   const scrollBtn = document.getElementById('scroll-to-top');
 
   if (scrollBtn) {
-    // Show/hide based on scroll position
-    window.addEventListener('scroll', () => {
-      if (window.scrollY > 300) {
-        scrollBtn.classList.add('visible');
-      } else {
-        scrollBtn.classList.remove('visible');
+    let lastScrollTop = 0;
+    let ticking = false;
+
+    // Throttled scroll handler to prevent forced reflow
+    function handleScroll() {
+      lastScrollTop = window.scrollY;
+
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          if (lastScrollTop > 300) {
+            scrollBtn.classList.add('visible');
+          } else {
+            scrollBtn.classList.remove('visible');
+          }
+          ticking = false;
+        });
+
+        ticking = true;
       }
-    });
+    }
+
+    // Show/hide based on scroll position
+    window.addEventListener('scroll', handleScroll, { passive: true });
 
     // Scroll to top on click
     scrollBtn.addEventListener('click', () => {
@@ -256,25 +271,25 @@ function initFilters() {
       filterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
 
-      // Filter cards
-      plantCards.forEach(card => {
-        const bakim = card.dataset.bakim;
+      // Filter cards - Use class toggle instead of direct style to prevent layout thrashing
+      window.requestAnimationFrame(() => {
+        plantCards.forEach(card => {
+          const bakim = card.dataset.bakim;
+          let shouldShow = false;
 
-        if (filter === 'all') {
-          card.style.display = '';
-        } else if (filter === 'kolay' && bakim === 'kolay') {
-          card.style.display = '';
-        } else if (filter === 'orta' && bakim === 'orta') {
-          card.style.display = '';
-        } else if (filter === 'az-isik') {
-          // This would need light data
-          card.style.display = '';
-        } else if (filter === 'cok-isik') {
-          // This would need light data
-          card.style.display = '';
-        } else if (filter !== 'all' && filter !== 'az-isik' && filter !== 'cok-isik') {
-          card.style.display = 'none';
-        }
+          if (filter === 'all') {
+            shouldShow = true;
+          } else if (filter === 'kolay' && bakim === 'kolay') {
+            shouldShow = true;
+          } else if (filter === 'orta' && bakim === 'orta') {
+            shouldShow = true;
+          } else if (filter === 'az-isik' || filter === 'cok-isik') {
+            // This would need light data
+            shouldShow = true;
+          }
+
+          card.style.display = shouldShow ? '' : 'none';
+        });
       });
     });
   });
