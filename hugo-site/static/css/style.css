@@ -460,6 +460,8 @@ button {
   padding-bottom: calc(var(--spacing-20) + 80px);
   position: relative;
   overflow: hidden;
+  min-height: 500px;
+  contain: layout;
 }
 
 /* Wave Divider - Smooth Transition */
@@ -477,7 +479,7 @@ button {
   z-index: 1;
 }
 
-/* Animated Background Pattern */
+/* Animated Background Pattern - CLS Optimized */
 .hero::before {
   content: '';
   position: absolute;
@@ -488,6 +490,9 @@ button {
   background-image: radial-gradient(circle, rgba(255, 255, 255, 0.05) 2px, transparent 2px);
   background-size: 50px 50px;
   animation: backgroundMove 60s linear infinite;
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 @keyframes backgroundMove {
@@ -499,16 +504,6 @@ button {
   }
 }
 
-/* Decorative Elements */
-.hero::after {
-  content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  right: 0;
-  height: 100px;
-  background: linear-gradient(to top, var(--gray-50), transparent);
-}
 
 .hero-content {
   position: relative;
