@@ -121,3 +121,38 @@ timeout = 30000
 # Build ayarları
 [build]
   writeStats = true
+
+# Image processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+  hint = "photo"
+
+[imaging.exif]
+  disableDate = false
+  disableLatLong = true
+  includeFields = ""
+  excludeFields = ""
+
+# Security
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_"]
+  [security.http]
+    methods = ["(?i)GET|POST"]
+    urls = [".*"]
+
+# Caching
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "4h"
+  [caches.getcsv]
+    dir = ":cacheDir/:project"
+    maxAge = "4h"
+  [caches.images]
+    dir = ":cacheDir/:project"
+    maxAge = "1440h"
+  [caches.assets]
+    dir = ":cacheDir/:project"
+    maxAge = "1440h"

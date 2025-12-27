@@ -39,10 +39,12 @@
 <link rel="manifest" href="/favicons/site.webmanifest">
 <meta name="theme-color" content="#16a34a">
 
-<!-- Fonts -->
+<!-- Fonts - Optimized Loading -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet"></noscript>
 
 <!-- Styles -->
 <link rel="stylesheet" href="/css/style.css">
@@ -70,7 +72,56 @@
   "name": "{{ .Site.Title }}",
   "url": "{{ .Site.BaseURL }}",
   "logo": "{{ .Site.BaseURL }}favicons/logo.png",
-  "description": "{{ .Site.Params.description }}"
+  "description": "{{ .Site.Params.description }}",
+  "sameAs": []
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Bitki bakımında en önemli faktörler nelerdir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bitki bakımında sulama, ışık, toprak, nem ve sıcaklık en önemli faktörlerdir. Her bitkinin farklı ihtiyaçları vardır. Doğru bakım için bitkinin doğal yaşam alanını taklit etmeye çalışın."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ev bitkileri ne kadar sık sulanmalı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Her bitkinin farklı sulama ihtiyacı vardır. Genel kural olarak toprağın üst 2-3 cm'si kuruduğunda sulama yapılmalıdır. Sukulentler daha az, tropik bitkiler daha sık sulanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "En kolay bakılan ev bitkileri hangileridir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pothos, Aloe Vera, Yılan Bitkisi (Sansevieria), Zamia ve sukulentler bakımı en kolay bitkilerdir. Bu bitkiler az sulama ve dolaylı ışık ile rahatlıkla yetişir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bitkilerin yaprakları neden sararır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yaprak sararması genellikle aşırı sulama, yetersiz ışık, besin eksikliği veya kök çürümesi kaynaklıdır. Sulama programınızı ve bitkinin ışık aldığı yeri kontrol edin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ev bitkilerini ne zaman gübrelemeli?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bitkileri büyüme sezonunda (ilkbahar-yaz) aylık olarak gübrelemelisiniz. Kış aylarında çoğu bitki dinlenme dönemine girer ve gübreleme azaltılmalı veya durdurulmalıdır."
+      }
+    }
+  ]
 }
 </script>
 {{ end }}

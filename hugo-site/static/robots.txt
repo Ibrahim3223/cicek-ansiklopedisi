@@ -1,4 +1,45 @@
+# Cicek Ansiklopedisi - robots.txt
+# https://cicekansiklopedisi.com
+
 User-agent: *
 Allow: /
 
+# Sitemap
 Sitemap: https://cicekansiklopedisi.com/sitemap.xml
+
+# Arama ve filtre sayfalarini engelle (duplicate content)
+Disallow: /*?s=*
+Disallow: /*?search=*
+Disallow: /*?filter=*
+Disallow: /*?sort=*
+Disallow: /*?page=*
+
+# Admin/test sayfalari
+Disallow: /admin/
+Disallow: /test/
+
+# Ozel arama motorlari
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+# AI botlarini engelle (icerik korumasi)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
